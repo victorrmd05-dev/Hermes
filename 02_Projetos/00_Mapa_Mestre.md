@@ -4,8 +4,10 @@
 [[🧠 Skill_Anthropic_Global_Suite_V5]] — Suite de automação e auto-evolução.
 
 ## Agentes e Automações | 🤖
-[[Workflow_Camila_LangGraph.canvas]] - Fluxo de atendimento imobiliário e qualificação de leads.
-[[Workflow_Agente_Clinica.canvas]] - Sistema de agendamento médico com integração ao Google Calendar.
+- [[🤖 Skill_LangGraph_Vendedora_DNA]]   — Blueprint para conversão de fluxos n8n em agentes cíclicos com persistência de estado.
+- [[Camila_Imobiliaria]] — Instância de atendimento imobiliário e qualificação de leads.
+- [[Agente_Agendamento_Clinica]]   — Sistema de agendamento médico com integração ao Google Calendar.
+- [[ze_do_rolo_carros]] — Engine de vendas de veículos com automação de SEO.
 
 ## Interfaces e CRM | 🖥️
 [[Workflow_Dashboard_Realtime.canvas]] - Sincronização de CRM e Supabase.
@@ -28,6 +30,7 @@
 [[🧠 Skill_GStack_Executive_Suite]] - Suite executiva de Vibe Coding (CEO, CSO e Design Review) baseada no framework do Garry Tan (YC).
 
 [[Skill_Synabun_Knowledge_v1]] - Motor de processamento de documentos e estruturação de conhecimento semântico.
+[[Skill_Logic_Google_SEO_Integration]] - Integração avançada com Google Indexing API e Search Console para automação de SEO em SPAs.
 
 ## E-commerce Premium (Shopify) | 🛍️
 [[Mr_Cavalheiros]] — Loja de moda masculina de luxo. Stack: Liquid + GraphQL + SEO OnPage V5 + High-End UI V5.
@@ -52,3 +55,6 @@
 - [[🤖 Skill_LangGraph_Vendedora_DNA]]   — Blueprint para conversão de fluxos n8n em agentes cíclicos com persistência de estado.
 -  [[Camila_Imobiliaria]] — Instância de atendimento imobiliário e qualificação de leads.
 -  [[Agente_Agendamento_Clinica]]   — Sistema de agendamento médico com integração ao Google Calendar.
+
+## Projetos Recentes (Nexus Engine) | 🚀
+- [[Capinha_iPhone_LandingPage]] — Landing Page premium de acessórios Apple. Stack: High-End UI + Luxury Copy.

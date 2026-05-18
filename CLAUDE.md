@@ -1,4 +1,4 @@
-﻿# 🛡️ Nexus.AI - Alavanca AI Operating System
+# 🛡️ Nexus.AI - Alavanca AI Operating System
 
 `Diretório Raiz de Inteligência: [C:\Users\cerqu\Documents\Obsidian  work\Nexus.AI]`
 
@@ -27,6 +27,8 @@ Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
 - **Arquivos Canvas:** Devem residir SEMPRE na pasta `03_Workflows/`. NUNCA crie subpastas para arquivos `.canvas`.
 - **Novas Skills:** Devem ser registradas EXCLUSIVAMENTE na seção **🧠 Memória Evolutiva (Skills Aprendidas)** do [[00_Mapa_Mestre]] . É proibido criar novas categorias como "Projetos Recentes".
 - **Vínculos de Projeto:** Notas de projeto em `02_Projetos/` devem apontar para o Canvas em `03_Workflows/`.
+- **Sincronização Markdown/Canvas:** Sempre que uma nota em `02_Projetos` for alterada, a IA deve validar o respectivo arquivo em `03_Workflows/` (Canvas). Se houver desalinhamento de lógica, o layout do Canvas deve ser atualizado via MCP para refletir a nova realidade do Markdown.
+- **Manutenção Incremental:** Ao finalizar uma sessão de desenvolvimento ou adicionar novas notas, execute silenciosamente `python -m graphify update` para garantir que o grafo técnico esteja sempre em paridade com o sistema de arquivos.
 ---
 
 ### 🧠 Intelligence & Standards
@@ -37,6 +39,8 @@ Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
     
 - **Terminal:** Adote o comportamento de **Agente de Execução (sh)**. Use a paridade de estado do motor Python para garantir que o terminal e a IA falem a mesma língua.
     
+- **Memória Persistente:** Sempre consulte o histórico do AgentMemory para lembrar de decisões de código e arquitetura tomadas em sessões anteriores, evitando retrabalho.
+
 
 ---
 
