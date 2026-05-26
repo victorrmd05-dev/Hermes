@@ -20,7 +20,7 @@ Este repositório contém o cérebro operacional da **Alavanca AI**. Toda codifi
 ### 📂 Protocolo de Inicialização e Vínculo (Obsidian MCP)
 Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
 1. **Pasta de Projeto:** Criar a nota principal do projeto em `02_Projetos/[Nome_do_Projeto].md`.
-2. **Canvas de Arquitetura:** Criar o respectivo Canvas em `02_Projetos/Canvas/[Nome_do_Projeto].canvas`.
+2. **Canvas de Arquitetura:** Criar o respectivo Canvas em `03_Workflows/[Nome_do_Projeto].canvas`.
 3. **Vínculo de Inteligência:** A nota em `02_Projetos` deve OBRIGATORIAMENTE conter um link para a sua arquitetura (Canvas) e para as Skills Globais utilizadas (ex: Design de Luxo).
 4. **Codebase GSD:** Inicializar o projeto localmente com `/gsd-new-project` para criar o arquivo `.gsd` e o mapeamento inicial.
 
