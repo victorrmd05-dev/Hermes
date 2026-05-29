@@ -28,8 +28,6 @@ Rastrear e limitar o consumo de tokens e o custo financeiro das chamadas de API 
     
 
 ## 🔗 Links Relacionados
-    
-- [[Camila_Imobiliaria.md]]
-- [[Jarvis_Voz.md]]
-- [[Agente_Agendamento_Clinica]]
 
+- [[00_Mapa_Mestre]]
+- [[🪨 Skill Caveman Token Optimizer]]
