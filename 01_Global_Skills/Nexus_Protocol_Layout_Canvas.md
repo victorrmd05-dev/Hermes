@@ -21,5 +21,5 @@ Padronizar a correção de fluxos visuais no Obsidian Canvas, garantindo que a a
 - SEMPRE usar cores Nexus para diferenciar as camadas (Ex: Roxo para Engine, Verde para MCP, Ciano para Frontend).
 
 ## 🔗 Links Relacionados
-- [[Workflow_Jarvis_Voz.canvas]]
-- [[Jarvis_Voz.md]]
+- [[Workflow_Nexus_Brain.canvas]]
+- [[00_Mapa_Mestre]]

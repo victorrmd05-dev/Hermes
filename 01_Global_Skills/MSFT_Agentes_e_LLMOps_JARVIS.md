@@ -9,7 +9,7 @@ status: profundo
 
 > Nota profunda extraida das Licoes 14 e 17 do curriculo Microsoft GenAI.
 > **Impacto no Nexus.AI:** Mapa conceitual completo para o desenvolvimento do ecossistema JARVIS e multi-agentes.
-> Conectada a: [[Skill_Microsoft_GenAI_Curriculum]] | [[🤖 Skill_LangGraph_Vendedora_DNA]] | [[Jarvis_Voz]] | [[00_Mapa_Mestre]]
+> Conectada a: [[Skill_Microsoft_GenAI_Curriculum]] | [[🧠 Skill_Anthropic_Global_Suite_V5]] | [[00_Mapa_Mestre]]
 
 ---
 

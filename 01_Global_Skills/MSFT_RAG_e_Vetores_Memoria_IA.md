@@ -9,7 +9,7 @@ status: profundo
 
 > Nota profunda extraida das Licoes 8 e 15 do curriculo Microsoft GenAI.
 > **Impacto no Nexus.AI:** Base teorica para aprimorar o sistema de memoria do JARVIS e Camila.
-> Conectada a: [[Skill_Microsoft_GenAI_Curriculum]] | [[🤖 Skill_LangGraph_Vendedora_DNA]] | [[🛡️Conexao_Supabase]] | [[00_Mapa_Mestre]]
+> Conectada a: [[Skill_Microsoft_GenAI_Curriculum]] | [[Skill_Synabun_Knowledge_v1]] | [[00_Mapa_Mestre]]
 
 ---
 
