@@ -49,11 +49,37 @@ Este cofre não é estático; ele **aprende sozinho**. O Nexus foi projetado sob
 
 ## 🤖 Conexão via MCP (Model Context Protocol)
 
-O Nexus Core OS brilha de verdade quando conectado às suas ferramentas de trabalho automatizadas.
+O Nexus Core OS brilha de verdade quando conectado às suas ferramentas de trabalho automatizadas (Claude Desktop, Cursor, Windsurf). Para que as IAs possam ler e editar seu cofre em tempo real, usamos o protocolo MCP.
+
+O plugin **Local REST API** já vem pré-instalado neste cofre para facilitar essa conexão. Siga os passos abaixo:
+
+1. **Pegue sua Chave:** No Obsidian, vá em `Configurações` > `Local REST API` (no menu lateral esquerdo). Copie a sua **API Key**.
+2. **Ative o HTTP:** Role a página de configurações do plugin até o final e ative a opção **"Enable Non-encrypted (HTTP) Server"** para habilitar a porta de conexão local.
+3. **Configure o Servidor:** No seu agente de IA (Cursor, Claude, etc), adicione a seguinte configuração JSON no seu arquivo de MCP (substitua a chave pela sua):
+
+```json
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@calclavia/mcp-obsidian"
+      ],
+      "env": {
+        "OBSIDIAN_API_KEY": "COLE_SUA_CHAVE_AQUI",
+        "OBSIDIAN_HOST": "http://127.0.0.1:27123"
+      }
+    }
+  }
+}
+```
 
 > [!TIP]
-> **Integração com Agentes Externos**
-> Para que agentes como o **Claude Code** ou o **Cursor** ganhem acesso completo ao sistema, basta apontar o servidor **Obsidian MCP** diretamente para a raiz deste diretório (a mesma onde este arquivo se encontra). Isso permitirá que as IAs leiam, editem e analisem seu cofre em tempo real.
+> **O Caminho Mais Fácil (Prompt Mágico)**
+> Se não quiser mexer com configurações JSON manualmente, basta abrir o chat da sua IA e colar este prompt:
+> 
+> *"Configure o servidor MCP do Obsidian para mim. O plugin Local REST API já está rodando. A URL é http://127.0.0.1:27123 e a minha chave de API é [COLE_SUA_CHAVE_AQUI]. Faça a configuração no meu arquivo de MCP e me avise quando estiver pronto."*
 
 ---
 
