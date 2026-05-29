@@ -1,21 +1,21 @@
 {
 	"nodes":[
-		{"id":"482eff598fea48b8","x":-280,"y":-460,"width":400,"height":400,"color":"5","type":"file","file":"00_Engine_Claude/Elite_Claw_V3_Turbo.md"},
-		{"id":"cf9e0942088f596d","x":540,"y":-460,"width":400,"height":400,"color":"#097743","type":"file","file":"01_Global_Skills/🎨 Skill_Frontend_Design_Elite.md"},
-		{"id":"65c9b5fb005d8ea6","x":540,"y":80,"width":400,"height":400,"color":"#097743","type":"file","file":"01_Global_Skills/📊 Skill_GoogleSheets_Contacts.md"},
-		{"id":"d7ab2e6d51531eb9","x":540,"y":640,"width":400,"height":400,"color":"#097743","type":"file","file":"01_Global_Skills/🔑 Git_Multicontas.md"},
-		{"id":"674144fe9ecfd7e9","x":540,"y":1200,"width":400,"height":400,"color":"#097743","type":"file","file":"01_Global_Skills/🛡️Conexao_Supabase.md"},
-		{"id":"ea4c8302a1a176e9","x":-280,"y":640,"width":400,"height":400,"color":"5","type":"file","file":"00_Engine_Claude/Elite_Claw_Skills.md"},
-		{"id":"44c6b47eed001e00","x":-1200,"y":1000,"width":400,"height":400,"color":"#6f0c9d","type":"file","file":"01_Global_Skills/🪨 Skill Caveman Token Optimizer.md"},
-		{"id":"c2eee0cdb056d4a6","x":-1200,"y":140,"width":400,"height":500,"color":"3","type":"file","file":"CLAUDE.md"}
+		{"id":"cf9e0942088f596d","type":"file","file":"01_Global_Skills/🎨 Skill_Frontend_Design_Elite.md","x":540,"y":-460,"width":400,"height":400,"color":"#097743"},
+		{"id":"65c9b5fb005d8ea6","type":"file","file":"01_Global_Skills/📊 Skill_GoogleSheets_Contacts.md","x":540,"y":80,"width":400,"height":400,"color":"#097743"},
+		{"id":"d7ab2e6d51531eb9","type":"file","file":"01_Global_Skills/🔑 Git_Multicontas.md","x":540,"y":640,"width":400,"height":400,"color":"#097743"},
+		{"id":"674144fe9ecfd7e9","type":"file","file":"01_Global_Skills/🛡️Conexao_Supabase.md","x":540,"y":1200,"width":400,"height":400,"color":"#097743"},
+		{"id":"44c6b47eed001e00","type":"file","file":"01_Global_Skills/🪨 Skill Caveman Token Optimizer.md","x":-1200,"y":1000,"width":400,"height":400,"color":"#6f0c9d"},
+		{"id":"c2eee0cdb056d4a6","type":"file","file":"CLAUDE.md","x":-1200,"y":140,"width":400,"height":500,"color":"3"},
+		{"id":"3de69cd8d30a7aee","x":-280,"y":-460,"width":400,"height":400,"type":"file","file":"01_Global_Skills/Elite_Claw_V3_Turbo.md"},
+		{"id":"bba9693851737062","x":-280,"y":640,"width":400,"height":400,"type":"file","file":"01_Global_Skills/Elite_Claw_Skills.md"}
 	],
 	"edges":[
-		{"id":"765bc39007c40930","fromNode":"c2eee0cdb056d4a6","fromSide":"right","toNode":"482eff598fea48b8","toSide":"left"},
-		{"id":"c824e7a86f661077","fromNode":"c2eee0cdb056d4a6","fromSide":"right","toNode":"ea4c8302a1a176e9","toSide":"left"},
 		{"id":"f123efd115156494","fromNode":"c2eee0cdb056d4a6","fromSide":"bottom","toNode":"44c6b47eed001e00","toSide":"top"},
-		{"id":"d16bf7ed080b4946","fromNode":"482eff598fea48b8","fromSide":"right","toNode":"cf9e0942088f596d","toSide":"left"},
-		{"id":"bd6e7ae5b1716fa1","fromNode":"ea4c8302a1a176e9","fromSide":"right","toNode":"65c9b5fb005d8ea6","toSide":"left"},
-		{"id":"51a7e0092b964d26","fromNode":"ea4c8302a1a176e9","fromSide":"right","toNode":"d7ab2e6d51531eb9","toSide":"left"},
-		{"id":"b2d9050c1ae518b1","fromNode":"ea4c8302a1a176e9","fromSide":"right","toNode":"674144fe9ecfd7e9","toSide":"left"}
+		{"id":"c1df57e31a7413c6","fromNode":"3de69cd8d30a7aee","fromSide":"right","toNode":"cf9e0942088f596d","toSide":"left"},
+		{"id":"401824007da22d99","fromNode":"3de69cd8d30a7aee","fromSide":"left","toNode":"c2eee0cdb056d4a6","toSide":"right"},
+		{"id":"51dae9b52e29d1a5","fromNode":"bba9693851737062","fromSide":"left","toNode":"c2eee0cdb056d4a6","toSide":"right"},
+		{"id":"24cb03917542802b","fromNode":"bba9693851737062","fromSide":"right","toNode":"65c9b5fb005d8ea6","toSide":"left"},
+		{"id":"b7e168e545aa9e78","fromNode":"bba9693851737062","fromSide":"right","toNode":"d7ab2e6d51531eb9","toSide":"left"},
+		{"id":"6aa7346f79fb068d","fromNode":"bba9693851737062","fromSide":"right","toNode":"674144fe9ecfd7e9","toSide":"left"}
 	]
 }

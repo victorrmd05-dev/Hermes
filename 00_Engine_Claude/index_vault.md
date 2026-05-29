@@ -1,6 +1,30 @@
 # 🗂️ Índice de Notas Semânticas (Nexus.AI)
 
+## 🕸️ Protocolo RAG Semântico (Graphify Intelligence Layer)
+O vault possui um grafo de conhecimento gerado pelo Graphify. Este grafo transforma o cofre numa rede de intenções.
+- **Consultas Semânticas:** Sempre consulte o `graph.json` via `graphify query` antes de responder sobre o negócio.
+- **Atualização Incremental:** Após modificar documentos, rode `python -m graphify update . --force` para sincronizar.
+- **Integridade UTF-8:** Nunca propague escape sequences Unicode (ex: \uXXXX) do graphify para o Markdown.
+- **Métricas:** 1313 nós, 1206 arestas, 138 comunidades. Use os God Nodes para navegar: CLAUDE.md, Estratégias Meta Ads, Obsidian Markdown, LangGraph Vendedora, Mapa Mestre.
+
+
+## 🔧 Infraestrutura de Ingestao (claude-obsidian — Deploy 2026-05-28)
+- `.raw/` : Caixa de entrada de arquivos brutos (PDFs, planilhas, relatorios). Use `/wiki-ingest` para processar.
+- `wiki/` : Conhecimento estruturado gerado pela IA — `sources/`, `concepts/`, `entities/`, `domains/`, `meta/`.
+- `commands/` : Definicoes dos comandos `/wiki-ingest`, `/autoresearch`, `/think`, `/canvas`, `/save`.
+- `agents/` : Agentes especializados — `wiki-ingest.md`, `wiki-lint.md`, `verifier.md`.
+- `scripts/` : Scripts operacionais de rerank, retrieve, bm25-index, tiling-check.
+- `bin/` : Setup scripts (dragonscale, vault, multi-agent, retrieve).
+
+## 🧠 Microsoft GenAI Curriculum (Ingestao 2026-05-28)
+- [[Skill_Microsoft_GenAI_Curriculum]] : Indice Mestre das 21 licoes — 3 veias de ouro identificadas.
+- [[MSFT_RAG_e_Vetores_Memoria_IA]] : Pipeline RAG completo, embeddings, vector DBs, busca semantica (Aulas 8 e 15).
+- [[MSFT_Agentes_e_LLMOps_JARVIS]] : AutoGen, LangChain, TaskWeaver, JARVIS, ciclo de vida LLMOps (Aulas 14 e 17).
+- [[MSFT_Prompt_Engineering_e_UX_IA]] : Zero-shot, CoT, Self-refine, Trust, Transparency, Chat UX (Aulas 4, 5 e 12).
+
 ## 🌐 Global Skills
+- [[Elite_Claw_Skills]] : Motor Python/Claw — padroes de comando, registry, execucao estruturada.
+- [[Elite_Claw_V3_Turbo]] : Motor V3 — Post-hoc Analyzer, Comparator Agent, Grader Agent.
 - [[Nexus_Protocol_Layout_Canvas]] : Padrões de arquitetura visual e navegação.
 - [[Skill_Logic_Google_SEO_Integration]] : Integração SEO Google avançada.
 - [[Skill_Synabun_Knowledge_v1]] : Base de conhecimento do Synabun.

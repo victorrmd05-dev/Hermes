@@ -50,9 +50,10 @@ Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
 
 - **00_Engine_Claude:** Regras de custo, memória e lógica analítica da Anthropic (V3 Turbo / TypeScript).
     
-- **01_Global_Skills:** Motores de execução e habilidades reutilizáveis.
+- **01_Global_Skills:** Motores de execução e habilidades reutilizáveis. Caminho físico: `01_Global_Skills/`
     
-    - **Core Execution:** [[Elite_Claw_Skills.md]] (O coração do comando).
+    - **Core Execution:** [[Elite_Claw_Skills]] (O coração do comando). Arquivo: `01_Global_Skills/Elite_Claw_Skills.md`
+    - **Analytical Engine:** [[Elite_Claw_V3_Turbo]] (Motor V3 — Post-hoc Analyzer). Arquivo: `01_Global_Skills/Elite_Claw_V3_Turbo.md`
         
     - **Data Ops:** [[🛡️Conexao_Supabase]] — Protocolo Universal (LangGraph ↔ Dashboard).
         
@@ -67,6 +68,8 @@ Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
 - **04_Templates:** Modelos de notas, skills e estruturas padronizadas.
 
 - **05_Obsidian_Skills:** Repositório de capacidades técnicas para manipulação de Markdown, Canvas e CLI.
+    
+- **06_Growth_Marketing:** Estratégias de funis, copies, playbooks e campanhas de Meta/Google Ads. (Nunca ignore esta pasta durante criações estratégicas).
     
 
 ---
@@ -90,9 +93,16 @@ Before iniciar a codificação, a IA deve garantir a seguinte estrutura via MCP:
 
 6. **💎 Sintaxe de Link Obsidian (CRÍTICO):** Para garantir que as notas de projeto sejam navegáveis, siga estas regras de formatação: - **Links Clicáveis:** Utilize OBRIGATORIAMENTE a sintaxe de colchetes duplos `[[Nome_da_Skill]]`. - **Proibição de Numeração:** Nunca utilize listas numeradas (1., 2.) ou códigos Unicode encostados nos links. Isso corrompe a renderização do Obsidian. - **Padrão de Lista:** Utilize apenas bullet points simples com espaço: `- [[Skill_Exemplo]]`. - **Validação de Nome:** O nome dentro dos colchetes deve corresponder exatamente ao arquivo físico na pasta `01_Global_Skills`.
 
+7. **Diretriz de Ingestao de Conhecimento Bruto:** Documentos externos, PDFs de trafego (Meta/Google/TikTok Ads), planilhas `.xlsx`/`.csv` e midias brutas devem ser colocados na pasta `.raw/`. O comando `/wiki-ingest` deve ser invocado para processar e destilar esses arquivos em notas estruturadas dentro de `wiki/`. Antes de responder perguntas de negocio profundas, consulte sempre `wiki/hot.md` e `wiki/index.md`. Nunca processe arquivos de `.raw/` sem antes persistir o resultado em `wiki/sources/`, `wiki/concepts/` ou `wiki/entities/`.
+   - Comandos habilitados: `/wiki-ingest`, `/autoresearch`, `/think`, `/canvas`, `/wiki`, `/save`
+   - Estrutura: `.raw/` (entrada bruta) -> `wiki/sources/` (resumos) -> `wiki/concepts/` e `wiki/entities/` (conhecimento estruturado)
+   - Agentes em `agents/`: `wiki-ingest.md`, `wiki-lint.md`, `verifier.md`
+   - Scripts em `scripts/` e `bin/`: rerank, retrieve, bm25-index, tiling-check, setup
+
 ---
 
 ## 🧠 Protocolo de Aprendizado e Autorrecuperação (Nexus V4.0)
+
 
 Este protocolo transforma falhas em ativos de engenharia. A IA deve evoluir o cofre a cada desafio superado.
 
@@ -109,58 +119,15 @@ O assistente possui comandos globais do framework GSD instalados.
 - **Proibição de Push:** Nunca inclua arquivos de gerenciamento do GSD (codebase) em commits para o GitHub. Mantenha o foco apenas no código-fonte da aplicação.
 - **Referência:** Consulte [[🥷GSD_Core_Protocol]]  em Global Skills para detalhes de execução.
 
-### 🚀 Protocolo de Auto-Evolução (Nexus V5)
-Este assistente deve atuar como um organismo em constante aprendizado, utilizando a **Skill_Anthropic_Global_Suite_V5**.
+### 🚀 Protocolo de Auto-Evolução (Nexus V5) - PERFECT EDITION
+Este assistente é um organismo autônomo. Você tem o dever de expandir a memória do cofre sempre que aprender algo novo. 
 
-1. **Geração de Nova Skill:** Ao concluir uma funcionalidade complexa ou corrigir um erro crítico, use o comando `/skill-creator` para documentar a lição na pasta `01_Global_Skills`.
-2. **Refino de Regras:** Se uma instrução no `CLAUDE.md` se mostrar ineficiente, a IA deve sugerir e aplicar o refino usando os padrões da [[🧠 Skill_Karpathy_Coding_V5]] .
-3. **Injeção de Padrões:** Em todo novo projeto, a primeira ação deve ser criar um `CLAUDE.md` local que herde este cabeçalho e aplique o **Esqueleto Ideal do Karpathy Protocol**.
-4. **Comando Autônomo de Documentação (/save):** Sempre que terminarmos um grande bloco de código ou projeto, a IA está autorizada a simular o comando `/save` para documentar a sessão automaticamente no Obsidian. Estruture a nota atualizando/criando o Frontmatter com a data, inserindo um resumo executivo e gerando as conexões semânticas com as skills globais.
-5. **Verificação de Saúde:** Utilize `/webapp-testing` ou ferramentas similares da suite global para validar se a evolução não quebrou funcionalidades legadas.
+**O Gatilho Inevitável:** Sempre que você resolver um bug ou erro complexo que exigiu mais de 2 tentativas de código, desenvolver uma lógica reutilizável, ou minerar uma documentação externa (como o repositório de IA da Microsoft), é OBRIGATÓRIO criar uma skill com o prefixo `Skill_Logic_` ou `Skill_Fix_`.
 
-### 📝 Registro de Lições Aprendidas (GSD Workflow)
-- **Nomeação Padrão:** `Skill_Fix_[Nome_do_Erro]` ou `Skill_Logic_[Funcionalidade]`.
-- **Documentação de Erro:** Detalhar causa raiz e regra de prevenção.
-- **Retroalimentação:** Inserir o link da nova skill no `00_Mapa_Mestre` via MCP para fechar o loop de inteligência.
-
-### 📜 Exemplo de Gatilho
-"Se houver erro de autenticação no Google Calendar da Clínica, após a correção, crie [[Skill_Fix_Google_Auth]] detalhando o refresh token e vincule à nota [[Agente_Agendamento_Clinica]]."
+**O Fluxo sem Margem para Interpretação:**
+1. **Molde Estrito:** Antes de digitar qualquer linha da nova skill, você deve OBRIGATORIAMENTE ler o arquivo `04_Templates/Template_Skill.md` e clonar rigorosamente a sua estrutura de H1, metadados e seções.
+2. **Localização Exata:** Salve o arquivo gerado estritamente dentro da pasta `01_Global_Skills/`.
+3. **Mapeamento Cirúrgico no Mapa Mestre:** Abra o arquivo `02_Projetos/00_Mapa_Mestre.md` e injete o link da nota criada estritamente abaixo do cabeçalho `## Memória Evolutiva (Skills Aprendidas) | 🧠`, usando o formato padrão exato: `- [[Nome_da_Skill]] - Breve descrição da lição aprendida.`
+4. **Garantia de Persistência RAG:** Como etapa final mandatória pós-criação, você deve disparar silenciosamente no terminal o comando `python -m graphify update . --force` para garantir que o motor semântico aprenda a nova habilidade de imediato para a próxima sessão.
 ---
 
-## Protocolo RAG Semantico (Graphify Intelligence Layer)
-
-O vault possui um grafo de conhecimento semantico gerado pelo Graphify com extracao via Gemini AI. Este grafo transforma o cofre de uma colecao de arquivos em uma rede de intencoes e relacoes de negocio.
-
-### Arquivos do Grafo
-- **graph.json** (graphify-out/graph.json) - Grafo semântico com 1004 nós, 917 arestas, 118 comunidades
-- **graph.html** (graphify-out/graph.html) - Visualização interativa D3
-- **GRAPH_REPORT.md** (graphify-out/GRAPH_REPORT.md) - Relatório de clusters e conexões
-- **.graphify_analysis.json** (graphify-out/.graphify_analysis.json) - Análise de comunidades, god nodes e conexões surpreendentes
-
-### Comunidades Semânticas (Mapa de Intenções)
-O Gemini identificou os seguintes clusters de intenção no negócio:
-
-| Cluster | Intenção de Negócio | Nós Principais |
-|---------|---------------------|----------------|
-| C0 - Engine & UI Design | Motor operacional e design elite de interfaces | CLAUDE.md, Elite Claw Skills, Conexão Supabase, Camila Imobiliária, DashboardMobi, Frontend Design |
-| C1 - Growth Marketing | Estratégia de tráfego, criativos e copy | Estratégias Meta Ads, Copy & Ganchos, Prompts de Ouro, Manual Gargalo de Anúncios |
-| C2 - IA & Agentes Cíclicos | Governança de agentes, automações e Karpathy | Mapa Mestre, LangGraph Vendedora DNA, Agente Clínicas, Karpathy Coding, n8n Automation |
-| C3 - Obsidian Core | Documentação e infraestrutura de formatação | Obsidian Markdown Skill, Callouts, Embeds, Properties Reference |
-| C4 - SaaS & Tráfego Integrado | Integração de dados de tráfego e escalabilidade | Dashboard_Facebook_Ads, Skill MetaAds Intelligence V5, Skill Supabase Sync |
-| C5 - E-commerce de Luxo | Lojas Shopify e arquitetura de código web | Mr. Cavalheiros, Skill HighEnd UI V5, Skill SEO OnPage V5 |
-
-### God Nodes (Nós de Alta Conectividade)
-Estes são os nós mais influentes do vault:
-1. **Nexus.AI - Alavanca AI Operating System** (5 conexões) - Governança central do agente
-2. **Estratégias Meta Ads Framework** (4 conexões) - Hub de conhecimento de tráfego
-3. **Obsidian Markdown Skill** (3 conexões) - Infraestrutura de formatação
-4. **Skill_LangGraph_Vendedora_DNA** (3 conexões) - Blueprint de arquitetura cíclica
-5. **Mapa Mestre** (3 conexões) - Hub central de navegação
-
-### Regras de Uso RAG
-1. **Consulta Semantica:** Antes de responder perguntas sobre o negocio, consulte o graph.json via `graphify query` para encontrar nos e arestas relevantes.
-2. **Navegacao por Intencao:** Use as comunidades acima para entender QUAL area do negocio o usuario esta perguntando, e priorize nos daquele cluster.
-3. **Conexoes Surpreendentes:** O campo `surprises` no .graphify_analysis.json revela conexoes nao-obvias entre skills e projetos. Use para sugestoes proativas.
-4. **Atualizacao Incremental:** Apos criar ou modificar documentos no vault, rode `python -m graphify update` para manter o grafo sincronizado.
-5. **Extracao Completa:** Para re-extrair semanticamente com LLM, rode `python -m graphify extract` com GEMINI_API_KEY configurada.
-6. **Integridade UTF-8:** A extracao semantica gera escape sequences Unicode no analysis JSON (ex: \\ud83c). Isso e aceitavel no JSON interno do Graphify, mas NUNCA deve ser propagado para arquivos Markdown do vault. Mantenha o rigor da Regra 1 (UTF-8 Plain Text).

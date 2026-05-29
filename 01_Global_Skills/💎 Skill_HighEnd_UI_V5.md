@@ -600,4 +600,6 @@ Renault aurora           ░░░░░░░░░░          ███░░
 
 ---
 
-*💎 Skill_HighEnd_UI_V5 — Nexus Edition | Extração: Nexus/Antigravity | Vault: `awesome-design-md/_SANDBOX_DESIGN/`*
+*💎 Skill_HighEnd_UI_V5 — Nexus Edition | Extração
+
+
