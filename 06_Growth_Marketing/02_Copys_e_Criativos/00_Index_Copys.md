@@ -8,7 +8,7 @@
 - Moodboards e referências de criativos que estão convertendo
 
 > [!TIP]
-> **Dica de Elite da Alavanca AI:** O melhor copywriter não é quem escreve melhor, é quem pesquisa melhor. Foque em bater nas dores profundas e nos desejos inconfessáveis do seu cliente. Um bom "gancho" (hook) nos primeiros 3 segundos define 80% do sucesso do seu criativo em vídeo!
+> **Dica de Elite da Nexus Core OS:** O melhor copywriter não é quem escreve melhor, é quem pesquisa melhor. Foque em bater nas dores profundas e nos desejos inconfessáveis do seu cliente. Um bom "gancho" (hook) nos primeiros 3 segundos define 80% do sucesso do seu criativo em vídeo!
 
 ## Exemplo de Preenchimento (Template Base)
 

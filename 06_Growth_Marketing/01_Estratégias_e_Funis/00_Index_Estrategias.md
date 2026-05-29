@@ -8,7 +8,7 @@
 - Planilhas e documentos de distribuição de orçamento de mídia
 
 > [!TIP]
-> **Dica de Elite da Alavanca AI:** Comece mapeando a jornada do seu melhor cliente. Funis simples, mas com uma oferta irresistível, sempre batem funis complexos que não têm tração. Foque em validar a oferta (CPA aceitável) antes de focar em escalar o orçamento.
+> **Dica de Elite da Nexus Core OS:** Comece mapeando a jornada do seu melhor cliente. Funis simples, mas com uma oferta irresistível, sempre batem funis complexos que não têm tração. Foque em validar a oferta (CPA aceitável) antes de focar em escalar o orçamento.
 
 ## Exemplo de Preenchimento (Template Base)
 

@@ -8,7 +8,7 @@
 - Biblioteca pessoal de atalhos e mega-prompts de marketing
 
 > [!TIP]
-> **Dica de Elite da Alavanca AI:** As IAs generativas são tão boas quanto o contexto que você dá a elas. Em vez de pedir "escreva um anúncio para vender sapatos", use o framework de *Role-Playing*: "Aja como um copywriter sênior, especialista em e-commerce de moda, e escreva 3 ganchos focados na dor de sapatos desconfortáveis."
+> **Dica de Elite da Nexus Core OS:** As IAs generativas são tão boas quanto o contexto que você dá a elas. Em vez de pedir "escreva um anúncio para vender sapatos", use o framework de *Role-Playing*: "Aja como um copywriter sênior, especialista em e-commerce de moda, e escreva 3 ganchos focados na dor de sapatos desconfortáveis."
 
 ## Exemplo de Preenchimento (Template Base)
 

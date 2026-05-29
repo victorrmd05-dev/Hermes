@@ -16,7 +16,7 @@ status: indexado
 
 ## 🗺️ As 3 Veias de Ouro Mineradas para o Nexus.AI
 
-Este curriculo foi minerado com foco nos **3 blocos estrategicos** de maior impacto direto no ecossistema Alavanca AI:
+Este curriculo foi minerado com foco nos **3 blocos estrategicos** de maior impacto direto no ecossistema Nexus Core OS:
 
 ### BLOCO 1 — Arquiteturas RAG Avancadas (Aulas 8 e 15)
 > *"A base teorica perfeita para dar memoria real as IAs"*
@@ -86,4 +86,4 @@ Este curriculo foi minerado com foco nos **3 blocos estrategicos** de maior impa
 ---
 
 *Indexado pelo Motor de Contexto Inteligente Nexus.AI — 2026-05-28*
-*Mineracao focada nos 3 blocos de maior impacto para a Alavanca AI*
+*Mineracao focada nos 3 blocos de maior impacto para a Nexus Core OS*

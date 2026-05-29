@@ -1,4 +1,4 @@
-# ⚡ Protocolo GSD (Get Shit Done) - Alavanca AI
+# ⚡ Protocolo GSD (Get Shit Done) - Nexus Core OS
 
 Este documento define como o assistente deve utilizar os comandos globais do GSD para iniciar e gerenciar projetos.
 

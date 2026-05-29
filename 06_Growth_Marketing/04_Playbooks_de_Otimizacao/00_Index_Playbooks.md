@@ -8,7 +8,7 @@
 - Guias de escala (Como escalar o orçamento horizontalmente e verticalmente)
 
 > [!TIP]
-> **Dica de Elite da Alavanca AI:** O tráfego não é sobre "acertar de primeira", é sobre comprar dados de forma inteligente. Siga a regra de ouro da otimização: teste apenas UMA variável por vez (ex: mesmo copy, criativos diferentes). Se você mudar o criativo e o público ao mesmo tempo, não saberá o que causou o sucesso (ou a falha).
+> **Dica de Elite da Nexus Core OS:** O tráfego não é sobre "acertar de primeira", é sobre comprar dados de forma inteligente. Siga a regra de ouro da otimização: teste apenas UMA variável por vez (ex: mesmo copy, criativos diferentes). Se você mudar o criativo e o público ao mesmo tempo, não saberá o que causou o sucesso (ou a falha).
 
 ## Exemplo de Preenchimento (Template Base)
 

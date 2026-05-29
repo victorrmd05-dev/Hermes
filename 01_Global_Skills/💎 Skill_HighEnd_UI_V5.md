@@ -9,7 +9,7 @@
 
 | # | Pilar | Marcas-âncora | Aplicação-alvo |
 |---|-------|---------------|----------------|
-| 1 | [Visual Luxo](#1-visual-luxo) | BMW · Ferrari · Lamborghini · SpaceX · Tesla | Mr. Cavalheiros |
+| 1 | [Visual Luxo](#1-visual-luxo) | BMW · Ferrari · Lamborghini · SpaceX · Tesla | Nexus Luxury |
 | 2 | [Minimalismo Tech](#2-minimalismo-tech) | Apple · Vercel · Resend · Replicate | Dashboard Ads |
 | 3 | [UX de Engajamento](#3-ux-de-engajamento) | Spotify · Airbnb · Uber · Lovable | Ambos |
 | 4 | [Trust & Clarity](#4-trust--clarity) | Wise · Supabase · Minimax · Nvidia · Renault | Dashboard Ads |
@@ -401,7 +401,7 @@ ARQUÉTIPO 3: SPLIT LAYOUT (BMW/Vercel/Resend)
 
 ### 📊 Pontuação por Projeto
 
-#### MR. CAVALHEIROS (E-commerce de Moda Masculina Premium)
+#### Nexus Luxury (E-commerce de Moda Masculina Premium)
 
 | Pilar Design | Marca-referência | Score | Recomendação |
 |---|---|---|---|
@@ -412,7 +412,7 @@ ARQUÉTIPO 3: SPLIT LAYOUT (BMW/Vercel/Resend)
 | Trust Signal | Wise (adaptado) | **7/10** | Stars + avaliações + badge "verificado" — adaptar paleta para gold |
 | Navegação | Uber (adaptado) | **8/10** | Navbar minimal sticky com backdrop-blur sobre foto |
 
-**Nota Geral — Mr. Cavalheiros:** `⭐ 9.0/10 — ALTAMENTE APLICÁVEL`
+**Nota Geral — Nexus Luxury:** `⭐ 9.0/10 — ALTAMENTE APLICÁVEL`
 
 > **Estratégia recomendada:** Stack Ferrari (chiaroscuro editorial) + Lamborghini (gold accent + uppercase) + Tesla (near-zero UI) = identidade "Ultra-Luxo Editorial" que posiciona o produto como investimento, não compra.
 
@@ -441,7 +441,7 @@ ARQUÉTIPO 3: SPLIT LAYOUT (BMW/Vercel/Resend)
 ### 🔁 Matriz de Cruzamento — O Que Usar Onde
 
 ```
-                    MR. CAVALHEIROS    DASHBOARD ADS
+                    Nexus Luxury    DASHBOARD ADS
 Ferrari chiaroscuro      ████████░░          ░░░░░░░░░░
 Lamborghini gold         █████████░          ░░░░░░░░░░
 BMW dark surfaces        ███████░░░          ███████░░░
@@ -466,7 +466,7 @@ Renault aurora           ░░░░░░░░░░          ███░░
 
 ## 8. CSS QUICK-START — IMPLEMENTAÇÃO IMEDIATA
 
-### Para Mr. Cavalheiros (Luxo Editorial)
+### Para Nexus Luxury (Luxo Editorial)
 
 ```css
 :root {
