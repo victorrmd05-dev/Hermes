@@ -25,4 +25,4 @@ Integração avançada entre uma Single Page Application (React/Vite) e o ecossi
 - Credenciais OAuth no `.env` não devem ter o prefixo `VITE_` para evitar exposição no client-side.
 
 ---
-*Vínculo de Inteligência: [[02_Projetos/00_Mapa_Mestre]]*
+*Vínculo de Inteligência: [[00_Mapa_Mestre]]*
