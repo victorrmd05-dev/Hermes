@@ -1,4 +1,12 @@
 {
+  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\apply_descriptions.py": {
+    "mtime": 1781612963.7414112,
+    "hash": "a674b06b2849886ca6dbee5ec547774e"
+  },
+  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\dump_skills.py": {
+    "mtime": 1781612927.3330474,
+    "hash": "df64fa850f383d440239cea84791e4dc"
+  },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\standardize_skills.py": {
     "mtime": 1781612802.4716103,
     "hash": "db31be2a8fb85f8e4ea62c2d66080469"
@@ -24,96 +32,96 @@
     "hash": "0357b5fc58c7fbcc1fa7c09949a352a8"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\Nexus_Protocol_Layout_Canvas.md": {
-    "mtime": 1781612761.58456,
-    "hash": "53665fcc81804b44c8ebe20f8bbbc48b"
+    "mtime": 1781612974.6087382,
+    "hash": "a32188059d5079093c994dbb545fdca8"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\Skill_DragonScale_Context.md": {
-    "mtime": 1781612761.585566,
-    "hash": "b68696d06385d4e0449b0632ee94c5a4"
+    "mtime": 1781612974.6087382,
+    "hash": "8f876f2048985a1d9f7a7612342c9c25"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\Skill_Logic_Google_SEO_Integration.md": {
-    "mtime": 1781612761.585566,
-    "hash": "fdfee09c279980b3f7abc8e20133e9a7"
+    "mtime": 1781612974.6097398,
+    "hash": "6a5543b41e5d422e7bf205342816acc0"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\Skill_Synabun_Knowledge_v1.md": {
-    "mtime": 1781612761.5865715,
-    "hash": "d03960698f33804efb7a072a2e42416f"
+    "mtime": 1781612974.61075,
+    "hash": "6e05bfb61b3ddbdc8f228c8aa616e762"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\u26a1Elite_Claw_Skills.md": {
-    "mtime": 1781612761.5865715,
-    "hash": "ad5d85c498dd766e05781e1a03a8dd29"
+    "mtime": 1781612974.61075,
+    "hash": "77614ef33f70e28faf2de219a7774482"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\u26a1Elite_Claw_V3_Turbo.md": {
-    "mtime": 1781612818.123037,
-    "hash": "f1cd98a8b7215e6c081e99dbb1672536"
+    "mtime": 1781612974.6117475,
+    "hash": "16767f1c52d90a9652a462d16fd931a3"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\u2705 Skill_SEO_OnPage_V5.md": {
-    "mtime": 1781612818.123037,
-    "hash": "65f961805184ab099a8feb1666ba4fef"
+    "mtime": 1781612974.612745,
+    "hash": "2d8db5621329a472e0698262aceb8cd8"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83c\udfa8 Skill_Frontend_Design_Elite.md": {
-    "mtime": 1781612818.123037,
-    "hash": "fae6741b18680d5bd8673d3a008a3180"
+    "mtime": 1781612974.612745,
+    "hash": "2b163fe381cdc8c2da756a23f4db96a9"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83c\udfafSkill_MetaAds_Intelligence_V5.md": {
     "mtime": 1780032687.0625007,
     "hash": "2a69a5436e158834e4be2765cebd901b"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udc8e Skill_HighEnd_UI_V5.md": {
-    "mtime": 1781612818.1245437,
-    "hash": "5f8141016f40b538941dee25baf44fc3"
+    "mtime": 1781612974.613746,
+    "hash": "cd17d85a01db698c32d3d48066deafd2"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udcc9 Monitoramento_de_Custos_Claude.md": {
-    "mtime": 1781612818.1255534,
-    "hash": "ef827e9c199d0df1abea9e9df3ca8798"
+    "mtime": 1781612974.613746,
+    "hash": "8d3ac52ef0d2f65fe07608a05d48209b"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udd12 Skill_Security_V5.md": {
-    "mtime": 1781612818.1255534,
-    "hash": "a7cbe1e12ba46944d12187548cf676a9"
+    "mtime": 1781612974.6147456,
+    "hash": "4d55d712e8c4df6dfd044933d853b607"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udd8b\ufe0f Skill_Luxury_Copywriting_V5.md": {
-    "mtime": 1781612818.1265528,
-    "hash": "de6ba1bc8ae800557f4f8c1ffe21dd5b"
+    "mtime": 1781612974.6147456,
+    "hash": "a4efa55f1490888d56a5ff3908d3468d"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md": {
-    "mtime": 1781612818.1275506,
-    "hash": "e9b227b0db6f092af70e34d1c73f68b3"
+    "mtime": 1781612974.6157455,
+    "hash": "76f2f41a37868777983c96b88abe1cfd"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udecd\ufe0f Skill_Performance_V5.md": {
-    "mtime": 1781612818.1275506,
-    "hash": "e1823b22878f5dc80084edf0d9028998"
+    "mtime": 1781612974.6157455,
+    "hash": "4a41ae52047ee8b6aa537b6d0d023e80"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md": {
-    "mtime": 1781612818.1275506,
-    "hash": "e48f1de74dedc8d5a5f46f01065d2092"
+    "mtime": 1781612974.6157455,
+    "hash": "4b12e513cce435726b504989f7c49ae9"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83d\udecd\ufe0f Skill_Shopify_GraphQL_V5.md": {
-    "mtime": 1781612818.1285496,
-    "hash": "a0a36bd113c776a342ca7d731281f114"
+    "mtime": 1781612974.616746,
+    "hash": "a182eb46c6fde8011ab08459f591580c"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\udd77GSD_Core_Protocol.md": {
-    "mtime": 1781612818.1343162,
-    "hash": "508484351745306bfc1d3e53d799ae70"
+    "mtime": 1781612974.616746,
+    "hash": "ae04905412c1a02c5c1ed50e41e8ed62"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md": {
-    "mtime": 1781612818.1353242,
-    "hash": "7085edd1e7b1db6e88c872e91d0e688a"
+    "mtime": 1781612974.616746,
+    "hash": "1002ffe432eb58dec8e779ae294b3aaf"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\udde0 Skill_Claude_Design_Elite_V5.md": {
-    "mtime": 1781612818.1363282,
-    "hash": "3add48dc01b4e8e8b2e6c69c183839ee"
+    "mtime": 1781612974.617746,
+    "hash": "377dbb580eebee5e0b4e33c2b75ae439"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\udde0 Skill_GStack_Executive_Suite.md": {
-    "mtime": 1781612818.137325,
-    "hash": "317ad7e926499cc45bcaa6f482e210e7"
+    "mtime": 1781612974.617746,
+    "hash": "4814f333714ae15649a6d545471ae4c6"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\udde0 Skill_Karpathy_Coding_V5.md": {
-    "mtime": 1781612818.138771,
-    "hash": "d4384a1507243d1b2c255ea447e70d59"
+    "mtime": 1781612974.617746,
+    "hash": "aefb5c259e47b12d4e89dee83d518900"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\01_Global_Skills\\\ud83e\uddfc Skill_Clean_Code_V5.md": {
-    "mtime": 1781612818.1392791,
-    "hash": "49ea764368b803e49dcccaaae6428ee1"
+    "mtime": 1781612974.6187453,
+    "hash": "24b1a3553839353bde46c1fadc153651"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\02_Projetos\\00_Index_Projetos.md": {
     "mtime": 1780042605.327792,
@@ -198,6 +206,10 @@
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\agents\\wiki-lint.md": {
     "mtime": 1780016798.833908,
     "hash": "dd137fe4800a8f9ed3e723d16fb3a593"
+  },
+  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\data\\skills_dump.txt": {
+    "mtime": 1781612938.777464,
+    "hash": "f77ca8b85555f5e37457686a3a8f30d6"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\wiki\\01_Alavanca_AI_Blueprint_e_Agentes.md": {
     "mtime": 1781612272.4576764,

@@ -4,6 +4,51 @@
   "graph": {},
   "nodes": [
     {
+      "label": "apply_descriptions.py",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L1",
+      "id": "scripts_apply_descriptions_py",
+      "community": 131,
+      "norm_label": "apply_descriptions.py"
+    },
+    {
+      "label": "process_file()",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L33",
+      "id": "scripts_apply_descriptions_process_file",
+      "community": 131,
+      "norm_label": "process_file()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L48",
+      "id": "scripts_apply_descriptions_main",
+      "community": 131,
+      "norm_label": "main()"
+    },
+    {
+      "label": "dump_skills.py",
+      "file_type": "code",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L1",
+      "id": "scripts_dump_skills_py",
+      "community": 136,
+      "norm_label": "dump_skills.py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L7",
+      "id": "scripts_dump_skills_main",
+      "community": 136,
+      "norm_label": "main()"
+    },
+    {
       "label": "standardize_skills.py",
       "file_type": "code",
       "source_file": "scripts/standardize_skills.py",
@@ -396,7 +441,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_00_engine_claude_index_vault_md",
-      "community": 42,
+      "community": 41,
       "norm_label": "index_vault.md"
     },
     {
@@ -405,7 +450,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L1",
       "id": "00_engine_claude_index_vault_ndice_de_notas_sem_nticas_nexus_core_os",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83d\uddc2\ufe0f indice de notas semanticas (nexus core os)"
     },
     {
@@ -414,7 +459,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L3",
       "id": "00_engine_claude_index_vault_protocolo_rag_sem_ntico_graphify_intelligence_layer",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83d\udd78\ufe0f protocolo rag semantico (graphify intelligence layer)"
     },
     {
@@ -423,7 +468,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L11",
       "id": "00_engine_claude_index_vault_infraestrutura_de_ingestao_claude_obsidian_deploy_2026_05_28",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83d\udd27 infraestrutura de ingestao (claude-obsidian \u2014 deploy 2026-05-28)"
     },
     {
@@ -432,7 +477,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L20",
       "id": "00_engine_claude_index_vault_global_skills",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83c\udf10 global skills"
     },
     {
@@ -441,7 +486,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Engine_Claude/index_vault.md",
       "source_location": "L45",
       "id": "00_engine_claude_index_vault_navega_o_central",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83e\udded navegacao central"
     },
     {
@@ -630,7 +675,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_synabun_knowledge_v1_md",
-      "community": 29,
+      "community": 31,
       "norm_label": "skill_synabun_knowledge_v1.md"
     },
     {
@@ -639,7 +684,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_synabun_knowledge_v1_skill_synabun_knowledge",
-      "community": 29,
+      "community": 31,
       "norm_label": "skill synabun knowledge | \ud83e\udde0"
     },
     {
@@ -648,7 +693,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L13",
       "id": "01_global_skills_skill_synabun_knowledge_v1_1_document_processing_engine_markdown_splitting",
-      "community": 29,
+      "community": 31,
       "norm_label": "1. document processing engine (markdown splitting)"
     },
     {
@@ -657,7 +702,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L17",
       "id": "01_global_skills_skill_synabun_knowledge_v1_core_logic_neural_interface_lib_session_chunker_js",
-      "community": 29,
+      "community": 31,
       "norm_label": "core logic: `neural-interface/lib/session-chunker.js`"
     },
     {
@@ -666,7 +711,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L31",
       "id": "01_global_skills_skill_synabun_knowledge_v1_2_metadata_logic_for_semantic_search",
-      "community": 29,
+      "community": 31,
       "norm_label": "2. metadata logic for semantic search"
     },
     {
@@ -675,7 +720,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L35",
       "id": "01_global_skills_skill_synabun_knowledge_v1_metadata_schema_mcp_server_src_services_sqlite_ts",
-      "community": 29,
+      "community": 31,
       "norm_label": "metadata schema: `mcp-server/src/services/sqlite.ts`"
     },
     {
@@ -684,7 +729,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L44",
       "id": "01_global_skills_skill_synabun_knowledge_v1_search_scoring_mcp_server_src_tools_recall_ts",
-      "community": 29,
+      "community": 31,
       "norm_label": "search scoring: `mcp-server/src/tools/recall.ts`"
     },
     {
@@ -693,7 +738,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L52",
       "id": "01_global_skills_skill_synabun_knowledge_v1_3_knowledge_structuring_system_prompts",
-      "community": 29,
+      "community": 31,
       "norm_label": "3. knowledge structuring system prompts"
     },
     {
@@ -702,7 +747,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L56",
       "id": "01_global_skills_skill_synabun_knowledge_v1_key_prompt_skills_synabun_modules_memorize_md",
-      "community": 29,
+      "community": 31,
       "norm_label": "key prompt: `skills/synabun/modules/memorize.md`"
     },
     {
@@ -711,7 +756,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L67",
       "id": "01_global_skills_skill_synabun_knowledge_v1_key_prompt_skills_synabun_modules_audit_md",
-      "community": 29,
+      "community": 31,
       "norm_label": "key prompt: `skills/synabun/modules/audit.md`"
     },
     {
@@ -720,7 +765,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L73",
       "id": "01_global_skills_skill_synabun_knowledge_v1_4_technical_architecture_notes",
-      "community": 29,
+      "community": 31,
       "norm_label": "4. technical architecture notes"
     },
     {
@@ -990,7 +1035,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_seo_onpage_v5_md",
-      "community": 25,
+      "community": 42,
       "norm_label": "\u2705 skill_seo_onpage_v5.md"
     },
     {
@@ -999,7 +1044,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_seo_onpage_v5_skill_seo_onpage_v5_nexus_seo_engine",
-      "community": 25,
+      "community": 42,
       "norm_label": "skill_seo_onpage_v5 \u2014 nexus seo engine"
     },
     {
@@ -1305,7 +1350,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L222",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_7_estrutura_obrigat_ria_da_p_gina",
-      "community": 25,
+      "community": 42,
       "norm_label": "modulo 7 \u2014 estrutura obrigatoria da pagina"
     },
     {
@@ -1314,7 +1359,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L224",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_9",
-      "community": 25,
+      "community": 42,
       "norm_label": "code:block9 ([0] ai summary nugget (200 chars max))"
     },
     {
@@ -1323,7 +1368,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L277",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_8_verification_tags_system",
-      "community": 25,
+      "community": 42,
       "norm_label": "modulo 8 \u2014 verification tags system"
     },
     {
@@ -1332,7 +1377,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L289",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_9_quality_checklist_38_itens_threshold_30_38",
-      "community": 25,
+      "community": 132,
       "norm_label": "modulo 9 \u2014 quality checklist (38 itens \u2014 threshold 30/38)"
     },
     {
@@ -1341,7 +1386,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L291",
       "id": "01_global_skills_skill_seo_onpage_v5_critical_pass_fail_primeiros_24",
-      "community": 25,
+      "community": 132,
       "norm_label": "critical pass/fail (primeiros 24)"
     },
     {
@@ -1350,7 +1395,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L307",
       "id": "01_global_skills_skill_seo_onpage_v5_advanced_checks_25_38",
-      "community": 25,
+      "community": 132,
       "norm_label": "advanced checks (25-38)"
     },
     {
@@ -1359,7 +1404,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L321",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_10_banned_patterns_2026",
-      "community": 25,
+      "community": 42,
       "norm_label": "modulo 10 \u2014 banned patterns (2026)"
     },
     {
@@ -1368,7 +1413,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L323",
       "id": "01_global_skills_skill_seo_onpage_v5_nunca_fazer",
-      "community": 25,
+      "community": 42,
       "norm_label": "nunca fazer:"
     },
     {
@@ -1458,7 +1503,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L413",
       "id": "01_global_skills_skill_seo_onpage_v5_refer_ncias_r_pidas",
-      "community": 25,
+      "community": 42,
       "norm_label": "referencias rapidas"
     },
     {
@@ -1467,7 +1512,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L415",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_14",
-      "community": 25,
+      "community": 42,
       "norm_label": "code:bash (# testar sem api keys)"
     },
     {
@@ -1827,7 +1872,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_highend_ui_v5_md",
-      "community": 106,
+      "community": 107,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5.md"
     },
     {
@@ -1836,7 +1881,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_highend_ui_v5_skill_highend_ui_v5_elite_design_language_extraction",
-      "community": 106,
+      "community": 107,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5 \u2014 elite design language extraction"
     },
     {
@@ -1845,7 +1890,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L14",
       "id": "01_global_skills_skill_highend_ui_v5_ndice_r_pido",
-      "community": 106,
+      "community": 107,
       "norm_label": "\ud83d\udcd1 indice rapido"
     },
     {
@@ -1854,7 +1899,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L25",
       "id": "01_global_skills_skill_highend_ui_v5_1_visual_luxo",
-      "community": 61,
+      "community": 62,
       "norm_label": "1. visual luxo"
     },
     {
@@ -1863,7 +1908,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L28",
       "id": "01_global_skills_skill_highend_ui_v5_ferrari",
-      "community": 61,
+      "community": 62,
       "norm_label": "\ud83c\udfce\ufe0f ferrari"
     },
     {
@@ -1872,7 +1917,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L36",
       "id": "01_global_skills_skill_highend_ui_v5_lamborghini",
-      "community": 61,
+      "community": 62,
       "norm_label": "\ud83d\udc02 lamborghini"
     },
     {
@@ -1881,7 +1926,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L43",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_1",
-      "community": 61,
+      "community": 62,
       "norm_label": "code:css (--bg-primary: #000000;)"
     },
     {
@@ -1890,7 +1935,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L50",
       "id": "01_global_skills_skill_highend_ui_v5_bmw",
-      "community": 61,
+      "community": 62,
       "norm_label": "\ud83d\ude97 bmw"
     },
     {
@@ -1899,7 +1944,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L58",
       "id": "01_global_skills_skill_highend_ui_v5_spacex",
-      "community": 61,
+      "community": 62,
       "norm_label": "\ud83d\ude80 spacex"
     },
     {
@@ -1908,7 +1953,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L66",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_2",
-      "community": 61,
+      "community": 62,
       "norm_label": "code:css (--bg: #000000;)"
     },
     {
@@ -1917,7 +1962,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L74",
       "id": "01_global_skills_skill_highend_ui_v5_tesla",
-      "community": 61,
+      "community": 62,
       "norm_label": "\u26a1 tesla"
     },
     {
@@ -2133,7 +2178,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L259",
       "id": "01_global_skills_skill_highend_ui_v5_5_tokens_universais_de_elite",
-      "community": 62,
+      "community": 61,
       "norm_label": "5. tokens universais de elite"
     },
     {
@@ -2142,7 +2187,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L262",
       "id": "01_global_skills_skill_highend_ui_v5_paletas_extra_das_por_categoria",
-      "community": 62,
+      "community": 61,
       "norm_label": "paletas extraidas por categoria"
     },
     {
@@ -2151,7 +2196,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L264",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_10",
-      "community": 62,
+      "community": 61,
       "norm_label": "code:css (/* \u2500\u2500 luxo automotivo \u2500\u2500 */)"
     },
     {
@@ -2160,7 +2205,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L295",
       "id": "01_global_skills_skill_highend_ui_v5_tipografia_de_elite_por_categoria",
-      "community": 62,
+      "community": 61,
       "norm_label": "tipografia de elite por categoria"
     },
     {
@@ -2169,7 +2214,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L304",
       "id": "01_global_skills_skill_highend_ui_v5_sombras_e_eleva_o_padr_o",
-      "community": 62,
+      "community": 61,
       "norm_label": "sombras e elevacao padrao"
     },
     {
@@ -2178,7 +2223,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L306",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_11",
-      "community": 62,
+      "community": 61,
       "norm_label": "code:css (/* nivel 1 \u2014 sutil (apple, wise) */)"
     },
     {
@@ -2187,7 +2232,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L321",
       "id": "01_global_skills_skill_highend_ui_v5_border_radius_por_personalidade",
-      "community": 62,
+      "community": 61,
       "norm_label": "border radius por personalidade"
     },
     {
@@ -2196,7 +2241,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L323",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_12",
-      "community": 62,
+      "community": 61,
       "norm_label": "code:css (--radius-zero:    0px;       /* spacex, tesla \u2014 zero concess)"
     },
     {
@@ -2205,7 +2250,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L334",
       "id": "01_global_skills_skill_highend_ui_v5_6_padr_es_de_componente_extra_dos",
-      "community": 107,
+      "community": 106,
       "norm_label": "6. padroes de componente extraidos"
     },
     {
@@ -2214,7 +2259,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L336",
       "id": "01_global_skills_skill_highend_ui_v5_hero_section_3_arqu_tipos",
-      "community": 107,
+      "community": 106,
       "norm_label": "hero section \u2014 3 arquetipos"
     },
     {
@@ -2223,7 +2268,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L338",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_13",
-      "community": 107,
+      "community": 106,
       "norm_label": "code:block13 (arquetipo 1: cinematic (ferrari/spacex/tesla))"
     },
     {
@@ -2232,7 +2277,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L366",
       "id": "01_global_skills_skill_highend_ui_v5_card_pattern_dna_de_cada_marca",
-      "community": 107,
+      "community": 106,
       "norm_label": "card pattern \u2014 dna de cada marca"
     },
     {
@@ -2241,7 +2286,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L368",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_14",
-      "community": 107,
+      "community": 106,
       "norm_label": "code:css (/* spotify card \u2014 dark immersive */)"
     },
     {
@@ -2349,7 +2394,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L584",
       "id": "01_global_skills_skill_highend_ui_v5_9_fontes_refer_ncias",
-      "community": 106,
+      "community": 107,
       "norm_label": "9. fontes & referencias"
     },
     {
@@ -2682,7 +2727,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L50",
       "id": "01_global_skills_skill_liquid_mastery_v5_objetos_globais",
-      "community": 35,
+      "community": 34,
       "norm_label": "\ud83c\udf0d objetos globais"
     },
     {
@@ -2691,7 +2736,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L52",
       "id": "01_global_skills_skill_liquid_mastery_v5_shop_request",
-      "community": 35,
+      "community": 34,
       "norm_label": "shop & request"
     },
     {
@@ -2700,7 +2745,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L53",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_4",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ shop.name }} {{ shop.email }} {{ shop.domain }})"
     },
     {
@@ -2709,7 +2754,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L60",
       "id": "01_global_skills_skill_liquid_mastery_v5_produto",
-      "community": 35,
+      "community": 34,
       "norm_label": "produto"
     },
     {
@@ -2718,7 +2763,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L61",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_5",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ product.title }} {{ product.description }} {{ product.ven)"
     },
     {
@@ -2727,7 +2772,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L76",
       "id": "01_global_skills_skill_liquid_mastery_v5_collection",
-      "community": 35,
+      "community": 34,
       "norm_label": "collection"
     },
     {
@@ -2736,7 +2781,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L77",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_6",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ collection.title }} {{ collection.products_count }})"
     },
     {
@@ -2745,7 +2790,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L87",
       "id": "01_global_skills_skill_liquid_mastery_v5_cart",
-      "community": 35,
+      "community": 34,
       "norm_label": "cart"
     },
     {
@@ -2754,7 +2799,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L88",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_7",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ cart.item_count }} {{ cart.total_price | money }})"
     },
     {
@@ -2763,7 +2808,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L96",
       "id": "01_global_skills_skill_liquid_mastery_v5_customer",
-      "community": 35,
+      "community": 34,
       "norm_label": "customer"
     },
     {
@@ -2772,7 +2817,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L97",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_8",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({% if customer %})"
     },
     {
@@ -2781,7 +2826,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L108",
       "id": "01_global_skills_skill_liquid_mastery_v5_filtros_essenciais",
-      "community": 36,
+      "community": 35,
       "norm_label": "\ud83d\udd27 filtros essenciais"
     },
     {
@@ -2790,7 +2835,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L110",
       "id": "01_global_skills_skill_liquid_mastery_v5_string",
-      "community": 36,
+      "community": 35,
       "norm_label": "string"
     },
     {
@@ -2799,7 +2844,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L111",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_9",
-      "community": 36,
+      "community": 35,
       "norm_label": "code:liquid ({{ 'hello' | upcase }}        \u2192 hello)"
     },
     {
@@ -2808,7 +2853,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L120",
       "id": "01_global_skills_skill_liquid_mastery_v5_n_mero_dinheiro",
-      "community": 36,
+      "community": 35,
       "norm_label": "numero / dinheiro"
     },
     {
@@ -2817,7 +2862,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L121",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_10",
-      "community": 36,
+      "community": 35,
       "norm_label": "code:liquid ({{ 4.567 | round: 2 }}       \u2192 4.57)"
     },
     {
@@ -2826,7 +2871,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L129",
       "id": "01_global_skills_skill_liquid_mastery_v5_array",
-      "community": 36,
+      "community": 35,
       "norm_label": "array"
     },
     {
@@ -2835,7 +2880,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L130",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_11",
-      "community": 36,
+      "community": 35,
       "norm_label": "code:liquid ({{ array | first }} | {{ array | last }} | {{ array | size })"
     },
     {
@@ -2844,7 +2889,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L138",
       "id": "01_global_skills_skill_liquid_mastery_v5_imagem_moderna_recomendada",
-      "community": 36,
+      "community": 35,
       "norm_label": "imagem (moderna \u2014 recomendada)"
     },
     {
@@ -2853,7 +2898,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L139",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_12",
-      "community": 36,
+      "community": 35,
       "norm_label": "code:liquid ({{ image | image_url: width: 800 }})"
     },
     {
@@ -2862,7 +2907,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L152",
       "id": "01_global_skills_skill_liquid_mastery_v5_url",
-      "community": 36,
+      "community": 35,
       "norm_label": "url"
     },
     {
@@ -2871,7 +2916,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L153",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_13",
-      "community": 36,
+      "community": 35,
       "norm_label": "code:liquid ({{ 'style.css' | asset_url | stylesheet_tag }})"
     },
     {
@@ -3942,7 +3987,7 @@
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L1",
       "id": "01_global_skills_gsd_core_protocol_md",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83e\udd77gsd_core_protocol.md"
     },
     {
@@ -3951,7 +3996,7 @@
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L7",
       "id": "01_global_skills_gsd_core_protocol_protocolo_gsd_get_shit_done_nexus_core_os",
-      "community": 63,
+      "community": 67,
       "norm_label": "\u26a1 protocolo gsd (get shit done) - nexus core os"
     },
     {
@@ -3960,7 +4005,7 @@
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L11",
       "id": "01_global_skills_gsd_core_protocol_in_cio_de_novos_projetos",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83d\ude80 inicio de novos projetos"
     },
     {
@@ -3969,7 +4014,7 @@
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L17",
       "id": "01_global_skills_gsd_core_protocol_regra_de_ouro_de_seguran_a_n_o_enviar_ao_github",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83d\udee1\ufe0f regra de ouro de seguranca (nao enviar ao github)"
     },
     {
@@ -3978,7 +4023,7 @@
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L21",
       "id": "01_global_skills_gsd_core_protocol_integra_o_com_nexus",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83d\udcc2 integracao com nexus"
     },
     {
@@ -4509,7 +4554,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_karpathy_coding_v5_md",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83e\udde0 skill_karpathy_coding_v5.md"
     },
     {
@@ -4518,7 +4563,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L16",
       "id": "01_global_skills_skill_karpathy_coding_v5_1_mentalidade_pense_antes_de_codar_gatilhos_de_clarifica_o",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83d\uded1 1. mentalidade \"pense antes de codar\" (gatilhos de clarificacao)"
     },
     {
@@ -4527,7 +4572,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L27",
       "id": "01_global_skills_skill_karpathy_coding_v5_2_protocolos_de_edi_o_cir_rgica_anti_bloat",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83d\udd2a 2. protocolos de edicao cirurgica (anti-bloat)"
     },
     {
@@ -4536,7 +4581,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L38",
       "id": "01_global_skills_skill_karpathy_coding_v5_3_protocolos_anti_alucina_o_execu_o_baseada_em_metas",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83d\udee1\ufe0f 3. protocolos anti-alucinacao (execucao baseada em metas)"
     },
     {
@@ -4545,7 +4590,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L53",
       "id": "01_global_skills_skill_karpathy_coding_v5_4_esqueleto_ideal_do_claude_md",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83d\udc80 4. esqueleto ideal do claude.md"
     },
     {
@@ -4554,7 +4599,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L56",
       "id": "01_global_skills_skill_karpathy_coding_v5_codeblock_1",
-      "community": 82,
+      "community": 80,
       "norm_label": "code:markdown (# diretrizes de comportamento (karpathy protocol))"
     },
     {
@@ -4725,7 +4770,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_04_templates_template_skill_md",
-      "community": 64,
+      "community": 63,
       "norm_label": "template_skill.md"
     },
     {
@@ -4734,7 +4779,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L1",
       "id": "04_templates_template_skill_nome_da_skill",
-      "community": 64,
+      "community": 63,
       "norm_label": "[nome da skill]"
     },
     {
@@ -4743,7 +4788,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L3",
       "id": "04_templates_template_skill_objetivo",
-      "community": 64,
+      "community": 63,
       "norm_label": "\ud83c\udfaf objetivo"
     },
     {
@@ -4752,7 +4797,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L6",
       "id": "04_templates_template_skill_pr_requisitos",
-      "community": 64,
+      "community": 63,
       "norm_label": "\ud83d\udee0\ufe0f pre-requisitos"
     },
     {
@@ -4761,7 +4806,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L10",
       "id": "04_templates_template_skill_workflow_passo_a_passo",
-      "community": 64,
+      "community": 63,
       "norm_label": "\ud83d\udcdd workflow (passo a passo)"
     },
     {
@@ -4770,7 +4815,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L14",
       "id": "04_templates_template_skill_regras_e_restri_es",
-      "community": 64,
+      "community": 63,
       "norm_label": "\u26a0\ufe0f regras e restricoes"
     },
     {
@@ -4779,7 +4824,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/04_Templates/Template_Skill.md",
       "source_location": "L18",
       "id": "04_templates_template_skill_links_relacionados",
-      "community": 64,
+      "community": 63,
       "norm_label": "\ud83d\udd17 links relacionados"
     },
     {
@@ -4788,7 +4833,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_05_obsidian_skills_defuddle_skill_md",
-      "community": 65,
+      "community": 64,
       "norm_label": "skill.md"
     },
     {
@@ -4797,7 +4842,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L6",
       "id": "defuddle_skill_defuddle",
-      "community": 65,
+      "community": 64,
       "norm_label": "defuddle"
     },
     {
@@ -4806,7 +4851,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L12",
       "id": "defuddle_skill_usage",
-      "community": 65,
+      "community": 64,
       "norm_label": "usage"
     },
     {
@@ -4815,7 +4860,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L16",
       "id": "defuddle_skill_codeblock_1",
-      "community": 65,
+      "community": 64,
       "norm_label": "code:bash (defuddle parse <url> --md)"
     },
     {
@@ -4824,7 +4869,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L22",
       "id": "defuddle_skill_codeblock_2",
-      "community": 65,
+      "community": 64,
       "norm_label": "code:bash (defuddle parse <url> --md -o content.md)"
     },
     {
@@ -4833,7 +4878,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L28",
       "id": "defuddle_skill_codeblock_3",
-      "community": 65,
+      "community": 64,
       "norm_label": "code:bash (defuddle parse <url> -p title)"
     },
     {
@@ -4842,7 +4887,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L34",
       "id": "defuddle_skill_output_formats",
-      "community": 65,
+      "community": 64,
       "norm_label": "output formats"
     },
     {
@@ -5103,7 +5148,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_05_obsidian_skills_defuddle_json_canvas_references_examples_md",
-      "community": 37,
+      "community": 36,
       "norm_label": "examples.md"
     },
     {
@@ -5112,7 +5157,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L1",
       "id": "references_examples_json_canvas_complete_examples",
-      "community": 37,
+      "community": 36,
       "norm_label": "json canvas complete examples"
     },
     {
@@ -5121,7 +5166,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L3",
       "id": "references_examples_simple_canvas_with_text_and_connections",
-      "community": 37,
+      "community": 36,
       "norm_label": "simple canvas with text and connections"
     },
     {
@@ -5130,7 +5175,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L5",
       "id": "references_examples_codeblock_1",
-      "community": 37,
+      "community": 36,
       "norm_label": "code:json ({)"
     },
     {
@@ -5139,7 +5184,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L55",
       "id": "references_examples_project_board_with_groups",
-      "community": 37,
+      "community": 36,
       "norm_label": "project board with groups"
     },
     {
@@ -5148,7 +5193,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L57",
       "id": "references_examples_codeblock_2",
-      "community": 37,
+      "community": 36,
       "norm_label": "code:json ({)"
     },
     {
@@ -5157,7 +5202,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L123",
       "id": "references_examples_research_canvas_with_files_and_links",
-      "community": 37,
+      "community": 36,
       "norm_label": "research canvas with files and links"
     },
     {
@@ -5166,7 +5211,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L125",
       "id": "references_examples_codeblock_3",
-      "community": 37,
+      "community": 36,
       "norm_label": "code:json ({)"
     },
     {
@@ -5175,7 +5220,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L214",
       "id": "references_examples_flowchart",
-      "community": 37,
+      "community": 36,
       "norm_label": "flowchart"
     },
     {
@@ -5184,7 +5229,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L216",
       "id": "references_examples_codeblock_4",
-      "community": 37,
+      "community": 36,
       "norm_label": "code:json ({)"
     },
     {
@@ -5193,7 +5238,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_05_obsidian_skills_defuddle_obsidian_bases_skill_md",
-      "community": 26,
+      "community": 25,
       "norm_label": "skill.md"
     },
     {
@@ -5202,7 +5247,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L6",
       "id": "obsidian_bases_skill_obsidian_bases_skill",
-      "community": 26,
+      "community": 25,
       "norm_label": "obsidian bases skill"
     },
     {
@@ -5211,7 +5256,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L8",
       "id": "obsidian_bases_skill_workflow",
-      "community": 26,
+      "community": 25,
       "norm_label": "workflow"
     },
     {
@@ -5220,7 +5265,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L17",
       "id": "obsidian_bases_skill_schema",
-      "community": 26,
+      "community": 25,
       "norm_label": "schema"
     },
     {
@@ -5229,7 +5274,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L21",
       "id": "obsidian_bases_skill_codeblock_1",
-      "community": 26,
+      "community": 25,
       "norm_label": "code:yaml (# global filters apply to all views in the base)"
     },
     {
@@ -5310,7 +5355,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L150",
       "id": "obsidian_bases_skill_formula_syntax",
-      "community": 26,
+      "community": 25,
       "norm_label": "formula syntax"
     },
     {
@@ -5319,7 +5364,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L154",
       "id": "obsidian_bases_skill_codeblock_3",
-      "community": 26,
+      "community": 25,
       "norm_label": "code:yaml (formulas:)"
     },
     {
@@ -5454,7 +5499,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L269",
       "id": "obsidian_bases_skill_default_summary_formulas",
-      "community": 26,
+      "community": 25,
       "norm_label": "default summary formulas"
     },
     {
@@ -5463,7 +5508,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L289",
       "id": "obsidian_bases_skill_complete_examples",
-      "community": 80,
+      "community": 81,
       "norm_label": "complete examples"
     },
     {
@@ -5472,7 +5517,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L291",
       "id": "obsidian_bases_skill_task_tracker_base",
-      "community": 80,
+      "community": 81,
       "norm_label": "task tracker base"
     },
     {
@@ -5481,7 +5526,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L293",
       "id": "obsidian_bases_skill_codeblock_10",
-      "community": 80,
+      "community": 81,
       "norm_label": "code:yaml (filters:)"
     },
     {
@@ -5490,7 +5535,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L340",
       "id": "obsidian_bases_skill_reading_list_base",
-      "community": 80,
+      "community": 81,
       "norm_label": "reading list base"
     },
     {
@@ -5499,7 +5544,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L342",
       "id": "obsidian_bases_skill_codeblock_11",
-      "community": 80,
+      "community": 81,
       "norm_label": "code:yaml (filters:)"
     },
     {
@@ -5508,7 +5553,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L385",
       "id": "obsidian_bases_skill_daily_notes_index",
-      "community": 80,
+      "community": 81,
       "norm_label": "daily notes index"
     },
     {
@@ -5517,7 +5562,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L387",
       "id": "obsidian_bases_skill_codeblock_12",
-      "community": 80,
+      "community": 81,
       "norm_label": "code:yaml (filters:)"
     },
     {
@@ -5526,7 +5571,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L414",
       "id": "obsidian_bases_skill_embedding_bases",
-      "community": 26,
+      "community": 25,
       "norm_label": "embedding bases"
     },
     {
@@ -5535,7 +5580,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L418",
       "id": "obsidian_bases_skill_codeblock_13",
-      "community": 26,
+      "community": 25,
       "norm_label": "code:markdown (![[mybase.base]])"
     },
     {
@@ -5544,7 +5589,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L425",
       "id": "obsidian_bases_skill_yaml_quoting_rules",
-      "community": 26,
+      "community": 25,
       "norm_label": "yaml quoting rules"
     },
     {
@@ -5553,7 +5598,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L431",
       "id": "obsidian_bases_skill_troubleshooting",
-      "community": 66,
+      "community": 65,
       "norm_label": "troubleshooting"
     },
     {
@@ -5562,7 +5607,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L433",
       "id": "obsidian_bases_skill_yaml_syntax_errors",
-      "community": 66,
+      "community": 65,
       "norm_label": "yaml syntax errors"
     },
     {
@@ -5571,7 +5616,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L437",
       "id": "obsidian_bases_skill_codeblock_14",
-      "community": 66,
+      "community": 65,
       "norm_label": "code:yaml (# wrong - colon in unquoted string)"
     },
     {
@@ -5580,7 +5625,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L447",
       "id": "obsidian_bases_skill_codeblock_15",
-      "community": 66,
+      "community": 65,
       "norm_label": "code:yaml (# wrong - double quotes inside double quotes)"
     },
     {
@@ -5589,7 +5634,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L457",
       "id": "obsidian_bases_skill_common_formula_errors",
-      "community": 66,
+      "community": 65,
       "norm_label": "common formula errors"
     },
     {
@@ -5598,7 +5643,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L461",
       "id": "obsidian_bases_skill_codeblock_16",
-      "community": 66,
+      "community": 65,
       "norm_label": "code:yaml (# wrong - duration is not a number)"
     },
     {
@@ -5607,7 +5652,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L471",
       "id": "obsidian_bases_skill_codeblock_17",
-      "community": 66,
+      "community": 65,
       "norm_label": "code:yaml (# wrong - crashes if due_date is empty)"
     },
     {
@@ -5616,7 +5661,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L481",
       "id": "obsidian_bases_skill_codeblock_18",
-      "community": 66,
+      "community": 65,
       "norm_label": "code:yaml (# this will fail silently if 'total' is not defined in formu)"
     },
     {
@@ -5625,7 +5670,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L491",
       "id": "obsidian_bases_skill_references",
-      "community": 26,
+      "community": 25,
       "norm_label": "references"
     },
     {
@@ -6228,7 +6273,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_05_obsidian_skills_defuddle_obsidian_markdown_references_callouts_md",
-      "community": 30,
+      "community": 28,
       "norm_label": "callouts.md"
     },
     {
@@ -6237,7 +6282,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
       "id": "references_callouts_callouts_reference",
-      "community": 30,
+      "community": 28,
       "norm_label": "callouts reference"
     },
     {
@@ -6246,7 +6291,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L3",
       "id": "references_callouts_basic_callout",
-      "community": 30,
+      "community": 28,
       "norm_label": "basic callout"
     },
     {
@@ -6255,7 +6300,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L5",
       "id": "references_callouts_codeblock_1",
-      "community": 30,
+      "community": 28,
       "norm_label": "code:markdown (> [!note])"
     },
     {
@@ -6264,7 +6309,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L15",
       "id": "references_callouts_foldable_callouts",
-      "community": 30,
+      "community": 28,
       "norm_label": "foldable callouts"
     },
     {
@@ -6273,7 +6318,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L17",
       "id": "references_callouts_codeblock_2",
-      "community": 30,
+      "community": 28,
       "norm_label": "code:markdown (> [!faq]- collapsed by default)"
     },
     {
@@ -6282,7 +6327,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L25",
       "id": "references_callouts_nested_callouts",
-      "community": 30,
+      "community": 28,
       "norm_label": "nested callouts"
     },
     {
@@ -6291,7 +6336,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L27",
       "id": "references_callouts_codeblock_3",
-      "community": 30,
+      "community": 28,
       "norm_label": "code:markdown (> [!question] outer callout)"
     },
     {
@@ -6300,7 +6345,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L33",
       "id": "references_callouts_supported_callout_types",
-      "community": 30,
+      "community": 28,
       "norm_label": "supported callout types"
     },
     {
@@ -6309,7 +6354,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L51",
       "id": "references_callouts_custom_callouts_css",
-      "community": 30,
+      "community": 28,
       "norm_label": "custom callouts (css)"
     },
     {
@@ -6318,7 +6363,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L53",
       "id": "references_callouts_codeblock_4",
-      "community": 30,
+      "community": 28,
       "norm_label": "code:css (.callout[data-callout=\"custom-type\"] {)"
     },
     {
@@ -6777,7 +6822,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_agents_verifier_md",
-      "community": 38,
+      "community": 37,
       "norm_label": "verifier.md"
     },
     {
@@ -6786,7 +6831,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L32",
       "id": "agents_verifier_when_invoked",
-      "community": 38,
+      "community": 37,
       "norm_label": "when invoked"
     },
     {
@@ -6795,7 +6840,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L44",
       "id": "agents_verifier_your_process",
-      "community": 38,
+      "community": 37,
       "norm_label": "your process"
     },
     {
@@ -6804,7 +6849,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L55",
       "id": "agents_verifier_six_cut_checklist_verify_each_cut_per_file",
-      "community": 38,
+      "community": 37,
       "norm_label": "six-cut checklist (verify each cut, per file)"
     },
     {
@@ -6813,7 +6858,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L76",
       "id": "agents_verifier_specifically_check_for_in_every_workstream",
-      "community": 38,
+      "community": 37,
       "norm_label": "specifically check for in every workstream"
     },
     {
@@ -6822,7 +6867,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L116",
       "id": "agents_verifier_tier_definitions",
-      "community": 38,
+      "community": 37,
       "norm_label": "tier definitions"
     },
     {
@@ -6831,7 +6876,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L125",
       "id": "agents_verifier_output_format",
-      "community": 38,
+      "community": 37,
       "norm_label": "output format"
     },
     {
@@ -6840,7 +6885,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L127",
       "id": "agents_verifier_codeblock_1",
-      "community": 38,
+      "community": 37,
       "norm_label": "code:block1 (verdict: ship / hold-fix-first / needs-rework)"
     },
     {
@@ -6849,7 +6894,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L156",
       "id": "agents_verifier_what_you_are_not",
-      "community": 38,
+      "community": 37,
       "norm_label": "what you are not"
     },
     {
@@ -6858,7 +6903,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/verifier.md",
       "source_location": "L165",
       "id": "agents_verifier_reference",
-      "community": 38,
+      "community": 37,
       "norm_label": "reference"
     },
     {
@@ -6867,7 +6912,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_agents_wiki_ingest_md",
-      "community": 31,
+      "community": 29,
       "norm_label": "wiki-ingest.md"
     },
     {
@@ -6876,7 +6921,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L26",
       "id": "agents_wiki_ingest_your_process",
-      "community": 31,
+      "community": 29,
       "norm_label": "your process"
     },
     {
@@ -6885,7 +6930,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L39",
       "id": "agents_wiki_ingest_mode_awareness_v1_8_consult_the_router_before_writing",
-      "community": 31,
+      "community": 29,
       "norm_label": "mode awareness (v1.8+): consult the router before writing"
     },
     {
@@ -6894,7 +6939,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L43",
       "id": "agents_wiki_ingest_codeblock_1",
-      "community": 31,
+      "community": 29,
       "norm_label": "code:bash (python3 scripts/wiki-mode.py route <type> \"<name>\")"
     },
     {
@@ -6903,7 +6948,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L58",
       "id": "agents_wiki_ingest_concurrency_v1_7_per_file_locks_required_for_page_writes",
-      "community": 31,
+      "community": 29,
       "norm_label": "concurrency (v1.7+): per-file locks required for page writes"
     },
     {
@@ -6912,7 +6957,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L62",
       "id": "agents_wiki_ingest_codeblock_2",
-      "community": 31,
+      "community": 29,
       "norm_label": "code:bash (bash scripts/wiki-lock.sh acquire wiki/sources/<slug>.md || )"
     },
     {
@@ -6921,7 +6966,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L73",
       "id": "agents_wiki_ingest_dragonscale_address_assignment_still_single_writer_at_the_allocator",
-      "community": 31,
+      "community": 29,
       "norm_label": "dragonscale address assignment (still single-writer at the allocator)"
     },
     {
@@ -6930,7 +6975,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L85",
       "id": "agents_wiki_ingest_post_ingestion_cleanup_mandatory",
-      "community": 31,
+      "community": 29,
       "norm_label": "post-ingestion cleanup (mandatory)"
     },
     {
@@ -6939,7 +6984,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L88",
       "id": "agents_wiki_ingest_do_not",
-      "community": 31,
+      "community": 29,
       "norm_label": "do not"
     },
     {
@@ -6948,7 +6993,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L96",
       "id": "agents_wiki_ingest_output_format",
-      "community": 31,
+      "community": 29,
       "norm_label": "output format"
     },
     {
@@ -6957,7 +7002,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L100",
       "id": "agents_wiki_ingest_codeblock_3",
-      "community": 31,
+      "community": 29,
       "norm_label": "code:block3 (source: [title])"
     },
     {
@@ -6966,7 +7011,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_agents_wiki_lint_md",
-      "community": 81,
+      "community": 82,
       "norm_label": "wiki-lint.md"
     },
     {
@@ -6975,7 +7020,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L25",
       "id": "agents_wiki_lint_your_process",
-      "community": 81,
+      "community": 82,
       "norm_label": "your process"
     },
     {
@@ -6984,7 +7029,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L40",
       "id": "agents_wiki_lint_dragonscale_feature_detection",
-      "community": 81,
+      "community": 82,
       "norm_label": "dragonscale feature detection"
     },
     {
@@ -6993,7 +7038,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L44",
       "id": "agents_wiki_lint_codeblock_1",
-      "community": 81,
+      "community": 82,
       "norm_label": "code:bash ([ -x ./scripts/allocate-address.sh ] && [ -f ./.vault-meta/a)"
     },
     {
@@ -7002,7 +7047,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L53",
       "id": "agents_wiki_lint_output",
-      "community": 81,
+      "community": 82,
       "norm_label": "output"
     },
     {
@@ -7011,7 +7056,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-lint.md",
       "source_location": "L58",
       "id": "agents_wiki_lint_codeblock_2",
-      "community": 81,
+      "community": 82,
       "norm_label": "code:block2 (## summary)"
     },
     {
@@ -7164,7 +7209,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L1",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_md",
-      "community": 32,
+      "community": 30,
       "norm_label": "03_infraestrutura_e_integracao_hermes.md"
     },
     {
@@ -7173,7 +7218,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L6",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_infraestrutura_vps_e_integra_o_hermes_paperclip",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83d\udda5\ufe0f infraestrutura vps e integracao hermes + paperclip"
     },
     {
@@ -7182,7 +7227,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L10",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_1_objetivo_da_integra_o",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83c\udfaf 1. objetivo da integracao"
     },
     {
@@ -7191,7 +7236,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L16",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_2_infraestrutura_e_hospedagem",
-      "community": 32,
+      "community": 30,
       "norm_label": "\u2601\ufe0f 2. infraestrutura e hospedagem"
     },
     {
@@ -7200,7 +7245,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L26",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_3_status_dos_componentes_100_operacionais",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83d\udfe2 3. status dos componentes (100% operacionais)"
     },
     {
@@ -7209,7 +7254,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L28",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_hermes_agent",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83e\udd16 hermes agent"
     },
     {
@@ -7218,7 +7263,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L33",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_paperclip",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83d\udcce paperclip"
     },
     {
@@ -7227,7 +7272,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L40",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_4_o_fluxo_de_integra_o_mcp",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83d\udd04 4. o fluxo de integracao mcp"
     },
     {
@@ -7236,7 +7281,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L44",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_fluxo_invertido_hermes_como_iniciador",
-      "community": 32,
+      "community": 30,
       "norm_label": "fluxo \"invertido\" (hermes como iniciador)"
     },
     {
@@ -7245,7 +7290,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L50",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_servidor_mcp_ativo",
-      "community": 32,
+      "community": 30,
       "norm_label": "servidor mcp ativo"
     },
     {
@@ -7254,7 +7299,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L58",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_5_ferramentas_e_atalhos_teis",
-      "community": 32,
+      "community": 30,
       "norm_label": "\ud83d\udee0\ufe0f 5. ferramentas e atalhos uteis"
     },
     {
@@ -7263,7 +7308,7 @@
       "source_file": "wiki/03_Infraestrutura_e_Integracao_Hermes.md",
       "source_location": "L65",
       "id": "wiki_03_infraestrutura_e_integracao_hermes_codeblock_1",
-      "community": 32,
+      "community": 30,
       "norm_label": "code:bash (paperclip \"titulo da sua tarefa aqui\" \"descricao estendida e)"
     },
     {
@@ -7272,7 +7317,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_wiki_getting_started_md",
-      "community": 27,
+      "community": 26,
       "norm_label": "getting-started.md"
     },
     {
@@ -7281,7 +7326,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L17",
       "id": "wiki_getting_started_getting_started_with_claude_obsidian",
-      "community": 27,
+      "community": 26,
       "norm_label": "getting started with claude-obsidian"
     },
     {
@@ -7290,7 +7335,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L25",
       "id": "wiki_getting_started_three_step_quick_start",
-      "community": 27,
+      "community": 26,
       "norm_label": "three-step quick start"
     },
     {
@@ -7299,7 +7344,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L27",
       "id": "wiki_getting_started_1_drop_a_source",
-      "community": 27,
+      "community": 26,
       "norm_label": "1. drop a source"
     },
     {
@@ -7308,7 +7353,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L33",
       "id": "wiki_getting_started_2_ingest_it",
-      "community": 27,
+      "community": 26,
       "norm_label": "2. ingest it"
     },
     {
@@ -7317,7 +7362,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L37",
       "id": "wiki_getting_started_codeblock_1",
-      "community": 27,
+      "community": 26,
       "norm_label": "code:block1 (ingest [filename])"
     },
     {
@@ -7326,7 +7371,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L43",
       "id": "wiki_getting_started_3_ask_questions",
-      "community": 27,
+      "community": 26,
       "norm_label": "3. ask questions"
     },
     {
@@ -7335,7 +7380,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L45",
       "id": "wiki_getting_started_codeblock_2",
-      "community": 27,
+      "community": 26,
       "norm_label": "code:block2 (what do you know about [topic]?)"
     },
     {
@@ -7344,7 +7389,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L53",
       "id": "wiki_getting_started_how_the_hot_cache_works",
-      "community": 27,
+      "community": 26,
       "norm_label": "how the hot cache works"
     },
     {
@@ -7353,7 +7398,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L63",
       "id": "wiki_getting_started_your_first_ingest_walkthrough",
-      "community": 27,
+      "community": 26,
       "norm_label": "your first ingest \u2014 walkthrough"
     },
     {
@@ -7362,7 +7407,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L76",
       "id": "wiki_getting_started_key_commands",
-      "community": 27,
+      "community": 26,
       "norm_label": "key commands"
     },
     {
@@ -7371,7 +7416,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/getting-started.md",
       "source_location": "L89",
       "id": "wiki_getting_started_navigate_the_vault",
-      "community": 27,
+      "community": 26,
       "norm_label": "navigate the vault"
     },
     {
@@ -7749,7 +7794,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_wiki_overview_md",
-      "community": 67,
+      "community": 66,
       "norm_label": "overview.md"
     },
     {
@@ -7758,7 +7803,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L19",
       "id": "wiki_overview_wiki_overview",
-      "community": 67,
+      "community": 66,
       "norm_label": "wiki overview"
     },
     {
@@ -7767,7 +7812,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L25",
       "id": "wiki_overview_purpose",
-      "community": 67,
+      "community": 66,
       "norm_label": "purpose"
     },
     {
@@ -7776,7 +7821,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L33",
       "id": "wiki_overview_current_seed_content",
-      "community": 67,
+      "community": 66,
       "norm_label": "current seed content"
     },
     {
@@ -7785,7 +7830,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L49",
       "id": "wiki_overview_current_state",
-      "community": 67,
+      "community": 66,
       "norm_label": "current state"
     },
     {
@@ -7794,7 +7839,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L57",
       "id": "wiki_overview_canvases",
-      "community": 67,
+      "community": 66,
       "norm_label": "canvases"
     },
     {
@@ -7803,7 +7848,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/wiki/overview.md",
       "source_location": "L64",
       "id": "wiki_overview_key_themes",
-      "community": 67,
+      "community": 66,
       "norm_label": "key themes"
     },
     {
@@ -7820,7 +7865,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L1",
-      "community": 25,
+      "community": 42,
       "norm_label": "\u2705 skill_seo_onpage_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_seo_onpage_v5_md"
     },
@@ -7838,7 +7883,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L1",
-      "community": 106,
+      "community": 107,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_01_global_skills_skill_highend_ui_v5_md"
     },
@@ -7919,7 +7964,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L1",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83e\udd77gsd_core_protocol.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_01_global_skills_gsd_core_protocol_md"
     },
@@ -7955,7 +8000,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
       "source_location": "L1",
-      "community": 82,
+      "community": 80,
       "norm_label": "\ud83e\udde0 skill_karpathy_coding_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_karpathy_coding_v5_md"
     },
@@ -8000,7 +8045,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L1",
-      "community": 29,
+      "community": 31,
       "norm_label": "skill_synabun_knowledge_v1.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_synabun_knowledge_v1_md"
     },
@@ -8216,7 +8261,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/index_vault.md",
       "source_location": "L1",
-      "community": 42,
+      "community": 41,
       "norm_label": "index_vault.md",
       "id": "00_engine_claude_index_vault_md"
     },
@@ -8270,7 +8315,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/index_vault.md",
       "source_location": "L19",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83e\udde0 microsoft genai curriculum (ingestao 2026-05-28)",
       "id": "00_engine_claude_index_vault_microsoft_genai_curriculum_ingestao_2026_05_28"
     },
@@ -9332,7 +9377,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/index_vault.md",
       "source_location": "L1",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83d\uddc2\ufe0f indice de notas semanticas (nexus.ai)",
       "id": "00_engine_claude_index_vault_ndice_de_notas_sem_nticas_nexus_ai"
     },
@@ -9341,7 +9386,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/index_vault.md",
       "source_location": "L49",
-      "community": 42,
+      "community": 41,
       "norm_label": "\ud83d\ude80 projetos ativos",
       "id": "00_engine_claude_index_vault_projetos_ativos"
     },
@@ -9431,7 +9476,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L1",
-      "community": 63,
+      "community": 67,
       "norm_label": "\ud83e\udd77gsd_core_protocol.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_gsd_core_protocol_md"
     },
@@ -9440,7 +9485,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
       "source_location": "L1",
-      "community": 63,
+      "community": 67,
       "norm_label": "\u26a1 protocolo gsd (get shit done) - alavanca ai",
       "id": "01_global_skills_gsd_core_protocol_protocolo_gsd_get_shit_done_alavanca_ai"
     },
@@ -9494,7 +9539,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L1",
-      "community": 33,
+      "community": 32,
       "norm_label": "auditoria_autoevolucao.md",
       "id": "auditoria_autoevolucao_md"
     },
@@ -9503,7 +9548,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L1",
-      "community": 33,
+      "community": 32,
       "norm_label": "auditoria de auto-evolucao e criacao de skills (nexus.ai)",
       "id": "nexus_ai_auditoria_autoevolucao_auditoria_de_auto_evolu_o_e_cria_o_de_skills_nexus_ai"
     },
@@ -9512,7 +9557,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L11",
-      "community": 33,
+      "community": 32,
       "norm_label": "\ud83d\udd2c estado atual do protocolo de auto-evolucao",
       "id": "nexus_ai_auditoria_autoevolucao_estado_atual_do_protocolo_de_auto_evolu_o"
     },
@@ -9521,7 +9566,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L18",
-      "community": 33,
+      "community": 32,
       "norm_label": "o que ja esta excelente (nivel elite):",
       "id": "nexus_ai_auditoria_autoevolucao_o_que_j_est_excelente_n_vel_elite"
     },
@@ -9530,7 +9575,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L25",
-      "community": 33,
+      "community": 32,
       "norm_label": "\u26a0\ufe0f pontas soltas: onde a auto-evolucao pode quebrar",
       "id": "nexus_ai_auditoria_autoevolucao_pontas_soltas_onde_a_auto_evolu_o_pode_quebrar"
     },
@@ -9539,7 +9584,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L29",
-      "community": 33,
+      "community": 32,
       "norm_label": "gargalo 1: falta de vinculacao com o template",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_1_falta_de_vincula_o_com_o_template"
     },
@@ -9548,7 +9593,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L34",
-      "community": 33,
+      "community": 32,
       "norm_label": "gargalo 2: injecao \"cega\" no mapa mestre",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_2_inje_o_cega_no_mapa_mestre"
     },
@@ -9557,7 +9602,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L39",
-      "community": 33,
+      "community": 32,
       "norm_label": "gargalo 3: amnesia pos-criacao (o problema do graphify)",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_3_amn_sia_p_s_cria_o_o_problema_do_graphify"
     },
@@ -9566,7 +9611,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L44",
-      "community": 33,
+      "community": 32,
       "norm_label": "gargalo 4: a regra do gatilho e subjetiva",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_4_a_regra_do_gatilho_subjetiva"
     },
@@ -9575,7 +9620,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L50",
-      "community": 33,
+      "community": 32,
       "norm_label": "\ud83d\udee0\ufe0f a sugestao de refatoracao (para copiar e colar no `claude.md`)",
       "id": "nexus_ai_auditoria_autoevolucao_a_sugest_o_de_refatora_o_para_copiar_e_colar_no_claude_md"
     },
@@ -9584,7 +9629,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L54",
-      "community": 33,
+      "community": 32,
       "norm_label": "code:markdown (### \ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect editio)",
       "id": "nexus_ai_auditoria_autoevolucao_codeblock_1"
     },
@@ -9593,7 +9638,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L67",
-      "community": 33,
+      "community": 32,
       "norm_label": "\ud83c\udfc1 conclusao",
       "id": "nexus_ai_auditoria_autoevolucao_conclus_o"
     },
@@ -9602,7 +9647,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L1",
-      "community": 39,
+      "community": 38,
       "norm_label": "auditoria_cofre.md",
       "id": "auditoria_cofre_md"
     },
@@ -9611,7 +9656,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L1",
-      "community": 39,
+      "community": 38,
       "norm_label": "auditoria do cofre nexus.ai (obsidian)",
       "id": "nexus_ai_auditoria_cofre_auditoria_do_cofre_nexus_ai_obsidian"
     },
@@ -9620,7 +9665,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L5",
-      "community": 39,
+      "community": 38,
       "norm_label": "\ud83c\udfc6 pontos fortes e positivos",
       "id": "nexus_ai_auditoria_cofre_pontos_fortes_e_positivos"
     },
@@ -9629,7 +9674,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L13",
-      "community": 39,
+      "community": 38,
       "norm_label": "\ud83e\udd16 navegabilidade: qualquer ia consegue entender e extrair tudo?",
       "id": "nexus_ai_auditoria_cofre_navegabilidade_qualquer_ia_consegue_entender_e_extrair_tudo"
     },
@@ -9638,7 +9683,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L24",
-      "community": 39,
+      "community": 38,
       "norm_label": "\ud83d\udd0e pontas soltas e oportunidades de melhoria (insights)",
       "id": "nexus_ai_auditoria_cofre_pontas_soltas_e_oportunidades_de_melhoria_insights"
     },
@@ -9647,7 +9692,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L28",
-      "community": 39,
+      "community": 38,
       "norm_label": "1. sincronizacao do grafo (graphify) nao e 100% autonoma",
       "id": "nexus_ai_auditoria_cofre_1_sincroniza_o_do_grafo_graphify_n_o_100_aut_noma"
     },
@@ -9656,7 +9701,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L33",
-      "community": 39,
+      "community": 38,
       "norm_label": "2. sobrecarga do `claude.md`",
       "id": "nexus_ai_auditoria_cofre_2_sobrecarga_do_claude_md"
     },
@@ -9665,7 +9710,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L38",
-      "community": 39,
+      "community": 38,
       "norm_label": "3. integracao do diretorio `06_growth_marketing`",
       "id": "nexus_ai_auditoria_cofre_3_integra_o_do_diret_rio_06_growth_marketing"
     },
@@ -9674,7 +9719,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L43",
-      "community": 39,
+      "community": 38,
       "norm_label": "4. gestao de arquivos brutos (`.raw/`)",
       "id": "nexus_ai_auditoria_cofre_4_gest_o_de_arquivos_brutos_raw"
     },
@@ -9683,7 +9728,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L48",
-      "community": 39,
+      "community": 38,
       "norm_label": "5. dependencia de mcp",
       "id": "nexus_ai_auditoria_cofre_5_depend_ncia_de_mcp"
     },
@@ -9692,7 +9737,7 @@
       "file_type": "document",
       "source_file": "Auditoria_Cofre.md",
       "source_location": "L54",
-      "community": 39,
+      "community": 38,
       "norm_label": "\ud83d\udca1 veredito",
       "id": "nexus_ai_auditoria_cofre_veredito"
     },
@@ -10250,7 +10295,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L1",
-      "community": 40,
+      "community": 39,
       "norm_label": "\ud83e\udd16 skill_langgraph_vendedora_dna.md",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_md"
     },
@@ -10259,7 +10304,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L1",
-      "community": 40,
+      "community": 39,
       "norm_label": "\ud83e\udd16 skill_langgraph_vendedora_dna.md",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_skill_langgraph_vendedora_dna_md"
     },
@@ -10268,7 +10313,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L7",
-      "community": 40,
+      "community": 39,
       "norm_label": "1. arquitetura: do linear (n8n) ao ciclico (langgraph)",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_1_arquitetura_do_linear_n8n_ao_c_clico_langgraph"
     },
@@ -10277,7 +10322,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L11",
-      "community": 40,
+      "community": 39,
       "norm_label": "mapeamento de nodos principais:",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_mapeamento_de_nodos_principais"
     },
@@ -10286,7 +10331,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L22",
-      "community": 40,
+      "community": 39,
       "norm_label": "2. state management (a memoria vital)",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_2_state_management_a_mem_ria_vital"
     },
@@ -10295,7 +10340,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L26",
-      "community": 40,
+      "community": 39,
       "norm_label": "estrutura do dna do estado:",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_estrutura_do_dna_do_estado"
     },
@@ -10304,7 +10349,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L37",
-      "community": 40,
+      "community": 39,
       "norm_label": "3. execucao de ferramentas e isolamento de raciocinio",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_3_execu_o_de_ferramentas_e_isolamento_de_racioc_nio"
     },
@@ -10313,7 +10358,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L41",
-      "community": 40,
+      "community": 39,
       "norm_label": "o padrao \"reason-before-action\":",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_o_padr_o_reason_before_action"
     },
@@ -10322,7 +10367,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L46",
-      "community": 40,
+      "community": 39,
       "norm_label": "fabrica de ferramentas (factory):",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_f_brica_de_ferramentas_factory"
     },
@@ -10331,7 +10376,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L51",
-      "community": 40,
+      "community": 39,
       "norm_label": "4. sincronizacao de kanban (o \"lugar de verdade\")",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_4_sincroniza_o_de_kanban_o_lugar_de_verdade"
     },
@@ -10340,7 +10385,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
       "source_location": "L60",
-      "community": 40,
+      "community": 39,
       "norm_label": "5. resumo de conversao (n8n \u2192 langgraph)",
       "id": "01_global_skills_skill_langgraph_vendedora_dna_5_resumo_de_convers_o_n8n_langgraph"
     },
@@ -10646,7 +10691,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Dashboard_Facebook_Ads.md",
       "source_location": "L1",
-      "community": 131,
+      "community": 133,
       "norm_label": "dashboard_facebook_ads.md",
       "id": "02_projetos_dashboard_facebook_ads_md"
     },
@@ -10655,7 +10700,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Dashboard_Facebook_Ads.md",
       "source_location": "L1",
-      "community": 131,
+      "community": 133,
       "norm_label": "\ud83d\udcca dashboard de trafego pago (facebook ads)",
       "id": "02_projetos_dashboard_facebook_ads_dashboard_de_tr_fego_pago_facebook_ads"
     },
@@ -10664,7 +10709,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Dashboard_Facebook_Ads.md",
       "source_location": "L15",
-      "community": 131,
+      "community": 133,
       "norm_label": "\ud83d\ude80 implementacoes recentes (maio/2026)",
       "id": "02_projetos_dashboard_facebook_ads_implementa_es_recentes_maio_2026"
     },
@@ -10673,7 +10718,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L1",
-      "community": 41,
+      "community": 40,
       "norm_label": "estetica_automotiva.md",
       "id": "02_projetos_estetica_automotiva_md"
     },
@@ -10682,7 +10727,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L1",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83c\udfce\ufe0f estetica automotiva premium - showroom 3d",
       "id": "02_projetos_estetica_automotiva_est_tica_automotiva_premium_showroom_3d"
     },
@@ -10691,7 +10736,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L10",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83c\udfdb\ufe0f arquitetura & governanca",
       "id": "02_projetos_estetica_automotiva_arquitetura_governan_a"
     },
@@ -10700,7 +10745,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L13",
-      "community": 41,
+      "community": 40,
       "norm_label": "stack tecnica",
       "id": "02_projetos_estetica_automotiva_stack_t_cnica"
     },
@@ -10709,7 +10754,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L22",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83c\udfa8 aplicacao de luxo (ferrari/bmw/lamborghini)",
       "id": "02_projetos_estetica_automotiva_aplica_o_de_luxo_ferrari_bmw_lamborghini"
     },
@@ -10718,7 +10763,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L25",
-      "community": 41,
+      "community": 40,
       "norm_label": "1. \ud83c\udfce\ufe0f dna ferrari (chiaroscuro editorial)",
       "id": "02_projetos_estetica_automotiva_1_dna_ferrari_chiaroscuro_editorial"
     },
@@ -10727,7 +10772,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L30",
-      "community": 41,
+      "community": 40,
       "norm_label": "2. \ud83c\udde9\ud83c\uddea dna bmw (precisao alema)",
       "id": "02_projetos_estetica_automotiva_2_dna_bmw_precis_o_alem"
     },
@@ -10736,7 +10781,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L35",
-      "community": 41,
+      "community": 40,
       "norm_label": "3. \ud83d\udc02 dna lamborghini (brutalismo gold)",
       "id": "02_projetos_estetica_automotiva_3_dna_lamborghini_brutalismo_gold"
     },
@@ -10745,7 +10790,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L42",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83d\udee0\ufe0f roadmap (gsd workflow)",
       "id": "02_projetos_estetica_automotiva_roadmap_gsd_workflow"
     },
@@ -10754,7 +10799,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L50",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83d\udcda memoria de engenharia",
       "id": "02_projetos_estetica_automotiva_mem_ria_de_engenharia"
     },
@@ -10763,7 +10808,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
       "source_location": "L58",
-      "community": 41,
+      "community": 40,
       "norm_label": "\ud83c\udfa8 referencias tecnicas de design utilizadas",
       "id": "02_projetos_estetica_automotiva_refer_ncias_t_cnicas_de_design_utilizadas"
     },
@@ -11123,7 +11168,7 @@
       "file_type": "document",
       "source_file": "04_Templates/Template_Skill.md",
       "source_location": "L1",
-      "community": 64,
+      "community": 63,
       "norm_label": "template_skill.md",
       "id": "04_templates_template_skill_md"
     },
@@ -11132,7 +11177,7 @@
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/SKILL.md",
       "source_location": "L1",
-      "community": 65,
+      "community": 64,
       "norm_label": "skill.md",
       "id": "05_obsidian_skills_defuddle_skill_md"
     },
@@ -11150,7 +11195,7 @@
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
       "source_location": "L1",
-      "community": 37,
+      "community": 36,
       "norm_label": "examples.md",
       "id": "05_obsidian_skills_defuddle_json_canvas_references_examples_md"
     },
@@ -11159,7 +11204,7 @@
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L1",
-      "community": 26,
+      "community": 25,
       "norm_label": "skill.md",
       "id": "05_obsidian_skills_defuddle_obsidian_bases_skill_md"
     },
@@ -11195,7 +11240,7 @@
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
-      "community": 30,
+      "community": 28,
       "norm_label": "callouts.md",
       "id": "05_obsidian_skills_defuddle_obsidian_markdown_references_callouts_md"
     },
@@ -11690,7 +11735,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L57",
-      "community": 123,
+      "community": 121,
       "norm_label": "3. framework pas \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_3_framework_pas_templates_prontos"
     },
@@ -11699,7 +11744,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L63",
-      "community": 123,
+      "community": 121,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_63"
     },
@@ -11708,7 +11753,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L74",
-      "community": 123,
+      "community": 121,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_74"
     },
@@ -11717,7 +11762,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L82",
-      "community": 123,
+      "community": 121,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_82"
     },
@@ -11726,7 +11771,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L90",
-      "community": 121,
+      "community": 127,
       "norm_label": "4. framework bab \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_4_framework_bab_templates_prontos"
     },
@@ -11735,7 +11780,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L96",
-      "community": 121,
+      "community": 127,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_96"
     },
@@ -11744,7 +11789,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L106",
-      "community": 121,
+      "community": 127,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_106"
     },
@@ -11753,7 +11798,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L114",
-      "community": 121,
+      "community": 127,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_114"
     },
@@ -11762,7 +11807,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L122",
-      "community": 126,
+      "community": 125,
       "norm_label": "5. framework 4p \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_5_framework_4p_templates_prontos"
     },
@@ -11771,7 +11816,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L128",
-      "community": 126,
+      "community": 125,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_128"
     },
@@ -11780,7 +11825,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L137",
-      "community": 126,
+      "community": 125,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_137"
     },
@@ -11789,7 +11834,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L145",
-      "community": 126,
+      "community": 125,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_145"
     },
@@ -11798,7 +11843,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L152",
-      "community": 122,
+      "community": 123,
       "norm_label": "6. framework fab \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_6_framework_fab_templates_prontos"
     },
@@ -11807,7 +11852,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L158",
-      "community": 122,
+      "community": 123,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_158"
     },
@@ -11816,7 +11861,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L167",
-      "community": 122,
+      "community": 123,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_167"
     },
@@ -11825,7 +11870,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L175",
-      "community": 122,
+      "community": 123,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_175"
     },
@@ -11870,7 +11915,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L214",
-      "community": 125,
+      "community": 122,
       "norm_label": "8. guia de selecao por temperatura de audiencia",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_8_guia_de_sele_o_por_temperatura_de_audi_ncia"
     },
@@ -11879,7 +11924,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L216",
-      "community": 125,
+      "community": 122,
       "norm_label": "\ud83e\uddca audiencia fria (nao conhece a marca)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_fria_n_o_conhece_a_marca"
     },
@@ -11888,7 +11933,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L223",
-      "community": 125,
+      "community": 122,
       "norm_label": "\ud83c\udf21\ufe0f audiencia morna (engajou mas nao converteu)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_morna_engajou_mas_n_o_converteu"
     },
@@ -11897,7 +11942,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L230",
-      "community": 125,
+      "community": 122,
       "norm_label": "\ud83d\udd25 audiencia quente (clientes passados, alta intencao)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_quente_clientes_passados_alta_inten_o"
     },
@@ -12005,7 +12050,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L311",
-      "community": 127,
+      "community": 126,
       "norm_label": "11. ganchos de retencao \u2014 framework de diversidade",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_ganchos_de_reten_o_framework_de_diversidade"
     },
@@ -12014,7 +12059,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L313",
-      "community": 127,
+      "community": 126,
       "norm_label": "11.1 padroes de gancho para video (primeiros 1-3s)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_1_padr_es_de_gancho_para_v_deo_primeiros_1_3s"
     },
@@ -12023,7 +12068,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L324",
-      "community": 127,
+      "community": 126,
       "norm_label": "11.2 sinais de fadiga criativa",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_2_sinais_de_fadiga_criativa"
     },
@@ -12032,7 +12077,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L334",
-      "community": 127,
+      "community": 126,
       "norm_label": "11.3 cadencia de refresh por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_3_cad_ncia_de_refresh_por_plataforma"
     },
@@ -12428,7 +12473,7 @@
       "file_type": "document",
       "source_file": "agents/verifier.md",
       "source_location": "L1",
-      "community": 38,
+      "community": 37,
       "norm_label": "verifier.md",
       "id": "agents_verifier_md"
     },
@@ -12437,7 +12482,7 @@
       "file_type": "document",
       "source_file": "agents/wiki-ingest.md",
       "source_location": "L1",
-      "community": 31,
+      "community": 29,
       "norm_label": "wiki-ingest.md",
       "id": "agents_wiki_ingest_md"
     },
@@ -12446,7 +12491,7 @@
       "file_type": "document",
       "source_file": "agents/wiki-lint.md",
       "source_location": "L1",
-      "community": 81,
+      "community": 82,
       "norm_label": "wiki-lint.md",
       "id": "agents_wiki_lint_md"
     },
@@ -12455,7 +12500,7 @@
       "file_type": "document",
       "source_file": "wiki/getting-started.md",
       "source_location": "L1",
-      "community": 27,
+      "community": 26,
       "norm_label": "getting-started.md",
       "id": "wiki_getting_started_md"
     },
@@ -12491,7 +12536,7 @@
       "file_type": "document",
       "source_file": "wiki/overview.md",
       "source_location": "L1",
-      "community": 67,
+      "community": 66,
       "norm_label": "overview.md",
       "id": "wiki_overview_md"
     },
@@ -12851,7 +12896,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L1",
-      "community": 28,
+      "community": 27,
       "norm_label": "elite_claw_skills.md",
       "id": "00_engine_claude_elite_claw_skills_md"
     },
@@ -12860,7 +12905,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L1",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udd85 elite claw skills",
       "id": "00_engine_claude_elite_claw_skills_elite_claw_skills"
     },
@@ -12869,7 +12914,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L7",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83c\udf3f visao geral do motor claw",
       "id": "00_engine_claude_elite_claw_skills_vis_o_geral_do_motor_claw"
     },
@@ -12878,7 +12923,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L11",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83d\udccc mapeamento do repositorio",
       "id": "00_engine_claude_elite_claw_skills_mapeamento_do_reposit_rio"
     },
@@ -12887,7 +12932,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L18",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udde0 skills & padroes extraidos (padroes de ouro)",
       "id": "00_engine_claude_elite_claw_skills_skills_padr_es_extra_dos_padr_es_de_ouro"
     },
@@ -12896,7 +12941,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L22",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udde9 snapshot-based command registry",
       "id": "00_engine_claude_elite_claw_skills_snapshot_based_command_registry"
     },
@@ -12905,7 +12950,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L26",
-      "community": 28,
+      "community": 27,
       "norm_label": "code:python (snapshot_path = path(__file__).resolve().parent / 'reference)",
       "id": "00_engine_claude_elite_claw_skills_codeblock_1"
     },
@@ -12914,7 +12959,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L35",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udde9 case-insensitive lookup com busca parcial",
       "id": "00_engine_claude_elite_claw_skills_case_insensitive_lookup_com_busca_parcial"
     },
@@ -12923,7 +12968,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L39",
-      "community": 28,
+      "community": 27,
       "norm_label": "code:python (def find_commands(query: str, limit: int = 20) -> list[porti)",
       "id": "00_engine_claude_elite_claw_skills_codeblock_2"
     },
@@ -12932,7 +12977,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L45",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udde9 filtro composicional de comandos",
       "id": "00_engine_claude_elite_claw_skills_filtro_composicional_de_comandos"
     },
@@ -12941,7 +12986,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L49",
-      "community": 28,
+      "community": 27,
       "norm_label": "code:python (def get_commands(include_plugins: bool = true, include_skill)",
       "id": "00_engine_claude_elite_claw_skills_codeblock_3"
     },
@@ -12950,7 +12995,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L59",
-      "community": 28,
+      "community": 27,
       "norm_label": "\ud83e\udde9 execucao com feedback estruturado (none-guard)",
       "id": "00_engine_claude_elite_claw_skills_execu_o_com_feedback_estruturado_none_guard"
     },
@@ -12959,7 +13004,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
       "source_location": "L63",
-      "community": 28,
+      "community": 27,
       "norm_label": "code:python (@dataclass(frozen=true))",
       "id": "00_engine_claude_elite_claw_skills_codeblock_4"
     },
@@ -13229,7 +13274,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/Funil_Validado_MrCavalheiros.md",
       "source_location": "L1",
-      "community": 137,
+      "community": 140,
       "norm_label": "funil_validado_mrcavalheiros.md",
       "id": "06_growth_marketing_01_estrat_gias_e_funis_funil_validado_mrcavalheiros_md"
     },
@@ -13237,7 +13282,7 @@
       "label": "JSON Canvas Examples",
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/json-canvas/references/EXAMPLES.md",
-      "community": 138,
+      "community": 141,
       "norm_label": "json canvas examples",
       "id": "examples_json_canvas"
     },
@@ -13245,7 +13290,7 @@
       "label": "Obsidian Bases Skill",
       "file_type": "code",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
-      "community": 134,
+      "community": 137,
       "norm_label": "obsidian bases skill",
       "id": "obsidian_bases_skill"
     },
@@ -13253,7 +13298,7 @@
       "label": "Functions Reference",
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-      "community": 134,
+      "community": 137,
       "norm_label": "functions reference",
       "id": "functions_reference"
     },
@@ -13261,7 +13306,7 @@
       "label": "Obsidian CLI Skill",
       "file_type": "code",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-cli/SKILL.md",
-      "community": 139,
+      "community": 142,
       "norm_label": "obsidian cli skill",
       "id": "obsidian_cli_skill"
     },
@@ -13349,7 +13394,7 @@
       "label": "Nexus.AI - Alavanca AI Operating System",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "nexus.ai - alavanca ai operating system",
       "id": "claude_nexus_ai"
     },
@@ -13357,7 +13402,7 @@
       "label": "Elite Claw Skills",
       "file_type": "code",
       "source_file": "00_Engine_Claude/Elite_Claw_Skills.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "elite claw skills",
       "id": "elite_claw_skills"
     },
@@ -13365,7 +13410,7 @@
       "label": "Engine Claude Elite (V3 - Post-hoc Analyzer)",
       "file_type": "document",
       "source_file": "00_Engine_Claude/Elite_Claw_V3_Turbo.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "engine claude elite (v3 - post-hoc analyzer)",
       "id": "elite_claw_v3_turbo"
     },
@@ -13373,7 +13418,7 @@
       "label": "Monitoramento de Custos Claude",
       "file_type": "document",
       "source_file": "00_Engine_Claude/\ud83d\udcc9 Monitoramento_de_Custos_Claude.md",
-      "community": 140,
+      "community": 143,
       "norm_label": "monitoramento de custos claude",
       "id": "monitoramento_custos_claude"
     },
@@ -13381,7 +13426,7 @@
       "label": "Protocolo de Ajuste de Layout JSON Canvas",
       "file_type": "document",
       "source_file": "01_Global_Skills/Nexus_Protocol_Layout_Canvas.md",
-      "community": 141,
+      "community": 144,
       "norm_label": "protocolo de ajuste de layout json canvas",
       "id": "nexus_protocol_layout_canvas"
     },
@@ -13389,7 +13434,7 @@
       "label": "Skill_Logic_Google_SEO_Integration",
       "file_type": "document",
       "source_file": "01_Global_Skills/Skill_Logic_Google_SEO_Integration.md",
-      "community": 142,
+      "community": 145,
       "norm_label": "skill_logic_google_seo_integration",
       "id": "skill_logic_google_seo_integration"
     },
@@ -13397,7 +13442,7 @@
       "label": "Skill Synabun Knowledge",
       "file_type": "document",
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
-      "community": 143,
+      "community": 146,
       "norm_label": "skill synabun knowledge",
       "id": "skill_synabun_knowledge_v1"
     },
@@ -13405,7 +13450,7 @@
       "label": "Skill: n8n Automation Mastery V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\u26a1Skill_n8n_Automation_V5.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "skill: n8n automation mastery v5",
       "id": "skill_n8n_automation_v5"
     },
@@ -13413,7 +13458,7 @@
       "label": "Skill_SEO_OnPage_V5 \u2014 Nexus SEO Engine",
       "file_type": "document",
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
-      "community": 132,
+      "community": 134,
       "norm_label": "skill_seo_onpage_v5 \u2014 nexus seo engine",
       "id": "skill_seo_onpage_v5"
     },
@@ -13421,7 +13466,7 @@
       "label": "Skill: Frontend Design & UI/UX Elite",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83c\udfa8 Skill_Frontend_Design_Elite.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "skill: frontend design & ui/ux elite",
       "id": "skill_frontend_design_elite"
     },
@@ -13429,7 +13474,7 @@
       "label": "Skill: Gestor de Tr\u00e1fego Pago & Intelig\u00eancia Meta Ads",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83c\udfafSkill_MetaAds_Intelligence_V5.md",
-      "community": 133,
+      "community": 135,
       "norm_label": "skill: gestor de trafego pago & inteligencia meta ads",
       "id": "skill_metaads_intelligence_v5"
     },
@@ -13437,7 +13482,7 @@
       "label": "Skill: 3D Porsche Animation",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83c\udfce\ufe0f Skill_3D_Porsche_Animation.md",
-      "community": 136,
+      "community": 139,
       "norm_label": "skill: 3d porsche animation",
       "id": "skill_3d_porsche_animation"
     },
@@ -13445,7 +13490,7 @@
       "label": "Skill_HighEnd_UI_V5 \u2014 Elite Design Language Extraction",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
-      "community": 132,
+      "community": 134,
       "norm_label": "skill_highend_ui_v5 \u2014 elite design language extraction",
       "id": "skill_highend_ui_v5"
     },
@@ -13453,7 +13498,7 @@
       "label": "SKILL: Gerenciamento de Contatos via Google Sheets",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udcca Skill_GoogleSheets_Contacts.md",
-      "community": 135,
+      "community": 138,
       "norm_label": "skill: gerenciamento de contatos via google sheets",
       "id": "skill_googlesheets_contacts"
     },
@@ -13461,7 +13506,7 @@
       "label": "Skill_Supabase_Sync",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udd04 Skill_Supabase_Sync.md",
-      "community": 133,
+      "community": 135,
       "norm_label": "skill_supabase_sync",
       "id": "skill_supabase_sync"
     },
@@ -13469,7 +13514,7 @@
       "label": "Git Multicontas (HTTPS) \u2014 Alavanca AI",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udd11 Git_Multicontas.md",
-      "community": 144,
+      "community": 147,
       "norm_label": "git multicontas (https) \u2014 alavanca ai",
       "id": "git_multicontas"
     },
@@ -13477,7 +13522,7 @@
       "label": "Security V5 (Supply Chain)",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udd12 Skill_Security_V5.md",
-      "community": 145,
+      "community": 148,
       "norm_label": "security v5 (supply chain)",
       "id": "skill_security_v5"
     },
@@ -13485,7 +13530,7 @@
       "label": "Skill: Luxury Copywriting Intelligence (V5.0)",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udd8b\ufe0f Skill_Luxury_Copywriting_V5.md",
-      "community": 146,
+      "community": 149,
       "norm_label": "skill: luxury copywriting intelligence (v5.0)",
       "id": "skill_luxury_copywriting_v5"
     },
@@ -13493,7 +13538,7 @@
       "label": "Skill_Liquid_Mastery_V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
-      "community": 147,
+      "community": 150,
       "norm_label": "skill_liquid_mastery_v5",
       "id": "skill_liquid_mastery_v5"
     },
@@ -13501,7 +13546,7 @@
       "label": "Performance V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Performance_V5.md",
-      "community": 148,
+      "community": 151,
       "norm_label": "performance v5",
       "id": "skill_performance_v5"
     },
@@ -13509,7 +13554,7 @@
       "label": "Skill_Shopify_Functions_V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
-      "community": 149,
+      "community": 152,
       "norm_label": "skill_shopify_functions_v5",
       "id": "skill_shopify_functions_v5"
     },
@@ -13517,7 +13562,7 @@
       "label": "Skill_Shopify_GraphQL_V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_GraphQL_V5.md",
-      "community": 150,
+      "community": 153,
       "norm_label": "skill_shopify_graphql_v5",
       "id": "skill_shopify_graphql_v5"
     },
@@ -13525,7 +13570,7 @@
       "label": "Conex\u00e3o Supabase",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udee1\ufe0fConexao_Supabase.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "conexao supabase",
       "id": "conexao_supabase"
     },
@@ -13533,7 +13578,7 @@
       "label": "Skill_LangGraph_Vendedora_DNA",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd16 Skill_LangGraph_Vendedora_DNA.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "skill_langgraph_vendedora_dna",
       "id": "skill_langgraph_vendedora_dna"
     },
@@ -13541,7 +13586,7 @@
       "label": "Protocolo GSD (Get Shit Done)",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udd77GSD_Core_Protocol.md",
-      "community": 151,
+      "community": 154,
       "norm_label": "protocolo gsd (get shit done)",
       "id": "gsd_core_protocol"
     },
@@ -13549,7 +13594,7 @@
       "label": "Skill_Anthropic_Global_Suite_V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
-      "community": 152,
+      "community": 155,
       "norm_label": "skill_anthropic_global_suite_v5",
       "id": "skill_anthropic_global_suite_v5"
     },
@@ -13557,7 +13602,7 @@
       "label": "Skill: Claude Design Elite \u2014 V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
-      "community": 153,
+      "community": 156,
       "norm_label": "skill: claude design elite \u2014 v5",
       "id": "skill_claude_design_elite_v5"
     },
@@ -13565,7 +13610,7 @@
       "label": "Skill: GStack Executive Suite",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_GStack_Executive_Suite.md",
-      "community": 154,
+      "community": 157,
       "norm_label": "skill: gstack executive suite",
       "id": "skill_gstack_executive_suite"
     },
@@ -13573,7 +13618,7 @@
       "label": "Skill: Karpathy High-Performance Coding V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Karpathy_Coding_V5.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "skill: karpathy high-performance coding v5",
       "id": "skill_karpathy_coding_v5"
     },
@@ -13581,7 +13626,7 @@
       "label": "Clean Code V5",
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83e\uddfc Skill_Clean_Code_V5.md",
-      "community": 155,
+      "community": 158,
       "norm_label": "clean code v5",
       "id": "skill_clean_code_v5"
     },
@@ -13589,7 +13634,7 @@
       "label": "Mapa Mestre",
       "file_type": "document",
       "source_file": "02_Projetos/00_Mapa_Mestre.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "mapa mestre",
       "id": "mapa_mestre"
     },
@@ -13597,7 +13642,7 @@
       "label": "Agente de Agendamento Cl\u00ednica (LangGraph)",
       "file_type": "document",
       "source_file": "02_Projetos/Agente_Agendamento_Clinica.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "agente de agendamento clinica (langgraph)",
       "id": "agente_agendamento_clinica"
     },
@@ -13605,7 +13650,7 @@
       "label": "ArmorGlass - Landing Page Blueprint",
       "file_type": "document",
       "source_file": "02_Projetos/armorglass_lp.md",
-      "community": 156,
+      "community": 159,
       "norm_label": "armorglass - landing page blueprint",
       "id": "armorglass_lp"
     },
@@ -13613,7 +13658,7 @@
       "label": "Camila \u2014 Assistente Imobili\u00e1ria",
       "file_type": "document",
       "source_file": "02_Projetos/Camila_Imobiliaria.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "camila \u2014 assistente imobiliaria",
       "id": "camila_imobiliaria"
     },
@@ -13621,7 +13666,7 @@
       "label": "DashboardMobi \u2014 Painel de Controle Real Estate",
       "file_type": "document",
       "source_file": "02_Projetos/DashboardMobi.md",
-      "community": 34,
+      "community": 33,
       "norm_label": "dashboardmobi \u2014 painel de controle real estate",
       "id": "dashboardmobi"
     },
@@ -13629,7 +13674,7 @@
       "label": "Dashboard de Tr\u00e1fego Pago (Facebook Ads)",
       "file_type": "document",
       "source_file": "02_Projetos/Dashboard_Facebook_Ads.md",
-      "community": 157,
+      "community": 160,
       "norm_label": "dashboard de trafego pago (facebook ads)",
       "id": "dashboard_facebook_ads"
     },
@@ -13637,7 +13682,7 @@
       "label": "Est\u00e9tica Automotiva Premium - Showroom 3D",
       "file_type": "document",
       "source_file": "02_Projetos/Estetica_Automotiva.md",
-      "community": 136,
+      "community": 139,
       "norm_label": "estetica automotiva premium - showroom 3d",
       "id": "estetica_automotiva"
     },
@@ -13645,7 +13690,7 @@
       "label": "J.A.R.V.I.S. \u2014 Sistema de Voz Futurista",
       "file_type": "document",
       "source_file": "02_Projetos/Jarvis_Voz.md",
-      "community": 135,
+      "community": 138,
       "norm_label": "j.a.r.v.i.s. \u2014 sistema de voz futurista",
       "id": "jarvis_voz"
     },
@@ -13653,7 +13698,7 @@
       "label": "MetaScale",
       "file_type": "document",
       "source_file": "02_Projetos/MetaScale.md",
-      "community": 133,
+      "community": 135,
       "norm_label": "metascale",
       "id": "metascale"
     },
@@ -13661,7 +13706,7 @@
       "label": "Mr. Cavalheiros \u2014 Loja Shopify Premium",
       "file_type": "document",
       "source_file": "02_Projetos/Mr_Cavalheiros.md",
-      "community": 132,
+      "community": 134,
       "norm_label": "mr. cavalheiros \u2014 loja shopify premium",
       "id": "mr_cavalheiros"
     },
@@ -13669,7 +13714,7 @@
       "label": "Defuddle",
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/SKILL.md",
-      "community": 158,
+      "community": 161,
       "norm_label": "defuddle",
       "id": "defuddle_skill"
     },
@@ -13677,12 +13722,53 @@
       "label": "JSON Canvas Skill",
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/json-canvas/SKILL.md",
-      "community": 159,
+      "community": 162,
       "norm_label": "json canvas skill",
       "id": "json_canvas_skill"
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "scripts_apply_descriptions_py",
+      "target": "scripts_apply_descriptions_process_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "scripts_apply_descriptions_py",
+      "target": "scripts_apply_descriptions_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "scripts_apply_descriptions_main",
+      "target": "scripts_apply_descriptions_process_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "scripts_dump_skills_py",
+      "target": "scripts_dump_skills_main",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -17792,9 +17878,9 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L280",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "01_global_skills_skill_shopify_functions_v5_checkout_ui_extension_react",
-      "target": "01_global_skills_skill_shopify_functions_v5_estrutura_280",
-      "confidence_score": 1.0
+      "target": "01_global_skills_skill_shopify_functions_v5_estrutura_280"
     },
     {
       "relation": "contains",
@@ -17862,9 +17948,9 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L281",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "01_global_skills_skill_shopify_functions_v5_estrutura_280",
-      "target": "01_global_skills_skill_shopify_functions_v5_codeblock_11",
-      "confidence_score": 1.0
+      "target": "01_global_skills_skill_shopify_functions_v5_codeblock_11"
     },
     {
       "relation": "contains",
@@ -28136,5 +28222,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "96c51919632bfa900626855cac4abecc4aba2841"
+  "built_at_commit": "4944b05ac26fd2af7ccd4f691fbe49a146f44712"
 }
