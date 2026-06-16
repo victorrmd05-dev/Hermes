@@ -1,8 +1,8 @@
-# 🔥 Nexus Hot State
+# 🔥 Hermes Hot State
 **Última atualização:** 24 de maio de 2026
 
 ## 🚀 Status Atual da Sprint
-- **Foco:** Evolução drástica do gerenciamento de contexto do cofre Nexus.AI.
+- **Foco:** Evolução drástica do gerenciamento de contexto do cofre Hermes.
 - **Atividade Recente:** Implementação da arquitetura de memória em camadas (padrão LLM Wiki) para otimizar tokens de contexto e eliminar "amnésia" do agente.
 
 ## ⚖️ Últimas 3 Decisões Críticas de Design

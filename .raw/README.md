@@ -1,6 +1,6 @@
 # 📥 Caixa de Entrada Bruta (.raw/)
 
-Esta e a **pasta de ingestao** do motor de conhecimento do Nexus.AI.
+Esta e a **pasta de ingestao** do motor de conhecimento do Hermes.
 
 ## Como Usar
 

@@ -1,5 +1,5 @@
 ## Governança e Regras | 🛡️
-[[Workflow_Nexus_Brain.canvas]] - Regras de ouro, diretrizes de segurança e restrições de modelos LLM.
+[[Workflow_Hermes_Brain.canvas]] - Regras de ouro, diretrizes de segurança e restrições de modelos LLM.
 [[🧠 Skill_Karpathy_Coding_V5]] - Protocolo de Engenharia Cirúrgica & Anti-Bloat (Padrão Karpathy).
 [[🧠 Skill_Anthropic_Global_Suite_V5]] — Suite de automação e auto-evolução.
 [[🥷GSD_Core_Protocol]] — Protocolo GSD Core para execução de tarefas autônomas e consistência operacional.
@@ -29,6 +29,6 @@
 
 ## Projetos e Templates (Growth) | 🚀
 [[00_Index_Estrategias]] — Index explicativo para estruturas de funil.
-[[00_Index_Copys]] — Index explicativo para VSLs e scripts.
+[[00_Index_Copys]] — Index explicativo para e scripts.
 [[00_Index_Prompts]] — Index para prompts de inteligência.
 [[00_Index_Playbooks]] — Playbooks de otimização de anúncios.

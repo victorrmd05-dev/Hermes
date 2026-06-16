@@ -1,14 +1,14 @@
 # Copys e Criativos
 
 ## O Que Colocar Aqui
-- Estruturas de roteiros para vídeos (VSLs, Reels, TikToks)
+- Estruturas de roteiros para vídeos (Reels, TikToks)
 - Scripts de anúncios e copies para redes sociais (Facebook Ads, Google Ads)
 - Textos de Páginas de Vendas e Landing Pages
 - Templates de e-mails para sequências de funil
 - Moodboards e referências de criativos que estão convertendo
 
 > [!TIP]
-> **Dica de Elite da Nexus Core OS:** O melhor copywriter não é quem escreve melhor, é quem pesquisa melhor. Foque em bater nas dores profundas e nos desejos inconfessáveis do seu cliente. Um bom "gancho" (hook) nos primeiros 3 segundos define 80% do sucesso do seu criativo em vídeo!
+> **Dica de Elite da Hermes:** O melhor copywriter não é quem escreve melhor, é quem pesquisa melhor. Foque em bater nas dores profundas e nos desejos inconfessáveis do seu cliente. Um bom "gancho" (hook) nos primeiros 3 segundos define 80% do sucesso do seu criativo em vídeo!
 
 ## Exemplo de Preenchimento (Template Base)
 

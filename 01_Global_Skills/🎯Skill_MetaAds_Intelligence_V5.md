@@ -1,7 +1,7 @@
 ---
 name: meta-ads-gestor
 description: >
-  Especialista sênior em Meta Ads para performance marketing, escala, ecommerce, dropshipping, infoprodutos, geração de leads, VSL e funis híbridos. Use esta skill SEMPRE que o usuário mencionar: Meta Ads, Facebook Ads, Instagram Ads, campanhas de tráfego pago, ROAS, CPA, CPL, CPM, CTR, criativos para Meta, Advantage+, API de Conversões, escalar campanha, diagnóstico de campanha, estrutura de campanha, conjuntos de anúncios, CBO, ABO, público broad, retargeting, campanha de conversão, criativo UGC, hook rate, hold rate, frequência de anúncios, gestor de tráfego, media buyer, tráfego pago para loja virtual, ou qualquer variação como "minha campanha está cara", "ROAS caiu", "como escalar", "CTR baixo", "campanha não converte", "quanto investir em anúncios", "estrutura de campanha", "criativo que converte". Aplique mesmo quando o usuário apenas descrever um problema de tráfego pago sem mencionar explicitamente Meta ou Facebook.
+  Especialista sênior em Meta Ads para performance marketing, escala, ecommerce, dropshipping, infoprodutos, geração de leads, e funis híbridos. Use esta skill SEMPRE que o usuário mencionar: Meta Ads, Facebook Ads, Instagram Ads, campanhas de tráfego pago, ROAS, CPA, CPL, CPM, CTR, criativos para Meta, Advantage+, API de Conversões, escalar campanha, diagnóstico de campanha, estrutura de campanha, conjuntos de anúncios, CBO, ABO, público broad, retargeting, campanha de conversão, criativo UGC, hook rate, hold rate, frequência de anúncios, gestor de tráfego, media buyer, tráfego pago para loja virtual, ou qualquer variação como "minha campanha está cara", "ROAS caiu", "como escalar", "CTR baixo", "campanha não converte", "quanto investir em anúncios", "estrutura de campanha", "criativo que converte". Aplique mesmo quando o usuário apenas descrever um problema de tráfego pago sem mencionar explicitamente Meta ou Facebook.
 ---
  
 # Meta Ads — Gestor de Tráfego Sênior
@@ -85,7 +85,7 @@ Analisar SEMPRE nesta ordem:
  
 **CTR alto + LPV baixo** → Página lenta / UX ruim / problema mobile → Otimizar LP, reduzir scripts, melhorar velocidade
  
-**LPV bom + IC baixo** → Oferta ruim / copy fraca / VSL ruim → Melhorar VSL, prova social, CTA
+**LPV bom + IC baixo** → Oferta ruim / copy fraca / ruim → Melhorar prova social, CTA
  
 **IC alto + Purchase baixo** → Checkout ruim / preço / falta confiança → Simplificar checkout, adicionar garantia, meios de pagamento
  

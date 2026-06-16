@@ -8,7 +8,7 @@
 - Planilhas e documentos de distribuição de orçamento de mídia
 
 > [!TIP]
-> **Dica de Elite da Nexus Core OS:** Comece mapeando a jornada do seu melhor cliente. Funis simples, mas com uma oferta irresistível, sempre batem funis complexos que não têm tração. Foque em validar a oferta (CPA aceitável) antes de focar em escalar o orçamento.
+> **Dica de Elite da Hermes:** Comece mapeando a jornada do seu melhor cliente. Funis simples, mas com uma oferta irresistível, sempre batem funis complexos que não têm tração. Foque em validar a oferta (CPA aceitável) antes de focar em escalar o orçamento.
 
 ## Exemplo de Preenchimento (Template Base)
 
@@ -21,6 +21,6 @@
 
 ### Etapas do Funil
 1. **Topo de Funil (Atração):** [Quais anúncios/criativos vão chamar atenção?]
-2. **Meio de Funil (Consideração):** [Como vamos educar ou aquecer esse lead? (Ex: Landing Page, VSL)]
+2. **Meio de Funil (Consideração):** [Como vamos educar ou aquecer esse lead? (Ex: Landing Page)]
 3. **Fundo de Funil (Conversão):** [Qual o Call to Action e oferta irresistível? (Ex: Desconto, Escassez)]
 ```

@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"fluxo-02","type":"text","text":"# 💻 2. Landing Page (Conversão)\n- Construída com React / Next.js\n- **Skills Injetadas:** UI High-End e Copywriting Luxury\n- VSL (Vídeo de Vendas) na Dobra Principal\n\n*Objetivo: Capturar o lead ou gerar intenção de compra.*","x":440,"y":-90,"width":350,"height":290,"color":"5"},
+		{"id":"fluxo-02","type":"text","text":"# 💻 2. Landing Page (Conversão)\n- Construída com React / Next.js\n- **Skills Injetadas:** UI High-End e Copywriting Luxury\n- (Vídeo de Vendas) na Dobra Principal\n\n*Objetivo: Capturar o lead ou gerar intenção de compra.*","x":440,"y":-90,"width":350,"height":290,"color":"5"},
 		{"id":"fluxo-03","type":"text","text":"# 💳 3. Checkout (Fechamento)\n- Gateway de Pagamento (Stripe/Kiwify)\n- Order Bump na página\n- Pixel disparando `Purchase`\n\n*Objetivo: Receita.*","x":1140,"y":-90,"width":300,"height":290,"color":"6"},
 		{"id":"fluxo-01","type":"text","text":"# 📱 1. Tráfego (Atração)\n- Campanhas Meta Ads (Vídeos)\n- Campanhas Google Ads (Search)\n- Público Frio e Quente\n\n*Objetivo: Clique barato e qualificado.*","x":-250,"y":-90,"width":300,"height":290,"color":"4"},
-		{"id":"aviso-01","type":"text","text":"> [!WARNING] Atenção\n> Este é apenas um Canvas de exemplo para você entender como desenhar e mapear o fluxo visual da sua arquitetura dentro do Nexus! \n> \n> **Pode deletar este arquivo tranquilamente!**","x":-250,"y":-500,"width":500,"height":240,"color":"1"}
+		{"id":"aviso-01","type":"text","text":"> [!WARNING] Atenção\n> Este é apenas um Canvas de exemplo para você entender como desenhar e mapear o fluxo visual da sua arquitetura dentro do Hermes! \n> \n> **Pode deletar este arquivo tranquilamente!**","x":-250,"y":-500,"width":500,"height":240,"color":"1"}
 	],
 	"edges":[
 		{"id":"edge-01","fromNode":"fluxo-01","fromSide":"right","toNode":"fluxo-02","toSide":"left","color":"2","label":"Cliques no Anúncio"},

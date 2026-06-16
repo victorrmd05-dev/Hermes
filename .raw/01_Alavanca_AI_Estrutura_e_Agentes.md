@@ -10,10 +10,10 @@ Cada agente tem seu `agent.md` que define o seu comportamento. A hierarquia se o
 - **01 - Alavanca CEO**: Líder operacional. Foca em velocidade, ROI e delegação. Pede relatórios e gerencia as frentes.
 - **02 - CTO**: Gerencia infraestrutura, banco de dados (Supabase) e APIs (Scrape Creators, etc). Dá suporte técnico.
 - **03 - Minerador**: Busca ofertas validadas no Meta Ads, preenchendo o banco de dados.
-- **04 - Copywriting**: Escreve VSLs, anúncios e páginas focadas em persuasão e gatilhos emocionais.
+- **04 - Copywriting**: Escreve anúncios e páginas focadas em persuasão e gatilhos emocionais.
 - **05 - Revisor**: Controle de qualidade e compliance, evitando bloqueios de anúncio.
 - **06 - Designer-Webmaster**: Criação de layouts, páginas responsivas e landing pages de alta conversão.
-- **07 - Video-Maker**: Edição de VSLs e criativos visuais (usa APIs como Higgsfield).
+- **07 - Video-Maker**: Edição de e criativos visuais (usa APIs como Higgsfield).
 - **08 - Gestor-Meta-Ads**: Compra de tráfego pago, análise de dados e otimização de ROI.
 - **09 - SEO**: Otimização orgânica de palavras-chave e ranqueamento técnico.
 

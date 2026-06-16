@@ -16,5 +16,5 @@
 - [Limites de segurança]
 
 ## 🔗 Links Relacionados
-- [[Cofre_Nexus]]
+- [[Cofre_Hermes]]
 

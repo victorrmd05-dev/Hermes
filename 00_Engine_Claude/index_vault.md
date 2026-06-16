@@ -1,4 +1,4 @@
-# 🗂️ Índice de Notas Semânticas (Nexus Core OS)
+# 🗂️ Índice de Notas Semânticas (Hermes)
 
 ## 🕸️ Protocolo RAG Semântico (Graphify Intelligence Layer)
 O vault possui um grafo de conhecimento gerado pelo Graphify. Este grafo transforma o cofre numa rede de intenções.
@@ -20,7 +20,6 @@ O vault possui um grafo de conhecimento gerado pelo Graphify. Este grafo transfo
 ## 🌐 Global Skills
 - [[⚡Elite_Claw_Skills]] : Motor Python/Claw — padroes de comando, registry, execucao estruturada.
 - [[⚡Elite_Claw_V3_Turbo]] : Motor V3 — Post-hoc Analyzer, Comparator Agent, Grader Agent.
-- [[Nexus_Protocol_Layout_Canvas]] : Padrões de arquitetura visual e navegação.
 - [[Skill_Logic_Google_SEO_Integration]] : Integração SEO Google avançada.
 - [[Skill_Synabun_Knowledge_v1]] : Base de conhecimento do Synabun.
 - [[✅ Skill_SEO_OnPage_V5]] : SEO On-Page otimizado.

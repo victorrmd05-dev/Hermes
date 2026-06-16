@@ -10,7 +10,7 @@ Esta é a sua central de comando para os trabalhos em desenvolvimento. A pasta `
 - **Campanhas de Lançamento:** Tarefas críticas e cronograma de marketing.
 
 > [!TIP]
-> **Dica de Elite do Nexus:** Mantenha a documentação escrita (o "O Quê" e o "Por Quê") aqui dentro da `02_Projetos`, mas sempre crie um arquivo `.canvas` associado lá na pasta `03_Workflows/` para desenhar a arquitetura visual (o "Como"). As IAs amam quando você separa a documentação do diagrama visual e linca os dois!
+> **Dica de Elite do Hermes:** Mantenha a documentação escrita (o "O Quê" e o "Por Quê") aqui dentro da `02_Projetos`, mas sempre crie um arquivo `.canvas` associado lá na pasta `03_Workflows/` para desenhar a arquitetura visual (o "Como"). As IAs amam quando você separa a documentação do diagrama visual e linca os dois!
 
 ## Exemplo de Preenchimento (Template Base)
 

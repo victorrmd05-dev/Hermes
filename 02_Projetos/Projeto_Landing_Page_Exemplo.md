@@ -1,12 +1,12 @@
 # 🚀 Projeto: Landing Page Exemplo (Alta Conversão)
 
 > [!WARNING] Atenção
-> Esta nota é **apenas um exemplo ilustrativo** para mostrar como você deve estruturar seus projetos dentro do Nexus. Você pode (e deve) **deletar este arquivo** depois de entender o funcionamento!
+> Esta nota é **apenas um exemplo ilustrativo** para mostrar como você deve estruturar seus projetos dentro do Hermes. Você pode (e deve) **deletar este arquivo** depois de entender o funcionamento!
 
 ---
 
 - **Status:** Em planejamento 🟡
-- **Objetivo Principal:** Desenvolver uma Landing Page de alta conversão para o produto "Método Nexus" usando Next.js, Tailwind CSS e princípios de copywriting premium.
+- **Objetivo Principal:** Desenvolver uma Landing Page de alta conversão para o produto "Método Hermes" usando Next.js, Tailwind CSS e princípios de copywriting premium.
 - **Repositório / Link:** `[O seu link do GitHub ou Figma entraria aqui]`
 
 ---

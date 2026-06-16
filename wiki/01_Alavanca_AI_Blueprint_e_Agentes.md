@@ -22,10 +22,10 @@ Abaixo está o organograma da agência. Cada agente possui seu próprio `agent.m
 | **01** | **Alavanca CEO** | Líder operacional. Foca em velocidade, ROI e delegação. Pede relatórios e gerencia as frentes. |
 | **02** | **CTO** | Gerencia infraestrutura, banco de dados (Supabase) e APIs (Scrape Creators, etc). Dá suporte técnico. |
 | **03** | **Minerador** | Busca ofertas validadas e lucrativas no Meta Ads, preenchendo o banco de dados. |
-| **04** | **Copywriting** | Escreve VSLs, anúncios e páginas focadas em persuasão e gatilhos emocionais. |
+| **04** | **Copywriting** | Escreve anúncios e páginas focadas em persuasão e gatilhos emocionais. |
 | **05** | **Revisor** | Controle rigoroso de qualidade e compliance, evitando bloqueios de anúncio. |
 | **06** | **Designer-Webmaster** | Criação de layouts responsivos, design e publicação de landing pages de alta conversão. |
-| **07** | **Video-Maker** | Edição de VSLs e criativos visuais (utilizando APIs visuais como Higgsfield). |
+| **07** | **Video-Maker** | Edição de e criativos visuais (utilizando APIs visuais como Higgsfield). |
 | **08** | **Gestor-Meta-Ads** | Compra de tráfego pago, análise de dados de campanha e otimização agressiva de ROI. |
 | **09** | **SEO** | Otimização orgânica (On-page/Off-page), palavras-chave e ranqueamento técnico. |
 

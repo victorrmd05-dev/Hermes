@@ -7,7 +7,7 @@ description: >
 # 🧠 Skill_Anthropic_Global_Suite_V5
 
 ## Visão Geral
-Esta documentação consolida a suite global de skills desenvolvida pela Anthropic, projetada para expandir as capacidades do Nexus em criação de documentos, testes de aplicações web, geração de arte e muito mais. Estas ferramentas oferecem um arsenal robusto para desenvolvimento de código, criação de conteúdo e automação.
+Esta documentação consolida a suite global de skills desenvolvida pela Anthropic, projetada para expandir as capacidades do Hermes em criação de documentos, testes de aplicações web, geração de arte e muito mais. Estas ferramentas oferecem um arsenal robusto para desenvolvimento de código, criação de conteúdo e automação.
 
 ## 🛠️ Ferramentas Globais Instaladas e Comandos Rápidos
 
@@ -35,4 +35,4 @@ Esta documentação consolida a suite global de skills desenvolvida pela Anthrop
   - *Comando Rápido*: "Aplique a brand-guidelines neste documento gerado."
 
 ## 🚀 Metodologia de Uso
-Para utilizar qualquer uma das ferramentas desta suite, você não precisa necessariamente chamar o nome exato do arquivo; o Nexus acionará automaticamente a skill adequada baseada na sua intenção (como "quero modificar um PDF", ou "crie uma nova skill de automação"). Porém, utilizar os nomes exatos garante a execução precisa da ferramenta correta.
+Para utilizar qualquer uma das ferramentas desta suite, você não precisa necessariamente chamar o nome exato do arquivo; o Hermes acionará automaticamente a skill adequada baseada na sua intenção (como "quero modificar um PDF", ou "crie uma nova skill de automação"). Porém, utilizar os nomes exatos garante a execução precisa da ferramenta correta.
