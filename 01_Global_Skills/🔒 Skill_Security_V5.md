@@ -1,7 +1,7 @@
 ---
 name: skill-security-v5
 description: >
-  🔒 Security V5 (Supply Chain)
+  Monitoramento de consumo, segurança e limitação de custos via API da Anthropic.
 ---
 
 # 🔒 Security V5 (Supply Chain)

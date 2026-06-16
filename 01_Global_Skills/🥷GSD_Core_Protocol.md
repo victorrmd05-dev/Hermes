@@ -1,7 +1,7 @@
 ---
 name: gsd-core-protocol
 description: >
-  ⚡ Protocolo GSD (Get Shit Done) - Nexus Core OS
+  Protocolos do sistema GSD para gestão autônoma de projetos e workflow ágil.
 ---
 
 # ⚡ Protocolo GSD (Get Shit Done) - Nexus Core OS

@@ -1,7 +1,7 @@
 ---
 name: skill-seo-onpage-v5
 description: >
-  Skill_SEO_OnPage_V5 — Nexus SEO Engine
+  Agente e pipeline completo para geração e auditoria avançada de SEO on-page.
 ---
 
 # Skill_SEO_OnPage_V5 — Nexus SEO Engine

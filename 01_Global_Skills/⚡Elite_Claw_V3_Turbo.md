@@ -1,7 +1,7 @@
 ---
 name: elite-claw-v3-turbo
 description: >
-  🧠 Engine Claude Elite (V3 - Post-hoc Analyzer)
+  Analista pós-veredicto para extração de insights de testes A/B entre LLMs.
 ---
 
 # 🧠 Engine Claude Elite (V3 - Post-hoc Analyzer)

@@ -1,7 +1,7 @@
 ---
 name: skill-frontend-design-elite
 description: >
-  🎨 Skill: Frontend Design & UI/UX Elite
+  Diretrizes técnicas e design systems para SaaS, Dashboards e apps AI-Native.
 ---
 
 # 🎨 Skill: Frontend Design & UI/UX Elite

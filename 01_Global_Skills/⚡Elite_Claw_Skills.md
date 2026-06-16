@@ -1,7 +1,7 @@
 ---
 name: elite-claw-skills
 description: >
-  🦅 Elite Claw Skills
+  Orquestrador local, sincronização de estados e comandos distribuídos do Claw-Code.
 ---
 
 # 🦅 Elite Claw Skills

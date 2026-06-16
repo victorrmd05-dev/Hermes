@@ -1,7 +1,7 @@
 ---
 name: skill-karpathy-coding-v5
 description: >
-  kar# 🧠 Skill: Karpathy High-Performance Coding V5
+  Mentalidade Karpathy para engenharia de software cirúrgica e prevenção contra alucinações.
 ---
 
 kar# 🧠 Skill: Karpathy High-Performance Coding V5

@@ -1,7 +1,7 @@
 ---
 name: skill-logic-google-seo-integration
 description: >
-  🚀 Skill_Logic_Google_SEO_Integration
+  Integração SEO e automação no Search Console e Indexing API para SPAs.
 ---
 
 # 🚀 Skill_Logic_Google_SEO_Integration

@@ -1,7 +1,7 @@
 ---
 name: skill-gstack-executive-suite
 description: >
-  🧠 Skill: GStack Executive Suite
+  Mindset de desenvolvimento GStack focado em zero falhas silenciosas e decisões executivas.
 ---
 
 # 🧠 Skill: GStack Executive Suite

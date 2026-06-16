@@ -1,7 +1,7 @@
 ---
 name: skill-claude-design-elite-v5
 description: >
-  🧠 Skill: Claude Design Elite — V5
+  Padrões de ritmo visual e hierarquia extraídos diretamente do Claude Design System.
 ---
 
 # 🧠 Skill: Claude Design Elite — V5

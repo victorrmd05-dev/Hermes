@@ -1,7 +1,7 @@
 ---
 name: skill-shopify-functions-v5
 description: >
-  Skill_Shopify_Functions_V5.md
+  Customizações WebAssembly serverless para Shopify Checkout, descontos e fretes.
 ---
 
 # Skill_Shopify_Functions_V5.md

@@ -1,7 +1,7 @@
 ---
 name: skill-caveman-token-optimizer
 description: >
-  🎯 Objetivo
+  Modos de compressão gramatical agressiva para otimização radical de tokens em prompts.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 name: skill-clean-code-v5
 description: >
-  🧼 Clean Code V5
+  Princípios de arquitetura limpa, pipelines puros e Single Responsibility Principle.
 ---
 
 # 🧼 Clean Code V5

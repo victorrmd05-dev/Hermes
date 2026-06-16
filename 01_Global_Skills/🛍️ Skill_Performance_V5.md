@@ -1,7 +1,7 @@
 ---
 name: skill-performance-v5
 description: >
-  ⚡ Performance V5
+  Otimização de performance extrema com Cache Duplo, Lazy Evaluation e Worker Pools.
 ---
 
 # ⚡ Performance V5

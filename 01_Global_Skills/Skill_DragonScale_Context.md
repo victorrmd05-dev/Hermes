@@ -1,7 +1,7 @@
 ---
 name: skill-dragonscale-context
 description: >
-  🐉 Skill_DragonScale_Context (Memória Evolutiva)
+  Lógicas de persistência, linting de sanidade e prevenção de duplicação do DragonScale.
 ---
 
 # 🐉 Skill_DragonScale_Context (Memória Evolutiva)

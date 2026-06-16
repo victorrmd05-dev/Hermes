@@ -1,7 +1,7 @@
 ---
 name: monitoramento-de-custos-claude
 description: >
-  🎯 Objetivo
+  Rastreamento e limitação de custos da API do Claude durante o desenvolvimento.
 ---
 
 ## 🎯 Objetivo

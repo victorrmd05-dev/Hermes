@@ -1,7 +1,7 @@
 ---
 name: skill-shopify-graphql-v5
 description: >
-  Skill_Shopify_GraphQL_V5.md
+  Integração e consultas avançadas para Shopify Admin API via GraphQL e Remix.
 ---
 
 # Skill_Shopify_GraphQL_V5.md

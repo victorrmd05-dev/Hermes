@@ -1,7 +1,7 @@
 ---
 name: skill-highend-ui-v5
 description: >
-  💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction
+  Linguagem de design de luxo inspirada em grandes marcas (Apple, Tesla, Airbnb, etc).
 ---
 
 # 💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction

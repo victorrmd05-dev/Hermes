@@ -1,7 +1,7 @@
 ---
 name: skill-luxury-copywriting-v5
 description: >
-  🖋️ Skill: Luxury Copywriting Intelligence (V5.0)
+  Técnicas de copywriting autoritário e exclusividade narrativa para alto luxo.
 ---
 
 # 🖋️ Skill: Luxury Copywriting Intelligence (V5.0)

@@ -1,7 +1,7 @@
 ---
 name: skill-synabun-knowledge-v1
 description: >
-  Skill Synabun Knowledge | 🧠
+  Motor de chunking de sessão baseado no Synabun para extração estruturada de contexto.
 ---
 
 ## Skill Synabun Knowledge | 🧠

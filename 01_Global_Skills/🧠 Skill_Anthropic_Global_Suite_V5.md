@@ -1,7 +1,7 @@
 ---
 name: skill-anthropic-global-suite-v5
 description: >
-  🧠 Skill_Anthropic_Global_Suite_V5
+  Suíte global de ferramentas Anthropic para testes, APIs, design e artefatos web.
 ---
 
 # 🧠 Skill_Anthropic_Global_Suite_V5

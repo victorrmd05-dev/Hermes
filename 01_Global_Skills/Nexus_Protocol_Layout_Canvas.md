@@ -1,7 +1,7 @@
 ---
 name: nexus-protocol-layout-canvas
 description: >
-  Protocolo de Ajuste de Layout JSON Canvas
+  Protocolo para ajuste de topologia e conexões visuais no Obsidian Canvas JSON.
 ---
 
 # Protocolo de Ajuste de Layout JSON Canvas

@@ -1,7 +1,7 @@
 ---
 name: skill-liquid-mastery-v5
 description: >
-  Skill_Liquid_Mastery_V5.md
+  Arquitetura e desenvolvimento focado em temas da Shopify (Liquid).
 ---
 
 # Skill_Liquid_Mastery_V5.md
