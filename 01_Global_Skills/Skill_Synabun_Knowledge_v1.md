@@ -1,3 +1,9 @@
+---
+name: skill-synabun-knowledge-v1
+description: >
+  Skill Synabun Knowledge | 🧠
+---
+
 ## Skill Synabun Knowledge | 🧠
 
 Este documento detalha os componentes principais de inteligência extraídos do repositório Synabun para reutilização no ecossistema Nexus.AI.

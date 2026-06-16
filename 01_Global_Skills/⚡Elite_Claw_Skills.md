@@ -1,3 +1,9 @@
+---
+name: elite-claw-skills
+description: >
+  🦅 Elite Claw Skills
+---
+
 # 🦅 Elite Claw Skills
 
 > **Status:** Destilado e Otimizado | **Origem:** Repositório do Motor Claw-Code | **Peso:** ~3KB (Redução de 85% de bloat)

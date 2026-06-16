@@ -1,3 +1,9 @@
+---
+name: skill-dragonscale-context
+description: >
+  🐉 Skill_DragonScale_Context (Memória Evolutiva)
+---
+
 # 🐉 Skill_DragonScale_Context (Memória Evolutiva)
 
 Esta skill consolida as lógicas de elite do ecossistema DragonScale para o Nexus.AI, injetando capacidades avançadas de persistência, linting de sanidade e documentação autônoma baseada na arquitetura original.

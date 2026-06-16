@@ -1,3 +1,9 @@
+---
+name: nexus-protocol-layout-canvas
+description: >
+  Protocolo de Ajuste de Layout JSON Canvas
+---
+
 # Protocolo de Ajuste de Layout JSON Canvas
 
 ## 🎯 Objetivo

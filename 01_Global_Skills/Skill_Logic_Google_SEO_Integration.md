@@ -1,3 +1,9 @@
+---
+name: skill-logic-google-seo-integration
+description: >
+  🚀 Skill_Logic_Google_SEO_Integration
+---
+
 # 🚀 Skill_Logic_Google_SEO_Integration
 
 ## 📍 Contexto
