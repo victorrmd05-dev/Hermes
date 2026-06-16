@@ -1,3 +1,9 @@
+---
+name: skill-shopify-functions-v5
+description: >
+  Skill_Shopify_Functions_V5.md
+---
+
 # Skill_Shopify_Functions_V5.md
 > Protocolo de Extração V5.0 | Fonte: skills/shopify-functions + checkout-customization
 

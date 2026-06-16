@@ -1,3 +1,9 @@
+---
+name: skill-frontend-design-elite
+description: >
+  🎨 Skill: Frontend Design & UI/UX Elite
+---
+
 # 🎨 Skill: Frontend Design & UI/UX Elite
 
 > **Status:** Ativa | **Foco:** SaaS, Dashboards e Interfaces de IA

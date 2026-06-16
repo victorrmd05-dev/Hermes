@@ -29,7 +29,6 @@ def process_file(filepath):
 
     content = filepath.read_text(encoding='utf-8')
     if content.startswith('---'):
-        print(f"Skipping {filepath.name} - Already has frontmatter")
         return
 
     name = clean_name(filepath.name)

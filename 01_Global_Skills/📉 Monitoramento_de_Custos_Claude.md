@@ -1,3 +1,9 @@
+---
+name: monitoramento-de-custos-claude
+description: >
+  🎯 Objetivo
+---
+
 ## 🎯 Objetivo
 
 Rastrear e limitar o consumo de tokens e o custo financeiro das chamadas de API durante as sessões de codificação.

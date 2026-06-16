@@ -1,3 +1,9 @@
+---
+name: skill-karpathy-coding-v5
+description: >
+  kar# 🧠 Skill: Karpathy High-Performance Coding V5
+---
+
 kar# 🧠 Skill: Karpathy High-Performance Coding V5
 **Versão:** 5.0
 **Foco:** Engenharia de Software Cirúrgica & Anti-Alucinação

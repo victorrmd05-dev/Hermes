@@ -1,3 +1,9 @@
+---
+name: skill-clean-code-v5
+description: >
+  🧼 Clean Code V5
+---
+
 # 🧼 Clean Code V5
 
 ## 1. SRP: Um arquivo = uma responsabilidade

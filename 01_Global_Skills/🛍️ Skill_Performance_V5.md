@@ -1,3 +1,9 @@
+---
+name: skill-performance-v5
+description: >
+  ⚡ Performance V5
+---
+
 # ⚡ Performance V5
 
 ## 1. Cache de I/O Duplo

@@ -1,3 +1,9 @@
+---
+name: skill-liquid-mastery-v5
+description: >
+  Skill_Liquid_Mastery_V5.md
+---
+
 # Skill_Liquid_Mastery_V5.md
 > Protocolo de Extração V5.0 | Fonte: skills/liquid-templating + theme-development
 

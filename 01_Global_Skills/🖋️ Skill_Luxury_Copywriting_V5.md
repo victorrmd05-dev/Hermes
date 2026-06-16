@@ -1,3 +1,9 @@
+---
+name: skill-luxury-copywriting-v5
+description: >
+  🖋️ Skill: Luxury Copywriting Intelligence (V5.0)
+---
+
 # 🖋️ Skill: Luxury Copywriting Intelligence (V5.0)
 
 > **Status:** Intelligence Extracted & Synthesized  

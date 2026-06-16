@@ -1,3 +1,9 @@
+---
+name: skill-gstack-executive-suite
+description: >
+  🧠 Skill: GStack Executive Suite
+---
+
 # 🧠 Skill: GStack Executive Suite
 *(Extraído do mindset do Garry Tan e dos agentes do GStack)*
 

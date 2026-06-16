@@ -1,3 +1,9 @@
+---
+name: skill-seo-onpage-v5
+description: >
+  Skill_SEO_OnPage_V5 — Nexus SEO Engine
+---
+
 # Skill_SEO_OnPage_V5 — Nexus SEO Engine
 > Extraído de: seobuild-onpage v1.5.0 | Nível: AGENTE | Uso: Geração e auditoria de páginas SEO
 

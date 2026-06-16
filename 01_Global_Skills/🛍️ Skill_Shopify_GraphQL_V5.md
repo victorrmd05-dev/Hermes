@@ -1,3 +1,9 @@
+---
+name: skill-shopify-graphql-v5
+description: >
+  Skill_Shopify_GraphQL_V5.md
+---
+
 # Skill_Shopify_GraphQL_V5.md
 > Protocolo de Extração V5.0 | Fonte: skills/api-graphql + app-development + headless-hydrogen
 

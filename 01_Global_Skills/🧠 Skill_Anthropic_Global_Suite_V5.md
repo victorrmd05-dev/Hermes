@@ -1,3 +1,9 @@
+---
+name: skill-anthropic-global-suite-v5
+description: >
+  🧠 Skill_Anthropic_Global_Suite_V5
+---
+
 # 🧠 Skill_Anthropic_Global_Suite_V5
 
 ## Visão Geral

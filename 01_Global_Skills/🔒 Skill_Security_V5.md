@@ -1,3 +1,9 @@
+---
+name: skill-security-v5
+description: >
+  🔒 Security V5 (Supply Chain)
+---
+
 # 🔒 Security V5 (Supply Chain)
 
 ## 1. Hardened .npmrc (fendo pattern)

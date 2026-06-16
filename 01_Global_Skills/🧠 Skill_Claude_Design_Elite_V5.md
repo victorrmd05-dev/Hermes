@@ -1,3 +1,9 @@
+---
+name: skill-claude-design-elite-v5
+description: >
+  🧠 Skill: Claude Design Elite — V5
+---
+
 # 🧠 Skill: Claude Design Elite — V5
 > **Padrão:** Nexus Core OS Standard · **Versão:** 5.0 · **Data:** 2026-04-21
 > **Fonte:** Destilação do Claude Design System (design_raw.md · 464 linhas · 73 KB)

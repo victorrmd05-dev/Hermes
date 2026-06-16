@@ -1,3 +1,9 @@
+---
+name: elite-claw-v3-turbo
+description: >
+  🧠 Engine Claude Elite (V3 - Post-hoc Analyzer)
+---
+
 # 🧠 Engine Claude Elite (V3 - Post-hoc Analyzer)
 
 > **Status:** Otimizado | **Origem:** .agents/skills/analyzer.md

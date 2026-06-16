@@ -1,3 +1,9 @@
+---
+name: gsd-core-protocol
+description: >
+  ⚡ Protocolo GSD (Get Shit Done) - Nexus Core OS
+---
+
 # ⚡ Protocolo GSD (Get Shit Done) - Nexus Core OS
 
 Este documento define como o assistente deve utilizar os comandos globais do GSD para iniciar e gerenciar projetos.

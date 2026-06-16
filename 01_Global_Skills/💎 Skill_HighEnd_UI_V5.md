@@ -1,3 +1,9 @@
+---
+name: skill-highend-ui-v5
+description: >
+  💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction
+---
+
 # 💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction
 > **Sandbox:** `_SANDBOX_DESIGN/` | **Origem:** `awesome-design-md` (getdesign.md)
 > **Marcas mineradas:** Airbnb · Apple · BMW · Ferrari · Lamborghini · Lovable · Minimax · Nvidia · Renault · Replicate · Resend · SpaceX · Spotify · Supabase · Tesla · Uber · Vercel · Wise
