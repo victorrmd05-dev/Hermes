@@ -1,12 +1,4 @@
 {
-  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\apply_descriptions.py": {
-    "mtime": 1781612963.7414112,
-    "hash": "a674b06b2849886ca6dbee5ec547774e"
-  },
-  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\dump_skills.py": {
-    "mtime": 1781612927.3330474,
-    "hash": "df64fa850f383d440239cea84791e4dc"
-  },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\scripts\\standardize_skills.py": {
     "mtime": 1781612802.4716103,
     "hash": "db31be2a8fb85f8e4ea62c2d66080469"
@@ -16,8 +8,8 @@
     "hash": "977c5b13adfa940c16626ddf3e79179b"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\CLAUDE.md": {
-    "mtime": 1781578217.1281457,
-    "hash": "64c2adea6c57644b1e710a3679f93401"
+    "mtime": 1781613253.048809,
+    "hash": "d221593f4fdfcab63b91b652c94a315b"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\README.md": {
     "mtime": 1781606708.2343252,
@@ -206,10 +198,6 @@
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\agents\\wiki-lint.md": {
     "mtime": 1780016798.833908,
     "hash": "dd137fe4800a8f9ed3e723d16fb3a593"
-  },
-  "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\data\\skills_dump.txt": {
-    "mtime": 1781612938.777464,
-    "hash": "f77ca8b85555f5e37457686a3a8f30d6"
   },
   "C:\\Users\\cerqu\\Documents\\Obsidian\\Hermes\\wiki\\01_Alavanca_AI_Blueprint_e_Agentes.md": {
     "mtime": 1781612272.4576764,

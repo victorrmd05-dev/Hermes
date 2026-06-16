@@ -4,51 +4,6 @@
   "graph": {},
   "nodes": [
     {
-      "label": "apply_descriptions.py",
-      "file_type": "code",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L1",
-      "id": "scripts_apply_descriptions_py",
-      "community": 131,
-      "norm_label": "apply_descriptions.py"
-    },
-    {
-      "label": "process_file()",
-      "file_type": "code",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L33",
-      "id": "scripts_apply_descriptions_process_file",
-      "community": 131,
-      "norm_label": "process_file()"
-    },
-    {
-      "label": "main()",
-      "file_type": "code",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L48",
-      "id": "scripts_apply_descriptions_main",
-      "community": 131,
-      "norm_label": "main()"
-    },
-    {
-      "label": "dump_skills.py",
-      "file_type": "code",
-      "source_file": "scripts/dump_skills.py",
-      "source_location": "L1",
-      "id": "scripts_dump_skills_py",
-      "community": 136,
-      "norm_label": "dump_skills.py"
-    },
-    {
-      "label": "main()",
-      "file_type": "code",
-      "source_file": "scripts/dump_skills.py",
-      "source_location": "L7",
-      "id": "scripts_dump_skills_main",
-      "community": 136,
-      "norm_label": "main()"
-    },
-    {
       "label": "standardize_skills.py",
       "file_type": "code",
       "source_file": "scripts/standardize_skills.py",
@@ -99,7 +54,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Mapa_Mestre.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_00_mapa_mestre_md",
-      "community": 86,
+      "community": 97,
       "norm_label": "00_mapa_mestre.md"
     },
     {
@@ -108,7 +63,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Mapa_Mestre.md",
       "source_location": "L1",
       "id": "nexus_starter_kit_00_mapa_mestre_governan_a_e_regras",
-      "community": 86,
+      "community": 97,
       "norm_label": "governanca e regras | \ud83d\udee1\ufe0f"
     },
     {
@@ -117,7 +72,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Mapa_Mestre.md",
       "source_location": "L8",
       "id": "nexus_starter_kit_00_mapa_mestre_mem_ria_evolutiva_skills_aprendidas",
-      "community": 86,
+      "community": 97,
       "norm_label": "memoria evolutiva (skills aprendidas) | \ud83e\udde0"
     },
     {
@@ -126,7 +81,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Mapa_Mestre.md",
       "source_location": "L26",
       "id": "nexus_starter_kit_00_mapa_mestre_ecossistema_de_dados",
-      "community": 86,
+      "community": 97,
       "norm_label": "ecossistema de dados | \ud83d\udcca"
     },
     {
@@ -135,7 +90,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/00_Mapa_Mestre.md",
       "source_location": "L30",
       "id": "nexus_starter_kit_00_mapa_mestre_projetos_e_templates_growth",
-      "community": 86,
+      "community": 97,
       "norm_label": "projetos e templates (growth) | \ud83d\ude80"
     },
     {
@@ -144,107 +99,71 @@
       "source_file": "CLAUDE.md",
       "source_location": "L1",
       "id": "claude_md",
-      "community": 4,
+      "community": 0,
       "norm_label": "claude.md"
     },
     {
-      "label": "\ud83d\udee1\ufe0f Hermes OS",
+      "label": "\ud83d\udee1\ufe0f Hermes OS (Alavanca AI)",
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L1",
-      "id": "hermes_claude_hermes_os",
-      "community": 4,
-      "norm_label": "\ud83d\udee1\ufe0f hermes os"
+      "id": "hermes_claude_hermes_os_alavanca_ai",
+      "community": 0,
+      "norm_label": "\ud83d\udee1\ufe0f hermes os (alavanca ai)"
     },
     {
-      "label": "\ud83d\udcd7 Diretrizes de Elite",
+      "label": "\ud83c\udfaf Identidade e Prop\u00f3sito Base",
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L11",
-      "id": "hermes_claude_diretrizes_de_elite",
-      "community": 4,
-      "norm_label": "\ud83d\udcd7 diretrizes de elite"
+      "id": "hermes_claude_identidade_e_prop_sito_base",
+      "community": 0,
+      "norm_label": "\ud83c\udfaf identidade e proposito base"
     },
     {
-      "label": "\ud83d\udcc2 Protocolo de Inicializa\u00e7\u00e3o e V\u00ednculo (Obsidian MCP)",
+      "label": "\ud83d\udcc2 Arquitetura do Monorepo (A Regra de Ouro)",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L20",
-      "id": "hermes_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp",
-      "community": 4,
-      "norm_label": "\ud83d\udcc2 protocolo de inicializacao e vinculo (obsidian mcp)"
+      "source_location": "L19",
+      "id": "hermes_claude_arquitetura_do_monorepo_a_regra_de_ouro",
+      "community": 0,
+      "norm_label": "\ud83d\udcc2 arquitetura do monorepo (a regra de ouro)"
     },
     {
-      "label": "\ud83d\udccd Regras Estritas de Localiza\u00e7\u00e3o (Anti-Erro de Arquitetura)",
+      "label": "\ud83d\udccd Estrutura do Cofre e Manuten\u00e7\u00e3o de Conhecimento",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L27",
-      "id": "hermes_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura",
-      "community": 4,
-      "norm_label": "\ud83d\udccd regras estritas de localizacao (anti-erro de arquitetura)"
+      "source_location": "L33",
+      "id": "hermes_claude_estrutura_do_cofre_e_manuten_o_de_conhecimento",
+      "community": 0,
+      "norm_label": "\ud83d\udccd estrutura do cofre e manutencao de conhecimento"
     },
     {
-      "label": "\ud83e\udde0 Intelligence & Standards",
+      "label": "\u26a1 Inje\u00e7\u00e3o R\u00e1pida de Tarefas via CLI",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L36",
-      "id": "hermes_claude_intelligence_standards",
-      "community": 4,
-      "norm_label": "\ud83e\udde0 intelligence & standards"
+      "source_location": "L44",
+      "id": "hermes_claude_inje_o_r_pida_de_tarefas_via_cli",
+      "community": 0,
+      "norm_label": "\u26a1 injecao rapida de tarefas via cli"
     },
     {
-      "label": "\ud83d\udcc2 Estrutura do Cofre",
+      "label": "code:bash (# Como acionar o CEO via bash script)",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L47",
-      "id": "hermes_claude_estrutura_do_cofre",
-      "community": 4,
-      "norm_label": "\ud83d\udcc2 estrutura do cofre"
+      "source_location": "L48",
+      "id": "hermes_claude_codeblock_1",
+      "community": 0,
+      "norm_label": "code:bash (# como acionar o ceo via bash script)"
     },
     {
-      "label": "\ud83d\udcdc Regras de Ouro",
+      "label": "\ud83e\udde0 Protocolo de Evolu\u00e7\u00e3o Cont\u00ednua",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L75",
-      "id": "hermes_claude_regras_de_ouro",
-      "community": 4,
-      "norm_label": "\ud83d\udcdc regras de ouro"
-    },
-    {
-      "label": "\ud83e\udde0 Protocolo de Aprendizado e Autorrecupera\u00e7\u00e3o (Nexus V4.0)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L96",
-      "id": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
-      "community": 4,
-      "norm_label": "\ud83e\udde0 protocolo de aprendizado e autorrecuperacao (nexus v4.0)"
-    },
-    {
-      "label": "\ud83d\udee0\ufe0f Ativa\u00e7\u00e3o de Habilidades (obsidian-skills)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L101",
-      "id": "hermes_claude_ativa_o_de_habilidades_obsidian_skills",
-      "community": 4,
-      "norm_label": "\ud83d\udee0\ufe0f ativacao de habilidades (obsidian-skills)"
-    },
-    {
-      "label": "\u26a1 Integra\u00e7\u00e3o GSD Global (Arquitetura de Projeto)",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L107",
-      "id": "hermes_claude_integra_o_gsd_global_arquitetura_de_projeto",
-      "community": 4,
-      "norm_label": "\u26a1 integracao gsd global (arquitetura de projeto)"
-    },
-    {
-      "label": "\ud83d\ude80 Protocolo de Auto-Evolu\u00e7\u00e3o (Nexus V5) - PERFECT EDITION",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L114",
-      "id": "hermes_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition",
-      "community": 4,
-      "norm_label": "\ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect edition"
+      "source_location": "L56",
+      "id": "hermes_claude_protocolo_de_evolu_o_cont_nua",
+      "community": 0,
+      "norm_label": "\ud83e\udde0 protocolo de evolucao continua"
     },
     {
       "label": "README.md",
@@ -396,7 +315,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/00_Engine_Claude/hot.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_00_engine_claude_hot_md",
-      "community": 87,
+      "community": 86,
       "norm_label": "hot.md"
     },
     {
@@ -405,7 +324,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/00_Engine_Claude/hot.md",
       "source_location": "L1",
       "id": "00_engine_claude_hot_nexus_hot_state",
-      "community": 87,
+      "community": 86,
       "norm_label": "\ud83d\udd25 nexus hot state"
     },
     {
@@ -414,7 +333,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/00_Engine_Claude/hot.md",
       "source_location": "L4",
       "id": "00_engine_claude_hot_status_atual_da_sprint",
-      "community": 87,
+      "community": 86,
       "norm_label": "\ud83d\ude80 status atual da sprint"
     },
     {
@@ -423,7 +342,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/00_Engine_Claude/hot.md",
       "source_location": "L8",
       "id": "00_engine_claude_hot_ltimas_3_decis_es_cr_ticas_de_design",
-      "community": 87,
+      "community": 86,
       "norm_label": "\u2696\ufe0f ultimas 3 decisoes criticas de design"
     },
     {
@@ -432,7 +351,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/00_Engine_Claude/hot.md",
       "source_location": "L13",
       "id": "00_engine_claude_hot_pr_ximos_passos",
-      "community": 87,
+      "community": 86,
       "norm_label": "\ud83c\udfaf proximos passos"
     },
     {
@@ -675,7 +594,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_synabun_knowledge_v1_md",
-      "community": 31,
+      "community": 28,
       "norm_label": "skill_synabun_knowledge_v1.md"
     },
     {
@@ -684,7 +603,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_synabun_knowledge_v1_skill_synabun_knowledge",
-      "community": 31,
+      "community": 28,
       "norm_label": "skill synabun knowledge | \ud83e\udde0"
     },
     {
@@ -693,7 +612,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L13",
       "id": "01_global_skills_skill_synabun_knowledge_v1_1_document_processing_engine_markdown_splitting",
-      "community": 31,
+      "community": 28,
       "norm_label": "1. document processing engine (markdown splitting)"
     },
     {
@@ -702,7 +621,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L17",
       "id": "01_global_skills_skill_synabun_knowledge_v1_core_logic_neural_interface_lib_session_chunker_js",
-      "community": 31,
+      "community": 28,
       "norm_label": "core logic: `neural-interface/lib/session-chunker.js`"
     },
     {
@@ -711,7 +630,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L31",
       "id": "01_global_skills_skill_synabun_knowledge_v1_2_metadata_logic_for_semantic_search",
-      "community": 31,
+      "community": 28,
       "norm_label": "2. metadata logic for semantic search"
     },
     {
@@ -720,7 +639,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L35",
       "id": "01_global_skills_skill_synabun_knowledge_v1_metadata_schema_mcp_server_src_services_sqlite_ts",
-      "community": 31,
+      "community": 28,
       "norm_label": "metadata schema: `mcp-server/src/services/sqlite.ts`"
     },
     {
@@ -729,7 +648,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L44",
       "id": "01_global_skills_skill_synabun_knowledge_v1_search_scoring_mcp_server_src_tools_recall_ts",
-      "community": 31,
+      "community": 28,
       "norm_label": "search scoring: `mcp-server/src/tools/recall.ts`"
     },
     {
@@ -738,7 +657,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L52",
       "id": "01_global_skills_skill_synabun_knowledge_v1_3_knowledge_structuring_system_prompts",
-      "community": 31,
+      "community": 28,
       "norm_label": "3. knowledge structuring system prompts"
     },
     {
@@ -747,7 +666,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L56",
       "id": "01_global_skills_skill_synabun_knowledge_v1_key_prompt_skills_synabun_modules_memorize_md",
-      "community": 31,
+      "community": 28,
       "norm_label": "key prompt: `skills/synabun/modules/memorize.md`"
     },
     {
@@ -756,7 +675,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L67",
       "id": "01_global_skills_skill_synabun_knowledge_v1_key_prompt_skills_synabun_modules_audit_md",
-      "community": 31,
+      "community": 28,
       "norm_label": "key prompt: `skills/synabun/modules/audit.md`"
     },
     {
@@ -765,7 +684,7 @@
       "source_file": "01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L73",
       "id": "01_global_skills_skill_synabun_knowledge_v1_4_technical_architecture_notes",
-      "community": 31,
+      "community": 28,
       "norm_label": "4. technical architecture notes"
     },
     {
@@ -1053,7 +972,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L12",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_1_pipeline_de_pesquisa_data_layer",
-      "community": 88,
+      "community": 87,
       "norm_label": "modulo 1 \u2014 pipeline de pesquisa (data layer)"
     },
     {
@@ -1062,7 +981,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L14",
       "id": "01_global_skills_skill_seo_onpage_v5_1_1_cascade_de_fontes_ordem_de_prioridade",
-      "community": 88,
+      "community": 87,
       "norm_label": "1.1 cascade de fontes (ordem de prioridade)"
     },
     {
@@ -1071,7 +990,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L23",
       "id": "01_global_skills_skill_seo_onpage_v5_1_2_comandos_de_execu_o",
-      "community": 88,
+      "community": 87,
       "norm_label": "1.2 comandos de execucao"
     },
     {
@@ -1080,7 +999,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L24",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_1",
-      "community": 88,
+      "community": 87,
       "norm_label": "code:python (# pesquisa completa (com credenciais dataforseo))"
     },
     {
@@ -1089,7 +1008,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L38",
       "id": "01_global_skills_skill_seo_onpage_v5_1_3_schema_de_output_da_pesquisa",
-      "community": 88,
+      "community": 87,
       "norm_label": "1.3 schema de output da pesquisa"
     },
     {
@@ -1098,7 +1017,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L39",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_2",
-      "community": 88,
+      "community": 87,
       "norm_label": "code:json ({)"
     },
     {
@@ -1296,7 +1215,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L182",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_6_links_internos_can_nicos",
-      "community": 89,
+      "community": 88,
       "norm_label": "modulo 6 \u2014 links internos & canonicos"
     },
     {
@@ -1305,7 +1224,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L184",
       "id": "01_global_skills_skill_seo_onpage_v5_6_1_hub_spoke_architecture",
-      "community": 89,
+      "community": 88,
       "norm_label": "6.1 hub & spoke architecture"
     },
     {
@@ -1314,7 +1233,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L185",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_7",
-      "community": 89,
+      "community": 88,
       "norm_label": "code:block7 (hub page (ex: \"atl airport parking\"))"
     },
     {
@@ -1323,7 +1242,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L200",
       "id": "01_global_skills_skill_seo_onpage_v5_6_2_flags_de_oportunidade",
-      "community": 89,
+      "community": 88,
       "norm_label": "6.2 flags de oportunidade"
     },
     {
@@ -1332,7 +1251,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L201",
       "id": "01_global_skills_skill_seo_onpage_v5_codeblock_8",
-      "community": 89,
+      "community": 88,
       "norm_label": "code:block8 (qdd_signal: high_confidence_takeover)"
     },
     {
@@ -1341,7 +1260,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L215",
       "id": "01_global_skills_skill_seo_onpage_v5_6_3_linking_para_map_embed_local_seo",
-      "community": 89,
+      "community": 88,
       "norm_label": "6.3 linking para map embed (local seo)"
     },
     {
@@ -1377,7 +1296,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L289",
       "id": "01_global_skills_skill_seo_onpage_v5_m_dulo_9_quality_checklist_38_itens_threshold_30_38",
-      "community": 132,
+      "community": 131,
       "norm_label": "modulo 9 \u2014 quality checklist (38 itens \u2014 threshold 30/38)"
     },
     {
@@ -1386,7 +1305,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L291",
       "id": "01_global_skills_skill_seo_onpage_v5_critical_pass_fail_primeiros_24",
-      "community": 132,
+      "community": 131,
       "norm_label": "critical pass/fail (primeiros 24)"
     },
     {
@@ -1395,7 +1314,7 @@
       "source_file": "01_Global_Skills/\u2705 Skill_SEO_OnPage_V5.md",
       "source_location": "L307",
       "id": "01_global_skills_skill_seo_onpage_v5_advanced_checks_25_38",
-      "community": 132,
+      "community": 131,
       "norm_label": "advanced checks (25-38)"
     },
     {
@@ -1872,7 +1791,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_highend_ui_v5_md",
-      "community": 107,
+      "community": 106,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5.md"
     },
     {
@@ -1881,7 +1800,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_highend_ui_v5_skill_highend_ui_v5_elite_design_language_extraction",
-      "community": 107,
+      "community": 106,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5 \u2014 elite design language extraction"
     },
     {
@@ -1890,7 +1809,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L14",
       "id": "01_global_skills_skill_highend_ui_v5_ndice_r_pido",
-      "community": 107,
+      "community": 106,
       "norm_label": "\ud83d\udcd1 indice rapido"
     },
     {
@@ -1899,7 +1818,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L25",
       "id": "01_global_skills_skill_highend_ui_v5_1_visual_luxo",
-      "community": 62,
+      "community": 61,
       "norm_label": "1. visual luxo"
     },
     {
@@ -1908,7 +1827,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L28",
       "id": "01_global_skills_skill_highend_ui_v5_ferrari",
-      "community": 62,
+      "community": 61,
       "norm_label": "\ud83c\udfce\ufe0f ferrari"
     },
     {
@@ -1917,7 +1836,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L36",
       "id": "01_global_skills_skill_highend_ui_v5_lamborghini",
-      "community": 62,
+      "community": 61,
       "norm_label": "\ud83d\udc02 lamborghini"
     },
     {
@@ -1926,7 +1845,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L43",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_1",
-      "community": 62,
+      "community": 61,
       "norm_label": "code:css (--bg-primary: #000000;)"
     },
     {
@@ -1935,7 +1854,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L50",
       "id": "01_global_skills_skill_highend_ui_v5_bmw",
-      "community": 62,
+      "community": 61,
       "norm_label": "\ud83d\ude97 bmw"
     },
     {
@@ -1944,7 +1863,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L58",
       "id": "01_global_skills_skill_highend_ui_v5_spacex",
-      "community": 62,
+      "community": 61,
       "norm_label": "\ud83d\ude80 spacex"
     },
     {
@@ -1953,7 +1872,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L66",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_2",
-      "community": 62,
+      "community": 61,
       "norm_label": "code:css (--bg: #000000;)"
     },
     {
@@ -1962,7 +1881,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L74",
       "id": "01_global_skills_skill_highend_ui_v5_tesla",
-      "community": 62,
+      "community": 61,
       "norm_label": "\u26a1 tesla"
     },
     {
@@ -1971,7 +1890,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L85",
       "id": "01_global_skills_skill_highend_ui_v5_2_minimalismo_tech",
-      "community": 73,
+      "community": 72,
       "norm_label": "2. minimalismo tech"
     },
     {
@@ -1980,7 +1899,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L88",
       "id": "01_global_skills_skill_highend_ui_v5_apple",
-      "community": 73,
+      "community": 72,
       "norm_label": "\ud83c\udf4e apple"
     },
     {
@@ -1989,7 +1908,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L94",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_3",
-      "community": 73,
+      "community": 72,
       "norm_label": "code:css (box-shadow: 0 4px 24px rgba(0,0,0,0.08);)"
     },
     {
@@ -1998,7 +1917,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L101",
       "id": "01_global_skills_skill_highend_ui_v5_vercel",
-      "community": 73,
+      "community": 72,
       "norm_label": "\u25b2 vercel"
     },
     {
@@ -2007,7 +1926,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L110",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_4",
-      "community": 73,
+      "community": 72,
       "norm_label": "code:css (background: #ffffff; color: #000000;)"
     },
     {
@@ -2016,7 +1935,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L116",
       "id": "01_global_skills_skill_highend_ui_v5_resend",
-      "community": 73,
+      "community": 72,
       "norm_label": "\ud83d\udce7 resend"
     },
     {
@@ -2025,7 +1944,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L124",
       "id": "01_global_skills_skill_highend_ui_v5_replicate",
-      "community": 73,
+      "community": 72,
       "norm_label": "\ud83d\udd04 replicate"
     },
     {
@@ -2034,7 +1953,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L133",
       "id": "01_global_skills_skill_highend_ui_v5_3_ux_de_engajamento",
-      "community": 90,
+      "community": 89,
       "norm_label": "3. ux de engajamento"
     },
     {
@@ -2043,7 +1962,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L136",
       "id": "01_global_skills_skill_highend_ui_v5_spotify",
-      "community": 90,
+      "community": 89,
       "norm_label": "\ud83c\udfb5 spotify"
     },
     {
@@ -2052,7 +1971,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L140",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_5",
-      "community": 90,
+      "community": 89,
       "norm_label": "code:css (.card {)"
     },
     {
@@ -2061,7 +1980,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L154",
       "id": "01_global_skills_skill_highend_ui_v5_airbnb",
-      "community": 90,
+      "community": 89,
       "norm_label": "\ud83c\udfe0 airbnb"
     },
     {
@@ -2070,7 +1989,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L163",
       "id": "01_global_skills_skill_highend_ui_v5_uber",
-      "community": 90,
+      "community": 89,
       "norm_label": "\ud83d\ude95 uber"
     },
     {
@@ -2079,7 +1998,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L172",
       "id": "01_global_skills_skill_highend_ui_v5_lovable",
-      "community": 90,
+      "community": 89,
       "norm_label": "\ud83d\udc9c lovable"
     },
     {
@@ -2178,7 +2097,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L259",
       "id": "01_global_skills_skill_highend_ui_v5_5_tokens_universais_de_elite",
-      "community": 61,
+      "community": 62,
       "norm_label": "5. tokens universais de elite"
     },
     {
@@ -2187,7 +2106,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L262",
       "id": "01_global_skills_skill_highend_ui_v5_paletas_extra_das_por_categoria",
-      "community": 61,
+      "community": 62,
       "norm_label": "paletas extraidas por categoria"
     },
     {
@@ -2196,7 +2115,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L264",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_10",
-      "community": 61,
+      "community": 62,
       "norm_label": "code:css (/* \u2500\u2500 luxo automotivo \u2500\u2500 */)"
     },
     {
@@ -2205,7 +2124,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L295",
       "id": "01_global_skills_skill_highend_ui_v5_tipografia_de_elite_por_categoria",
-      "community": 61,
+      "community": 62,
       "norm_label": "tipografia de elite por categoria"
     },
     {
@@ -2214,7 +2133,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L304",
       "id": "01_global_skills_skill_highend_ui_v5_sombras_e_eleva_o_padr_o",
-      "community": 61,
+      "community": 62,
       "norm_label": "sombras e elevacao padrao"
     },
     {
@@ -2223,7 +2142,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L306",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_11",
-      "community": 61,
+      "community": 62,
       "norm_label": "code:css (/* nivel 1 \u2014 sutil (apple, wise) */)"
     },
     {
@@ -2232,7 +2151,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L321",
       "id": "01_global_skills_skill_highend_ui_v5_border_radius_por_personalidade",
-      "community": 61,
+      "community": 62,
       "norm_label": "border radius por personalidade"
     },
     {
@@ -2241,7 +2160,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L323",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_12",
-      "community": 61,
+      "community": 62,
       "norm_label": "code:css (--radius-zero:    0px;       /* spacex, tesla \u2014 zero concess)"
     },
     {
@@ -2250,7 +2169,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L334",
       "id": "01_global_skills_skill_highend_ui_v5_6_padr_es_de_componente_extra_dos",
-      "community": 106,
+      "community": 107,
       "norm_label": "6. padroes de componente extraidos"
     },
     {
@@ -2259,7 +2178,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L336",
       "id": "01_global_skills_skill_highend_ui_v5_hero_section_3_arqu_tipos",
-      "community": 106,
+      "community": 107,
       "norm_label": "hero section \u2014 3 arquetipos"
     },
     {
@@ -2268,7 +2187,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L338",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_13",
-      "community": 106,
+      "community": 107,
       "norm_label": "code:block13 (arquetipo 1: cinematic (ferrari/spacex/tesla))"
     },
     {
@@ -2277,7 +2196,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L366",
       "id": "01_global_skills_skill_highend_ui_v5_card_pattern_dna_de_cada_marca",
-      "community": 106,
+      "community": 107,
       "norm_label": "card pattern \u2014 dna de cada marca"
     },
     {
@@ -2286,7 +2205,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L368",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_14",
-      "community": 106,
+      "community": 107,
       "norm_label": "code:css (/* spotify card \u2014 dark immersive */)"
     },
     {
@@ -2295,7 +2214,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L406",
       "id": "01_global_skills_skill_highend_ui_v5_7_auditor_t_cnico_aplicabilidade_nos_projetos",
-      "community": 72,
+      "community": 73,
       "norm_label": "7. \ud83c\udfaf auditor tecnico \u2014 aplicabilidade nos projetos"
     },
     {
@@ -2304,7 +2223,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L408",
       "id": "01_global_skills_skill_highend_ui_v5_pontua_o_por_projeto",
-      "community": 72,
+      "community": 73,
       "norm_label": "\ud83d\udcca pontuacao por projeto"
     },
     {
@@ -2313,7 +2232,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L410",
       "id": "01_global_skills_skill_highend_ui_v5_nexus_luxury_e_commerce_de_moda_masculina_premium",
-      "community": 72,
+      "community": 73,
       "norm_label": "nexus luxury (e-commerce de moda masculina premium)"
     },
     {
@@ -2322,7 +2241,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L427",
       "id": "01_global_skills_skill_highend_ui_v5_dashboard_de_ads_facebook_ads_analytics",
-      "community": 72,
+      "community": 73,
       "norm_label": "dashboard de ads (facebook ads analytics)"
     },
     {
@@ -2331,7 +2250,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L447",
       "id": "01_global_skills_skill_highend_ui_v5_matriz_de_cruzamento_o_que_usar_onde",
-      "community": 72,
+      "community": 73,
       "norm_label": "\ud83d\udd01 matriz de cruzamento \u2014 o que usar onde"
     },
     {
@@ -2340,7 +2259,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L449",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_15",
-      "community": 72,
+      "community": 73,
       "norm_label": "code:block15 (nexus luxury    dashboard ads)"
     },
     {
@@ -2349,7 +2268,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L473",
       "id": "01_global_skills_skill_highend_ui_v5_8_css_quick_start_implementa_o_imediata",
-      "community": 91,
+      "community": 90,
       "norm_label": "8. css quick-start \u2014 implementacao imediata"
     },
     {
@@ -2358,7 +2277,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L475",
       "id": "01_global_skills_skill_highend_ui_v5_para_nexus_luxury_luxo_editorial",
-      "community": 91,
+      "community": 90,
       "norm_label": "para nexus luxury (luxo editorial)"
     },
     {
@@ -2367,7 +2286,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L477",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_16",
-      "community": 91,
+      "community": 90,
       "norm_label": "code:css (:root {)"
     },
     {
@@ -2376,7 +2295,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L529",
       "id": "01_global_skills_skill_highend_ui_v5_para_dashboard_de_ads_emerald_dark_data",
-      "community": 91,
+      "community": 90,
       "norm_label": "para dashboard de ads (emerald dark data)"
     },
     {
@@ -2385,7 +2304,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L531",
       "id": "01_global_skills_skill_highend_ui_v5_codeblock_17",
-      "community": 91,
+      "community": 90,
       "norm_label": "code:css (:root {)"
     },
     {
@@ -2394,7 +2313,7 @@
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L584",
       "id": "01_global_skills_skill_highend_ui_v5_9_fontes_refer_ncias",
-      "community": 107,
+      "community": 106,
       "norm_label": "9. fontes & referencias"
     },
     {
@@ -2664,7 +2583,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L12",
       "id": "01_global_skills_skill_liquid_mastery_v5_arquitetura_do_tema",
-      "community": 78,
+      "community": 77,
       "norm_label": "\ud83c\udfd7\ufe0f arquitetura do tema"
     },
     {
@@ -2673,7 +2592,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L14",
       "id": "01_global_skills_skill_liquid_mastery_v5_hierarquia_de_componentes",
-      "community": 78,
+      "community": 77,
       "norm_label": "hierarquia de componentes"
     },
     {
@@ -2682,7 +2601,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L15",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_1",
-      "community": 78,
+      "community": 77,
       "norm_label": "code:block1 (layout (theme.liquid) \u2192 template (product.json) \u2192 sections \u2192)"
     },
     {
@@ -2691,7 +2610,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L19",
       "id": "01_global_skills_skill_liquid_mastery_v5_estrutura_de_diret_rios",
-      "community": 78,
+      "community": 77,
       "norm_label": "estrutura de diretorios"
     },
     {
@@ -2700,7 +2619,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L20",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_2",
-      "community": 78,
+      "community": 77,
       "norm_label": "code:block2 (theme/)"
     },
     {
@@ -2709,7 +2628,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L31",
       "id": "01_global_skills_skill_liquid_mastery_v5_layout_base_theme_liquid",
-      "community": 78,
+      "community": 77,
       "norm_label": "layout base (theme.liquid)"
     },
     {
@@ -2718,7 +2637,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L32",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_3",
-      "community": 78,
+      "community": 77,
       "norm_label": "code:liquid (<!doctype html>)"
     },
     {
@@ -2727,7 +2646,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L50",
       "id": "01_global_skills_skill_liquid_mastery_v5_objetos_globais",
-      "community": 34,
+      "community": 35,
       "norm_label": "\ud83c\udf0d objetos globais"
     },
     {
@@ -2736,7 +2655,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L52",
       "id": "01_global_skills_skill_liquid_mastery_v5_shop_request",
-      "community": 34,
+      "community": 35,
       "norm_label": "shop & request"
     },
     {
@@ -2745,7 +2664,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L53",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_4",
-      "community": 34,
+      "community": 35,
       "norm_label": "code:liquid ({{ shop.name }} {{ shop.email }} {{ shop.domain }})"
     },
     {
@@ -2754,7 +2673,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L60",
       "id": "01_global_skills_skill_liquid_mastery_v5_produto",
-      "community": 34,
+      "community": 35,
       "norm_label": "produto"
     },
     {
@@ -2763,7 +2682,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L61",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_5",
-      "community": 34,
+      "community": 35,
       "norm_label": "code:liquid ({{ product.title }} {{ product.description }} {{ product.ven)"
     },
     {
@@ -2772,7 +2691,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L76",
       "id": "01_global_skills_skill_liquid_mastery_v5_collection",
-      "community": 34,
+      "community": 35,
       "norm_label": "collection"
     },
     {
@@ -2781,7 +2700,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L77",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_6",
-      "community": 34,
+      "community": 35,
       "norm_label": "code:liquid ({{ collection.title }} {{ collection.products_count }})"
     },
     {
@@ -2790,7 +2709,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L87",
       "id": "01_global_skills_skill_liquid_mastery_v5_cart",
-      "community": 34,
+      "community": 35,
       "norm_label": "cart"
     },
     {
@@ -2799,7 +2718,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L88",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_7",
-      "community": 34,
+      "community": 35,
       "norm_label": "code:liquid ({{ cart.item_count }} {{ cart.total_price | money }})"
     },
     {
@@ -2808,7 +2727,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L96",
       "id": "01_global_skills_skill_liquid_mastery_v5_customer",
-      "community": 34,
+      "community": 35,
       "norm_label": "customer"
     },
     {
@@ -2817,7 +2736,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L97",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_8",
-      "community": 34,
+      "community": 35,
       "norm_label": "code:liquid ({% if customer %})"
     },
     {
@@ -2826,7 +2745,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L108",
       "id": "01_global_skills_skill_liquid_mastery_v5_filtros_essenciais",
-      "community": 35,
+      "community": 34,
       "norm_label": "\ud83d\udd27 filtros essenciais"
     },
     {
@@ -2835,7 +2754,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L110",
       "id": "01_global_skills_skill_liquid_mastery_v5_string",
-      "community": 35,
+      "community": 34,
       "norm_label": "string"
     },
     {
@@ -2844,7 +2763,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L111",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_9",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ 'hello' | upcase }}        \u2192 hello)"
     },
     {
@@ -2853,7 +2772,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L120",
       "id": "01_global_skills_skill_liquid_mastery_v5_n_mero_dinheiro",
-      "community": 35,
+      "community": 34,
       "norm_label": "numero / dinheiro"
     },
     {
@@ -2862,7 +2781,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L121",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_10",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ 4.567 | round: 2 }}       \u2192 4.57)"
     },
     {
@@ -2871,7 +2790,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L129",
       "id": "01_global_skills_skill_liquid_mastery_v5_array",
-      "community": 35,
+      "community": 34,
       "norm_label": "array"
     },
     {
@@ -2880,7 +2799,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L130",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_11",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ array | first }} | {{ array | last }} | {{ array | size })"
     },
     {
@@ -2889,7 +2808,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L138",
       "id": "01_global_skills_skill_liquid_mastery_v5_imagem_moderna_recomendada",
-      "community": 35,
+      "community": 34,
       "norm_label": "imagem (moderna \u2014 recomendada)"
     },
     {
@@ -2898,7 +2817,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L139",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_12",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ image | image_url: width: 800 }})"
     },
     {
@@ -2907,7 +2826,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L152",
       "id": "01_global_skills_skill_liquid_mastery_v5_url",
-      "community": 35,
+      "community": 34,
       "norm_label": "url"
     },
     {
@@ -2916,7 +2835,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L153",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_13",
-      "community": 35,
+      "community": 34,
       "norm_label": "code:liquid ({{ 'style.css' | asset_url | stylesheet_tag }})"
     },
     {
@@ -2925,7 +2844,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L162",
       "id": "01_global_skills_skill_liquid_mastery_v5_controle_de_fluxo",
-      "community": 76,
+      "community": 78,
       "norm_label": "\ud83d\udd00 controle de fluxo"
     },
     {
@@ -2934,7 +2853,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L164",
       "id": "01_global_skills_skill_liquid_mastery_v5_condicionais",
-      "community": 76,
+      "community": 78,
       "norm_label": "condicionais"
     },
     {
@@ -2943,7 +2862,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L165",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_14",
-      "community": 76,
+      "community": 78,
       "norm_label": "code:liquid ({% if product.available %})"
     },
     {
@@ -2952,7 +2871,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L183",
       "id": "01_global_skills_skill_liquid_mastery_v5_operadores",
-      "community": 76,
+      "community": 78,
       "norm_label": "operadores"
     },
     {
@@ -2961,7 +2880,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L184",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_15",
-      "community": 76,
+      "community": 78,
       "norm_label": "code:liquid ({% if product.price > 1000 and product.available %})"
     },
     {
@@ -2970,7 +2889,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L190",
       "id": "01_global_skills_skill_liquid_mastery_v5_for_loop",
-      "community": 76,
+      "community": 78,
       "norm_label": "for loop"
     },
     {
@@ -2979,7 +2898,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L191",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_16",
-      "community": 76,
+      "community": 78,
       "norm_label": "code:liquid ({% for product in collection.products limit: 4 offset: 2 %})"
     },
     {
@@ -2988,7 +2907,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L208",
       "id": "01_global_skills_skill_liquid_mastery_v5_snippets_sections",
-      "community": 77,
+      "community": 76,
       "norm_label": "\ud83e\udde9 snippets & sections"
     },
     {
@@ -2997,7 +2916,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L210",
       "id": "01_global_skills_skill_liquid_mastery_v5_render_use_sempre_em_vez_de_include",
-      "community": 77,
+      "community": 76,
       "norm_label": "render (use sempre em vez de include)"
     },
     {
@@ -3006,7 +2925,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L211",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_17",
-      "community": 77,
+      "community": 76,
       "norm_label": "code:liquid ({% render 'product-card' %})"
     },
     {
@@ -3015,7 +2934,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L217",
       "id": "01_global_skills_skill_liquid_mastery_v5_section_com_schema",
-      "community": 77,
+      "community": 76,
       "norm_label": "section com schema"
     },
     {
@@ -3024,7 +2943,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L218",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_18",
-      "community": 77,
+      "community": 76,
       "norm_label": "code:liquid ({% schema %})"
     },
     {
@@ -3033,7 +2952,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L237",
       "id": "01_global_skills_skill_liquid_mastery_v5_blocks_drag_drop_no_editor",
-      "community": 77,
+      "community": 76,
       "norm_label": "blocks (drag & drop no editor)"
     },
     {
@@ -3042,7 +2961,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Liquid_Mastery_V5.md",
       "source_location": "L238",
       "id": "01_global_skills_skill_liquid_mastery_v5_codeblock_19",
-      "community": 77,
+      "community": 76,
       "norm_label": "code:liquid ({% schema %})"
     },
     {
@@ -3285,7 +3204,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_shopify_functions_v5_md",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udecd\ufe0f skill_shopify_functions_v5.md"
     },
     {
@@ -3294,7 +3213,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_shopify_functions_v5_skill_shopify_functions_v5_md",
-      "community": 3,
+      "community": 4,
       "norm_label": "skill_shopify_functions_v5.md"
     },
     {
@@ -3303,7 +3222,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L12",
       "id": "01_global_skills_skill_shopify_functions_v5_o_que_s_o_shopify_functions",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83e\udde0 o que sao shopify functions?"
     },
     {
@@ -3312,7 +3231,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L19",
       "id": "01_global_skills_skill_shopify_functions_v5_tipos_de_function",
-      "community": 3,
+      "community": 4,
       "norm_label": "tipos de function"
     },
     {
@@ -3321,7 +3240,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L31",
       "id": "01_global_skills_skill_shopify_functions_v5_criando_uma_function",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\ude80 criando uma function"
     },
     {
@@ -3330,7 +3249,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L33",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_1",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:bash (shopify app generate extension)"
     },
     {
@@ -3339,7 +3258,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L42",
       "id": "01_global_skills_skill_shopify_functions_v5_estrutura",
-      "community": 3,
+      "community": 4,
       "norm_label": "estrutura"
     },
     {
@@ -3348,7 +3267,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L43",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_2",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:block2 (extensions/my-discount/)"
     },
     {
@@ -3357,7 +3276,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L52",
       "id": "01_global_skills_skill_shopify_functions_v5_shopify_extension_toml",
-      "community": 3,
+      "community": 4,
       "norm_label": "shopify.extension.toml"
     },
     {
@@ -3366,7 +3285,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L53",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_3",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:toml (api_version = \"2025-01\")"
     },
     {
@@ -3375,7 +3294,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L73",
       "id": "01_global_skills_skill_shopify_functions_v5_input_query_input_graphql",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udce5 input query (input.graphql)"
     },
     {
@@ -3384,7 +3303,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L75",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_4",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:graphql (query runinput {)"
     },
     {
@@ -3393,7 +3312,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L101",
       "id": "01_global_skills_skill_shopify_functions_v5_desconto_por_volume_javascript",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udd16 desconto por volume \u2014 javascript"
     },
     {
@@ -3402,7 +3321,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L102",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_5",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:javascript (// src/run.js)"
     },
     {
@@ -3411,7 +3330,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L132",
       "id": "01_global_skills_skill_shopify_functions_v5_desconto_por_volume_rust",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udd16 desconto por volume \u2014 rust"
     },
     {
@@ -3420,7 +3339,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L133",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_6",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:rust (use shopify_function::prelude::*;)"
     },
     {
@@ -3429,7 +3348,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L176",
       "id": "01_global_skills_skill_shopify_functions_v5_delivery_customization",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udea2 delivery customization"
     },
     {
@@ -3438,7 +3357,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L178",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_7",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:rust (fn run(input: input::responsedata) -> result<output::functio)"
     },
     {
@@ -3447,7 +3366,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L202",
       "id": "01_global_skills_skill_shopify_functions_v5_payment_customization",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udcb3 payment customization"
     },
     {
@@ -3456,7 +3375,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L204",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_8",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:javascript (export function run(input) {)"
     },
     {
@@ -3465,7 +3384,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L224",
       "id": "01_global_skills_skill_shopify_functions_v5_cart_checkout_validation",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\uded1 cart & checkout validation"
     },
     {
@@ -3474,7 +3393,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L226",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_9",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:rust (fn run(input: input::responsedata) -> result<output::functio)"
     },
     {
@@ -3483,7 +3402,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L257",
       "id": "01_global_skills_skill_shopify_functions_v5_cart_transform_brinde_autom_tico",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\uded2 cart transform (brinde automatico)"
     },
     {
@@ -3492,7 +3411,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L259",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_10",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:javascript (export function run(input) {)"
     },
     {
@@ -3501,7 +3420,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L278",
       "id": "01_global_skills_skill_shopify_functions_v5_checkout_ui_extension_react",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udda5\ufe0f checkout ui extension (react)"
     },
     {
@@ -3510,7 +3429,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L280",
       "id": "01_global_skills_skill_shopify_functions_v5_estrutura_280",
-      "community": 3,
+      "community": 4,
       "norm_label": "estrutura"
     },
     {
@@ -3519,7 +3438,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L281",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_11",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:block11 (extensions/checkout-ui/)"
     },
     {
@@ -3528,7 +3447,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L288",
       "id": "01_global_skills_skill_shopify_functions_v5_extension_b_sica",
-      "community": 3,
+      "community": 4,
       "norm_label": "extension basica"
     },
     {
@@ -3537,7 +3456,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L289",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_12",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:jsx (import { reactextension, banner, usetranslate } from \"@shopi)"
     },
     {
@@ -3546,7 +3465,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L300",
       "id": "01_global_skills_skill_shopify_functions_v5_targets_principais",
-      "community": 3,
+      "community": 4,
       "norm_label": "targets principais"
     },
     {
@@ -3555,7 +3474,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L301",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_13",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:javascript (\"purchase.checkout.shipping-option-list.render-before\"  // a)"
     },
     {
@@ -3564,7 +3483,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L309",
       "id": "01_global_skills_skill_shopify_functions_v5_hooks_teis",
-      "community": 3,
+      "community": 4,
       "norm_label": "hooks uteis"
     },
     {
@@ -3573,7 +3492,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L310",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_14",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:jsx (import { usecartlines, usetotalamount, useshippingaddress, u)"
     },
     {
@@ -3582,7 +3501,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L319",
       "id": "01_global_skills_skill_shopify_functions_v5_salvar_com_metafield",
-      "community": 3,
+      "community": 4,
       "norm_label": "salvar com metafield"
     },
     {
@@ -3591,7 +3510,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L320",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_15",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:jsx (import { useapplymetafieldschange } from \"@shopify/ui-extens)"
     },
     {
@@ -3600,7 +3519,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L331",
       "id": "01_global_skills_skill_shopify_functions_v5_bloquear_checkout_intercept",
-      "community": 3,
+      "community": 4,
       "norm_label": "bloquear checkout (intercept)"
     },
     {
@@ -3609,7 +3528,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L332",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_16",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:jsx (import { usebuyerjourneyintercept } from \"@shopify/ui-extens)"
     },
     {
@@ -3618,7 +3537,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L349",
       "id": "01_global_skills_skill_shopify_functions_v5_testar_function_localmente",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83e\uddea testar function localmente"
     },
     {
@@ -3627,7 +3546,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L351",
       "id": "01_global_skills_skill_shopify_functions_v5_codeblock_17",
-      "community": 3,
+      "community": 4,
       "norm_label": "code:bash (# input via stdin)"
     },
     {
@@ -3636,7 +3555,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L375",
       "id": "01_global_skills_skill_shopify_functions_v5_regras_de_ouro",
-      "community": 3,
+      "community": 4,
       "norm_label": "\u2705 regras de ouro"
     },
     {
@@ -3645,7 +3564,7 @@
       "source_file": "01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L383",
       "id": "01_global_skills_skill_shopify_functions_v5_cli_r_pida",
-      "community": 3,
+      "community": 4,
       "norm_label": "cli rapida"
     },
     {
@@ -4032,7 +3951,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_anthropic_global_suite_v5_md",
-      "community": 92,
+      "community": 91,
       "norm_label": "\ud83e\udde0 skill_anthropic_global_suite_v5.md"
     },
     {
@@ -4041,7 +3960,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_anthropic_global_suite_v5_skill_anthropic_global_suite_v5",
-      "community": 92,
+      "community": 91,
       "norm_label": "\ud83e\udde0 skill_anthropic_global_suite_v5"
     },
     {
@@ -4050,7 +3969,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L9",
       "id": "01_global_skills_skill_anthropic_global_suite_v5_vis_o_geral",
-      "community": 92,
+      "community": 91,
       "norm_label": "visao geral"
     },
     {
@@ -4059,7 +3978,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L12",
       "id": "01_global_skills_skill_anthropic_global_suite_v5_ferramentas_globais_instaladas_e_comandos_r_pidos",
-      "community": 92,
+      "community": 91,
       "norm_label": "\ud83d\udee0\ufe0f ferramentas globais instaladas e comandos rapidos"
     },
     {
@@ -4068,7 +3987,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L37",
       "id": "01_global_skills_skill_anthropic_global_suite_v5_metodologia_de_uso",
-      "community": 92,
+      "community": 91,
       "norm_label": "\ud83d\ude80 metodologia de uso"
     },
     {
@@ -4077,7 +3996,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L1",
       "id": "01_global_skills_skill_claude_design_elite_v5_md",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83e\udde0 skill_claude_design_elite_v5.md"
     },
     {
@@ -4086,7 +4005,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L7",
       "id": "01_global_skills_skill_claude_design_elite_v5_skill_claude_design_elite_v5",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83e\udde0 skill: claude design elite \u2014 v5"
     },
     {
@@ -4095,7 +4014,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L14",
       "id": "01_global_skills_skill_claude_design_elite_v5_tl_dr_o_que_esta_skill_entrega",
-      "community": 0,
+      "community": 1,
       "norm_label": "\u26a1 tl;dr \u2014 o que esta skill entrega"
     },
     {
@@ -4104,7 +4023,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L24",
       "id": "01_global_skills_skill_claude_design_elite_v5_i_ritmo_visual_visual_rhythm",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83c\udfbc i. ritmo visual (visual rhythm)"
     },
     {
@@ -4113,7 +4032,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L28",
       "id": "01_global_skills_skill_claude_design_elite_v5_princ_pios_ativos",
-      "community": 0,
+      "community": 1,
       "norm_label": "principios ativos"
     },
     {
@@ -4122,7 +4041,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L38",
       "id": "01_global_skills_skill_claude_design_elite_v5_padr_o_de_aplica_o",
-      "community": 0,
+      "community": 1,
       "norm_label": "padrao de aplicacao"
     },
     {
@@ -4131,7 +4050,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L39",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_1",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:block1 (1. vocalizar o sistema antes de codificar: \"vou usar x para )"
     },
     {
@@ -4140,7 +4059,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L49",
       "id": "01_global_skills_skill_claude_design_elite_v5_ii_layering_camadas_visuais",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\uddc2\ufe0f ii. layering (camadas visuais)"
     },
     {
@@ -4149,7 +4068,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L53",
       "id": "01_global_skills_skill_claude_design_elite_v5_o_conceito",
-      "community": 0,
+      "community": 1,
       "norm_label": "o conceito"
     },
     {
@@ -4158,7 +4077,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L56",
       "id": "01_global_skills_skill_claude_design_elite_v5_dimens_es_de_layering",
-      "community": 0,
+      "community": 1,
       "norm_label": "dimensoes de layering"
     },
     {
@@ -4167,7 +4086,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L58",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_2",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:block2 (\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510)"
     },
     {
@@ -4176,7 +4095,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L66",
       "id": "01_global_skills_skill_claude_design_elite_v5_t_cnicas_extra_das_do_engine",
-      "community": 0,
+      "community": 1,
       "norm_label": "tecnicas extraidas do engine"
     },
     {
@@ -4185,7 +4104,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L76",
       "id": "01_global_skills_skill_claude_design_elite_v5_regra_de_ouro",
-      "community": 0,
+      "community": 1,
       "norm_label": "regra de ouro"
     },
     {
@@ -4194,7 +4113,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L81",
       "id": "01_global_skills_skill_claude_design_elite_v5_iii_anti_clich_s_o_que_destr_i_a_credibilidade",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\udeab iii. anti-cliches \u2014 o que destroi a credibilidade"
     },
     {
@@ -4203,7 +4122,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L85",
       "id": "01_global_skills_skill_claude_design_elite_v5_lista_negra_oficial_extra_da_verbatim",
-      "community": 0,
+      "community": 1,
       "norm_label": "lista negra oficial (extraida verbatim)"
     },
     {
@@ -4212,7 +4131,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L97",
       "id": "01_global_skills_skill_claude_design_elite_v5_regra_da_adi_o",
-      "community": 0,
+      "community": 1,
       "norm_label": "regra da adicao"
     },
     {
@@ -4221,7 +4140,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L100",
       "id": "01_global_skills_skill_claude_design_elite_v5_filosofia_minimalista",
-      "community": 0,
+      "community": 1,
       "norm_label": "filosofia minimalista"
     },
     {
@@ -4230,7 +4149,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L105",
       "id": "01_global_skills_skill_claude_design_elite_v5_iv_localstorage_persist_ncia_de_estado",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\udcbe iv. localstorage \u2014 persistencia de estado"
     },
     {
@@ -4239,7 +4158,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L109",
       "id": "01_global_skills_skill_claude_design_elite_v5_por_que_isso_importa",
-      "community": 0,
+      "community": 1,
       "norm_label": "por que isso importa"
     },
     {
@@ -4248,7 +4167,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L112",
       "id": "01_global_skills_skill_claude_design_elite_v5_padr_o_b_sico_posi_o_de_playback",
-      "community": 0,
+      "community": 1,
       "norm_label": "padrao basico (posicao de playback)"
     },
     {
@@ -4257,7 +4176,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L114",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_3",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:javascript (// salvar posicao ao mudar)"
     },
     {
@@ -4266,7 +4185,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L129",
       "id": "01_global_skills_skill_claude_design_elite_v5_padr_o_avan_ado_tweaks_prefer_ncias_de_design",
-      "community": 0,
+      "community": 1,
       "norm_label": "padrao avancado (tweaks/preferencias de design)"
     },
     {
@@ -4275,7 +4194,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L131",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_4",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:javascript (// defina defaults com markers especiais para reescrita auto)"
     },
     {
@@ -4284,7 +4203,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L155",
       "id": "01_global_skills_skill_claude_design_elite_v5_o_protocolo_de_tweaks_ordem_cr_tica",
-      "community": 0,
+      "community": 1,
       "norm_label": "o protocolo de tweaks (ordem e critica)"
     },
     {
@@ -4293,7 +4212,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L157",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_5",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:block5 (\u26a0\ufe0f ordem importa \u2014 registrar listener antes de anunciar disp)"
     },
     {
@@ -4302,7 +4221,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L168",
       "id": "01_global_skills_skill_claude_design_elite_v5_regras_de_tweaks",
-      "community": 0,
+      "community": 1,
       "norm_label": "regras de tweaks"
     },
     {
@@ -4311,7 +4230,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L177",
       "id": "01_global_skills_skill_claude_design_elite_v5_v_padr_es_t_cnicos_cr_ticos",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\udd29 v. padroes tecnicos criticos"
     },
     {
@@ -4320,7 +4239,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L179",
       "id": "01_global_skills_skill_claude_design_elite_v5_react_babel_vers_es_pinadas_com_integridade",
-      "community": 0,
+      "community": 1,
       "norm_label": "react + babel (versoes pinadas com integridade)"
     },
     {
@@ -4329,7 +4248,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L181",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_6",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:html (<script)"
     },
     {
@@ -4338,7 +4257,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L201",
       "id": "01_global_skills_skill_claude_design_elite_v5_style_objects_conflito_de_escopo_global",
-      "community": 0,
+      "community": 1,
       "norm_label": "style objects \u2014 conflito de escopo global"
     },
     {
@@ -4347,7 +4266,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L203",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_7",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:javascript (// \u274c proibido \u2014 causa colisao de escopo entre componentes)"
     },
     {
@@ -4356,7 +4275,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L212",
       "id": "01_global_skills_skill_claude_design_elite_v5_compartilhamento_entre_arquivos_babel",
-      "community": 0,
+      "community": 1,
       "norm_label": "compartilhamento entre arquivos babel"
     },
     {
@@ -4365,7 +4284,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L214",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_8",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:javascript (// ao final de components.jsx \u2014 exportar para window)"
     },
     {
@@ -4374,7 +4293,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L223",
       "id": "01_global_skills_skill_claude_design_elite_v5_fixed_size_content_decks_v_deos",
-      "community": 0,
+      "community": 1,
       "norm_label": "fixed-size content (decks/videos)"
     },
     {
@@ -4383,7 +4302,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L225",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_9",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:block9 (canvas fixo (padrao: 1920\u00d71080 \u00b7 16:9))"
     },
     {
@@ -4392,7 +4311,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L235",
       "id": "01_global_skills_skill_claude_design_elite_v5_vi_processo_de_design_o_fluxo_correto",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83c\udfaf vi. processo de design \u2014 o fluxo correto"
     },
     {
@@ -4401,7 +4320,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L237",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_10",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:block10 ((1) perguntar \u2192 minimo 10 perguntas para projetos novos)"
     },
     {
@@ -4410,7 +4329,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L245",
       "id": "01_global_skills_skill_claude_design_elite_v5_regras_de_varia_es",
-      "community": 0,
+      "community": 1,
       "norm_label": "regras de variacoes"
     },
     {
@@ -4419,7 +4338,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L251",
       "id": "01_global_skills_skill_claude_design_elite_v5_contexto_n_o_negoci_vel",
-      "community": 0,
+      "community": 1,
       "norm_label": "contexto e nao-negociavel"
     },
     {
@@ -4428,7 +4347,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L257",
       "id": "01_global_skills_skill_claude_design_elite_v5_vii_cor_filosofia_e_t_cnica",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83c\udf08 vii. cor \u2014 filosofia e tecnica"
     },
     {
@@ -4437,7 +4356,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L266",
       "id": "01_global_skills_skill_claude_design_elite_v5_oklch_para_deriva_o_harm_nica",
-      "community": 0,
+      "community": 1,
       "norm_label": "oklch para derivacao harmonica"
     },
     {
@@ -4446,7 +4365,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L267",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_11",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:css (/* exemplo: criar variante mais clara de uma cor existente *)"
     },
     {
@@ -4455,7 +4374,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L278",
       "id": "01_global_skills_skill_claude_design_elite_v5_viii_slides_decks_checklist_de_produ_o",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\udcd0 viii. slides/decks \u2014 checklist de producao"
     },
     {
@@ -4464,7 +4383,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L292",
       "id": "01_global_skills_skill_claude_design_elite_v5_ix_starter_components_refer_ncia_r_pida",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83e\udde9 ix. starter components \u2014 referencia rapida"
     },
     {
@@ -4473,7 +4392,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L308",
       "id": "01_global_skills_skill_claude_design_elite_v5_x_armadilhas_e_gotchas",
-      "community": 0,
+      "community": 1,
       "norm_label": "\u26a0\ufe0f x. armadilhas e gotchas"
     },
     {
@@ -4482,7 +4401,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L322",
       "id": "01_global_skills_skill_claude_design_elite_v5_metadados_da_skill",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83d\udcce metadados da skill"
     },
     {
@@ -4491,7 +4410,7 @@
       "source_file": "01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L324",
       "id": "01_global_skills_skill_claude_design_elite_v5_codeblock_12",
-      "community": 0,
+      "community": 1,
       "norm_label": "code:yaml (skill_id: claude-design-elite-v5)"
     },
     {
@@ -4680,7 +4599,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/00_Index_Projetos.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_02_projetos_00_index_projetos_md",
-      "community": 93,
+      "community": 92,
       "norm_label": "00_index_projetos.md"
     },
     {
@@ -4689,7 +4608,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/00_Index_Projetos.md",
       "source_location": "L1",
       "id": "02_projetos_00_index_projetos_seus_projetos_ativos",
-      "community": 93,
+      "community": 92,
       "norm_label": "\ud83d\udcc2 seus projetos ativos"
     },
     {
@@ -4698,7 +4617,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/00_Index_Projetos.md",
       "source_location": "L3",
       "id": "02_projetos_00_index_projetos_o_que_colocar_aqui",
-      "community": 93,
+      "community": 92,
       "norm_label": "o que colocar aqui"
     },
     {
@@ -4707,7 +4626,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/00_Index_Projetos.md",
       "source_location": "L15",
       "id": "02_projetos_00_index_projetos_exemplo_de_preenchimento_template_base",
-      "community": 93,
+      "community": 92,
       "norm_label": "exemplo de preenchimento (template base)"
     },
     {
@@ -4716,7 +4635,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/00_Index_Projetos.md",
       "source_location": "L19",
       "id": "02_projetos_00_index_projetos_codeblock_1",
-      "community": 93,
+      "community": 92,
       "norm_label": "code:markdown (## [nome do projeto - ex: dashboard financeiro])"
     },
     {
@@ -4725,7 +4644,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_02_projetos_projeto_landing_page_exemplo_md",
-      "community": 94,
+      "community": 93,
       "norm_label": "projeto_landing_page_exemplo.md"
     },
     {
@@ -4734,7 +4653,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L1",
       "id": "02_projetos_projeto_landing_page_exemplo_projeto_landing_page_exemplo_alta_convers_o",
-      "community": 94,
+      "community": 93,
       "norm_label": "\ud83d\ude80 projeto: landing page exemplo (alta conversao)"
     },
     {
@@ -4743,7 +4662,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L14",
       "id": "02_projetos_projeto_landing_page_exemplo_skills_globais_ativadas_o_c_rebro_do_projeto",
-      "community": 94,
+      "community": 93,
       "norm_label": "\ud83d\udccc skills globais ativadas (o cerebro do projeto)"
     },
     {
@@ -4752,7 +4671,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L24",
       "id": "02_projetos_projeto_landing_page_exemplo_arquitetura_visual_e_automa_o",
-      "community": 94,
+      "community": 93,
       "norm_label": "\ud83e\udde0 arquitetura visual e automacao"
     },
     {
@@ -4761,7 +4680,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L31",
       "id": "02_projetos_projeto_landing_page_exemplo_tarefas_pendentes_checklist_da_ia",
-      "community": 94,
+      "community": 93,
       "norm_label": "\ud83d\udcdd tarefas pendentes (checklist da ia)"
     },
     {
@@ -5283,7 +5202,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L65",
       "id": "obsidian_bases_skill_filter_syntax",
-      "community": 120,
+      "community": 119,
       "norm_label": "filter syntax"
     },
     {
@@ -5292,7 +5211,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L69",
       "id": "obsidian_bases_skill_filter_structure",
-      "community": 120,
+      "community": 119,
       "norm_label": "filter structure"
     },
     {
@@ -5301,7 +5220,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L71",
       "id": "obsidian_bases_skill_codeblock_2",
-      "community": 120,
+      "community": 119,
       "norm_label": "code:yaml (# single filter)"
     },
     {
@@ -5310,7 +5229,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L104",
       "id": "obsidian_bases_skill_filter_operators",
-      "community": 120,
+      "community": 119,
       "norm_label": "filter operators"
     },
     {
@@ -5319,7 +5238,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L118",
       "id": "obsidian_bases_skill_properties",
-      "community": 119,
+      "community": 120,
       "norm_label": "properties"
     },
     {
@@ -5328,7 +5247,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L120",
       "id": "obsidian_bases_skill_three_types_of_properties",
-      "community": 119,
+      "community": 120,
       "norm_label": "three types of properties"
     },
     {
@@ -5337,7 +5256,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L126",
       "id": "obsidian_bases_skill_file_properties_reference",
-      "community": 119,
+      "community": 120,
       "norm_label": "file properties reference"
     },
     {
@@ -5346,7 +5265,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-bases/SKILL.md",
       "source_location": "L144",
       "id": "obsidian_bases_skill_the_this_keyword",
-      "community": 119,
+      "community": 120,
       "norm_label": "the `this` keyword"
     },
     {
@@ -6273,7 +6192,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_05_obsidian_skills_defuddle_obsidian_markdown_references_callouts_md",
-      "community": 28,
+      "community": 29,
       "norm_label": "callouts.md"
     },
     {
@@ -6282,7 +6201,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
       "id": "references_callouts_callouts_reference",
-      "community": 28,
+      "community": 29,
       "norm_label": "callouts reference"
     },
     {
@@ -6291,7 +6210,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L3",
       "id": "references_callouts_basic_callout",
-      "community": 28,
+      "community": 29,
       "norm_label": "basic callout"
     },
     {
@@ -6300,7 +6219,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L5",
       "id": "references_callouts_codeblock_1",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:markdown (> [!note])"
     },
     {
@@ -6309,7 +6228,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L15",
       "id": "references_callouts_foldable_callouts",
-      "community": 28,
+      "community": 29,
       "norm_label": "foldable callouts"
     },
     {
@@ -6318,7 +6237,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L17",
       "id": "references_callouts_codeblock_2",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:markdown (> [!faq]- collapsed by default)"
     },
     {
@@ -6327,7 +6246,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L25",
       "id": "references_callouts_nested_callouts",
-      "community": 28,
+      "community": 29,
       "norm_label": "nested callouts"
     },
     {
@@ -6336,7 +6255,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L27",
       "id": "references_callouts_codeblock_3",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:markdown (> [!question] outer callout)"
     },
     {
@@ -6345,7 +6264,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L33",
       "id": "references_callouts_supported_callout_types",
-      "community": 28,
+      "community": 29,
       "norm_label": "supported callout types"
     },
     {
@@ -6354,7 +6273,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L51",
       "id": "references_callouts_custom_callouts_css",
-      "community": 28,
+      "community": 29,
       "norm_label": "custom callouts (css)"
     },
     {
@@ -6363,7 +6282,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L53",
       "id": "references_callouts_codeblock_4",
-      "community": 28,
+      "community": 29,
       "norm_label": "code:css (.callout[data-callout=\"custom-type\"] {)"
     },
     {
@@ -6606,7 +6525,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_06_growth_marketing_01_estrat_gias_e_funis_00_index_estrategias_md",
-      "community": 95,
+      "community": 94,
       "norm_label": "00_index_estrategias.md"
     },
     {
@@ -6615,7 +6534,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L1",
       "id": "01_estrat_gias_e_funis_00_index_estrategias_estrat_gias_e_funis_de_crescimento",
-      "community": 95,
+      "community": 94,
       "norm_label": "estrategias e funis de crescimento"
     },
     {
@@ -6624,7 +6543,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L3",
       "id": "01_estrat_gias_e_funis_00_index_estrategias_o_que_colocar_aqui",
-      "community": 95,
+      "community": 94,
       "norm_label": "o que colocar aqui"
     },
     {
@@ -6633,7 +6552,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L13",
       "id": "01_estrat_gias_e_funis_00_index_estrategias_exemplo_de_preenchimento_template_base",
-      "community": 95,
+      "community": 94,
       "norm_label": "exemplo de preenchimento (template base)"
     },
     {
@@ -6642,7 +6561,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L15",
       "id": "01_estrat_gias_e_funis_00_index_estrategias_codeblock_1",
-      "community": 95,
+      "community": 94,
       "norm_label": "code:markdown (## [nome da campanha / funil])"
     },
     {
@@ -6741,7 +6660,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_06_growth_marketing_04_playbooks_de_otimizacao_00_index_playbooks_md",
-      "community": 96,
+      "community": 95,
       "norm_label": "00_index_playbooks.md"
     },
     {
@@ -6750,7 +6669,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L1",
       "id": "04_playbooks_de_otimizacao_00_index_playbooks_playbooks_de_otimiza_o",
-      "community": 96,
+      "community": 95,
       "norm_label": "playbooks de otimizacao"
     },
     {
@@ -6759,7 +6678,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L3",
       "id": "04_playbooks_de_otimizacao_00_index_playbooks_o_que_colocar_aqui",
-      "community": 96,
+      "community": 95,
       "norm_label": "o que colocar aqui"
     },
     {
@@ -6768,7 +6687,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L13",
       "id": "04_playbooks_de_otimizacao_00_index_playbooks_exemplo_de_preenchimento_template_base",
-      "community": 96,
+      "community": 95,
       "norm_label": "exemplo de preenchimento (template base)"
     },
     {
@@ -6777,7 +6696,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L15",
       "id": "04_playbooks_de_otimizacao_00_index_playbooks_codeblock_1",
-      "community": 96,
+      "community": 95,
       "norm_label": "code:markdown (## [nome do playbook / checklist])"
     },
     {
@@ -6912,7 +6831,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L1",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_agents_wiki_ingest_md",
-      "community": 29,
+      "community": 32,
       "norm_label": "wiki-ingest.md"
     },
     {
@@ -6921,7 +6840,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L26",
       "id": "agents_wiki_ingest_your_process",
-      "community": 29,
+      "community": 32,
       "norm_label": "your process"
     },
     {
@@ -6930,7 +6849,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L39",
       "id": "agents_wiki_ingest_mode_awareness_v1_8_consult_the_router_before_writing",
-      "community": 29,
+      "community": 32,
       "norm_label": "mode awareness (v1.8+): consult the router before writing"
     },
     {
@@ -6939,7 +6858,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L43",
       "id": "agents_wiki_ingest_codeblock_1",
-      "community": 29,
+      "community": 32,
       "norm_label": "code:bash (python3 scripts/wiki-mode.py route <type> \"<name>\")"
     },
     {
@@ -6948,7 +6867,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L58",
       "id": "agents_wiki_ingest_concurrency_v1_7_per_file_locks_required_for_page_writes",
-      "community": 29,
+      "community": 32,
       "norm_label": "concurrency (v1.7+): per-file locks required for page writes"
     },
     {
@@ -6957,7 +6876,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L62",
       "id": "agents_wiki_ingest_codeblock_2",
-      "community": 29,
+      "community": 32,
       "norm_label": "code:bash (bash scripts/wiki-lock.sh acquire wiki/sources/<slug>.md || )"
     },
     {
@@ -6966,7 +6885,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L73",
       "id": "agents_wiki_ingest_dragonscale_address_assignment_still_single_writer_at_the_allocator",
-      "community": 29,
+      "community": 32,
       "norm_label": "dragonscale address assignment (still single-writer at the allocator)"
     },
     {
@@ -6975,7 +6894,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L85",
       "id": "agents_wiki_ingest_post_ingestion_cleanup_mandatory",
-      "community": 29,
+      "community": 32,
       "norm_label": "post-ingestion cleanup (mandatory)"
     },
     {
@@ -6984,7 +6903,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L88",
       "id": "agents_wiki_ingest_do_not",
-      "community": 29,
+      "community": 32,
       "norm_label": "do not"
     },
     {
@@ -6993,7 +6912,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L96",
       "id": "agents_wiki_ingest_output_format",
-      "community": 29,
+      "community": 32,
       "norm_label": "output format"
     },
     {
@@ -7002,7 +6921,7 @@
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/agents/wiki-ingest.md",
       "source_location": "L100",
       "id": "agents_wiki_ingest_codeblock_3",
-      "community": 29,
+      "community": 32,
       "norm_label": "code:block3 (source: [title])"
     },
     {
@@ -7065,7 +6984,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L1",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_md",
-      "community": 97,
+      "community": 96,
       "norm_label": "01_alavanca_ai_blueprint_e_agentes.md"
     },
     {
@@ -7074,7 +6993,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L6",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_alavanca_ai_blueprint_e_estrutura_de_agentes",
-      "community": 97,
+      "community": 96,
       "norm_label": "\ud83e\udd16 alavanca ai: blueprint e estrutura de agentes"
     },
     {
@@ -7083,7 +7002,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L8",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_vis_o_geral",
-      "community": 97,
+      "community": 96,
       "norm_label": "\ud83c\udf10 visao geral"
     },
     {
@@ -7092,7 +7011,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L15",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_hierarquia_e_pap_is_da_equipe",
-      "community": 97,
+      "community": 96,
       "norm_label": "\ud83c\udfe2 hierarquia e papeis da equipe"
     },
     {
@@ -7101,7 +7020,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L34",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_arquivos_avan_ados_personalidade_e_rotina",
-      "community": 97,
+      "community": 96,
       "norm_label": "\ud83e\udde0 arquivos avancados (personalidade e rotina)"
     },
     {
@@ -7110,7 +7029,7 @@
       "source_file": "wiki/01_Alavanca_AI_Blueprint_e_Agentes.md",
       "source_location": "L46",
       "id": "wiki_01_alavanca_ai_blueprint_e_agentes_padr_es_de_comunica_o_interna",
-      "community": 97,
+      "community": 96,
       "norm_label": "\ud83d\udd17 padroes de comunicacao interna"
     },
     {
@@ -7852,6 +7771,150 @@
       "norm_label": "key themes"
     },
     {
+      "label": "apply_descriptions.py",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L1",
+      "community": 132,
+      "norm_label": "apply_descriptions.py",
+      "id": "scripts_apply_descriptions_py"
+    },
+    {
+      "label": "process_file()",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L33",
+      "community": 132,
+      "norm_label": "process_file()",
+      "id": "scripts_apply_descriptions_process_file"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L48",
+      "community": 132,
+      "norm_label": "main()",
+      "id": "scripts_apply_descriptions_main"
+    },
+    {
+      "label": "dump_skills.py",
+      "file_type": "code",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L1",
+      "community": 136,
+      "norm_label": "dump_skills.py",
+      "id": "scripts_dump_skills_py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L7",
+      "community": 136,
+      "norm_label": "main()",
+      "id": "scripts_dump_skills_main"
+    },
+    {
+      "label": "\ud83d\udee1\ufe0f Hermes OS",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "community": 0,
+      "norm_label": "\ud83d\udee1\ufe0f hermes os",
+      "id": "hermes_claude_hermes_os"
+    },
+    {
+      "label": "\ud83d\udcd7 Diretrizes de Elite",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L11",
+      "community": 0,
+      "norm_label": "\ud83d\udcd7 diretrizes de elite",
+      "id": "hermes_claude_diretrizes_de_elite"
+    },
+    {
+      "label": "\ud83d\udcc2 Protocolo de Inicializa\u00e7\u00e3o e V\u00ednculo (Obsidian MCP)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L20",
+      "community": 0,
+      "norm_label": "\ud83d\udcc2 protocolo de inicializacao e vinculo (obsidian mcp)",
+      "id": "hermes_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp"
+    },
+    {
+      "label": "\ud83d\udccd Regras Estritas de Localiza\u00e7\u00e3o (Anti-Erro de Arquitetura)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L27",
+      "community": 0,
+      "norm_label": "\ud83d\udccd regras estritas de localizacao (anti-erro de arquitetura)",
+      "id": "hermes_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura"
+    },
+    {
+      "label": "\ud83e\udde0 Intelligence & Standards",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L36",
+      "community": 0,
+      "norm_label": "\ud83e\udde0 intelligence & standards",
+      "id": "hermes_claude_intelligence_standards"
+    },
+    {
+      "label": "\ud83d\udcc2 Estrutura do Cofre",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L47",
+      "community": 0,
+      "norm_label": "\ud83d\udcc2 estrutura do cofre",
+      "id": "hermes_claude_estrutura_do_cofre"
+    },
+    {
+      "label": "\ud83d\udcdc Regras de Ouro",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L75",
+      "community": 0,
+      "norm_label": "\ud83d\udcdc regras de ouro",
+      "id": "hermes_claude_regras_de_ouro"
+    },
+    {
+      "label": "\ud83e\udde0 Protocolo de Aprendizado e Autorrecupera\u00e7\u00e3o (Nexus V4.0)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L96",
+      "community": 0,
+      "norm_label": "\ud83e\udde0 protocolo de aprendizado e autorrecuperacao (nexus v4.0)",
+      "id": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f Ativa\u00e7\u00e3o de Habilidades (obsidian-skills)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L101",
+      "community": 0,
+      "norm_label": "\ud83d\udee0\ufe0f ativacao de habilidades (obsidian-skills)",
+      "id": "hermes_claude_ativa_o_de_habilidades_obsidian_skills"
+    },
+    {
+      "label": "\u26a1 Integra\u00e7\u00e3o GSD Global (Arquitetura de Projeto)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L107",
+      "community": 0,
+      "norm_label": "\u26a1 integracao gsd global (arquitetura de projeto)",
+      "id": "hermes_claude_integra_o_gsd_global_arquitetura_de_projeto"
+    },
+    {
+      "label": "\ud83d\ude80 Protocolo de Auto-Evolu\u00e7\u00e3o (Nexus V5) - PERFECT EDITION",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L114",
+      "community": 0,
+      "norm_label": "\ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect edition",
+      "id": "hermes_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition"
+    },
+    {
       "label": "\u26a1Elite_Claw_V3_Turbo.md",
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/01_Global_Skills/\u26a1Elite_Claw_V3_Turbo.md",
@@ -7883,7 +7946,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L1",
-      "community": 107,
+      "community": 106,
       "norm_label": "\ud83d\udc8e skill_highend_ui_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_01_global_skills_skill_highend_ui_v5_md"
     },
@@ -7937,7 +8000,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L1",
-      "community": 3,
+      "community": 4,
       "norm_label": "\ud83d\udecd\ufe0f skill_shopify_functions_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_shopify_functions_v5_md"
     },
@@ -7946,7 +8009,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83d\udecd\ufe0f Skill_Shopify_Functions_V5.md",
       "source_location": "L274",
-      "community": 3,
+      "community": 4,
       "norm_label": "estrutura",
       "id": "01_global_skills_skill_shopify_functions_v5_estrutura_274"
     },
@@ -7973,7 +8036,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83e\udde0 Skill_Anthropic_Global_Suite_V5.md",
       "source_location": "L1",
-      "community": 92,
+      "community": 91,
       "norm_label": "\ud83e\udde0 skill_anthropic_global_suite_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_anthropic_global_suite_v5_md"
     },
@@ -7982,7 +8045,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus_Starter_Kit/01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L1",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83e\udde0 skill_claude_design_elite_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_starter_kit_01_global_skills_skill_claude_design_elite_v5_md"
     },
@@ -8045,7 +8108,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/Skill_Synabun_Knowledge_v1.md",
       "source_location": "L1",
-      "community": 31,
+      "community": 28,
       "norm_label": "skill_synabun_knowledge_v1.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_synabun_knowledge_v1_md"
     },
@@ -8063,7 +8126,7 @@
       "file_type": "document",
       "source_file": "00_Mapa_Mestre.md",
       "source_location": "L1",
-      "community": 86,
+      "community": 97,
       "norm_label": "00_mapa_mestre.md",
       "id": "00_mapa_mestre_md"
     },
@@ -8072,7 +8135,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L1",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udee1\ufe0f nexus core os",
       "id": "nexus_starter_kit_claude_nexus_core_os"
     },
@@ -8081,7 +8144,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L11",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcd7 diretrizes de elite",
       "id": "nexus_starter_kit_claude_diretrizes_de_elite"
     },
@@ -8090,7 +8153,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L20",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcc2 protocolo de inicializacao e vinculo (obsidian mcp)",
       "id": "nexus_starter_kit_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp"
     },
@@ -8099,7 +8162,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L27",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udccd regras estritas de localizacao (anti-erro de arquitetura)",
       "id": "nexus_starter_kit_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura"
     },
@@ -8108,7 +8171,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L36",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83e\udde0 intelligence & standards",
       "id": "nexus_starter_kit_claude_intelligence_standards"
     },
@@ -8117,7 +8180,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L47",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcc2 estrutura do cofre",
       "id": "nexus_starter_kit_claude_estrutura_do_cofre"
     },
@@ -8126,7 +8189,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L75",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcdc regras de ouro",
       "id": "nexus_starter_kit_claude_regras_de_ouro"
     },
@@ -8135,7 +8198,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L96",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83e\udde0 protocolo de aprendizado e autorrecuperacao (nexus v4.0)",
       "id": "nexus_starter_kit_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0"
     },
@@ -8144,7 +8207,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L101",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udee0\ufe0f ativacao de habilidades (obsidian-skills)",
       "id": "nexus_starter_kit_claude_ativa_o_de_habilidades_obsidian_skills"
     },
@@ -8153,7 +8216,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L107",
-      "community": 4,
+      "community": 0,
       "norm_label": "\u26a1 integracao gsd global (arquitetura de projeto)",
       "id": "nexus_starter_kit_claude_integra_o_gsd_global_arquitetura_de_projeto"
     },
@@ -8162,7 +8225,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L114",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect edition",
       "id": "nexus_starter_kit_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition"
     },
@@ -8279,7 +8342,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/00_Index_Projetos.md",
       "source_location": "L1",
-      "community": 93,
+      "community": 92,
       "norm_label": "00_index_projetos.md",
       "id": "02_projetos_00_index_projetos_md"
     },
@@ -8288,7 +8351,7 @@
       "file_type": "document",
       "source_file": "02_Projetos/Projeto_Landing_Page_Exemplo.md",
       "source_location": "L1",
-      "community": 94,
+      "community": 93,
       "norm_label": "projeto_landing_page_exemplo.md",
       "id": "02_projetos_projeto_landing_page_exemplo_md"
     },
@@ -8297,7 +8360,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/00_Index_Estrategias.md",
       "source_location": "L1",
-      "community": 95,
+      "community": 94,
       "norm_label": "00_index_estrategias.md",
       "id": "06_growth_marketing_01_estrat_gias_e_funis_00_index_estrategias_md"
     },
@@ -8306,7 +8369,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/04_Playbooks_de_Otimizacao/00_Index_Playbooks.md",
       "source_location": "L1",
-      "community": 96,
+      "community": 95,
       "norm_label": "00_index_playbooks.md",
       "id": "06_growth_marketing_04_playbooks_de_otimizacao_00_index_playbooks_md"
     },
@@ -8594,7 +8657,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L1",
-      "community": 1,
+      "community": 2,
       "norm_label": "msft_prompt_engineering_e_ux_ia.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_msft_prompt_engineering_e_ux_ia_md"
     },
@@ -8603,7 +8666,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L8",
-      "community": 1,
+      "community": 2,
       "norm_label": "\ud83c\udfaf engenharia de prompt e ux para ia \u2014 conversando com o frontend (aulas 4, 5 e 12)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_engenharia_de_prompt_e_ux_para_ia_conversando_com_o_frontend_aulas_4_5_e_12"
     },
@@ -8612,7 +8675,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L16",
-      "community": 1,
+      "community": 2,
       "norm_label": "aula 4 \u2014 fundamentos de engenharia de prompt",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_aula_4_fundamentos_de_engenharia_de_prompt"
     },
@@ -8621,7 +8684,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L18",
-      "community": 1,
+      "community": 2,
       "norm_label": "o que e engenharia de prompt (microsoft)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_o_que_e_engenharia_de_prompt_microsoft"
     },
@@ -8630,7 +8693,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L24",
-      "community": 1,
+      "community": 2,
       "norm_label": "por que precisamos de prompt engineering?",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_por_que_precisamos_de_prompt_engineering"
     },
@@ -8639,7 +8702,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L34",
-      "community": 1,
+      "community": 2,
       "norm_label": "anatomia de um prompt completo",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_anatomia_de_um_prompt_completo"
     },
@@ -8648,7 +8711,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L36",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block1 ([system message]   \u2192 define personalidade/contexto do assist)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_1"
     },
@@ -8657,7 +8720,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L44",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:python (# exemplo completo microsoft (api chatcompletion))",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_2"
     },
@@ -8666,7 +8729,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L57",
-      "community": 1,
+      "community": 2,
       "norm_label": "como llms processam prompts (base vs instruction-tuned)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_como_llms_processam_prompts_base_vs_instruction_tuned"
     },
@@ -8675,7 +8738,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L63",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block3 (base llm:        \"o presidente dos eua e...\" \u2192 completa qual)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_3"
     },
@@ -8684,7 +8747,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L69",
-      "community": 1,
+      "community": 2,
       "norm_label": "melhores praticas microsoft (tabela completa)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_melhores_praticas_microsoft_tabela_completa"
     },
@@ -8693,7 +8756,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L84",
-      "community": 1,
+      "community": 2,
       "norm_label": "aula 5 \u2014 tecnicas avancadas de prompting",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_aula_5_tecnicas_avancadas_de_prompting"
     },
@@ -8702,7 +8765,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L86",
-      "community": 1,
+      "community": 2,
       "norm_label": "7 tecnicas avancadas (microsoft curriculum)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_7_tecnicas_avancadas_microsoft_curriculum"
     },
@@ -8711,7 +8774,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L88",
-      "community": 1,
+      "community": 2,
       "norm_label": "1. zero-shot \u2014 direto ao ponto",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_1_zero_shot_direto_ao_ponto"
     },
@@ -8720,7 +8783,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L89",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block4 (prompt: \"o que e algebra?\")",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_4"
     },
@@ -8729,7 +8792,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L95",
-      "community": 1,
+      "community": 2,
       "norm_label": "2. few-shot \u2014 aprenda com exemplos",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_2_few_shot_aprenda_com_exemplos"
     },
@@ -8738,7 +8801,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L96",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block5 (prompt: \"traduza para espanhol:)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_5"
     },
@@ -8747,7 +8810,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L105",
-      "community": 1,
+      "community": 2,
       "norm_label": "3. chain-of-thought (cot) \u2014 ensine o raciocinio",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_3_chain_of_thought_cot_ensine_o_raciocinio"
     },
@@ -8756,7 +8819,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L106",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block6 (sem cot: \"alice tem 5 macas, joga 3, da 2 para bob, bob da 1)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_6"
     },
@@ -8765,7 +8828,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L117",
-      "community": 1,
+      "community": 2,
       "norm_label": "4. generated knowledge \u2014 enriquecer com dados proprios",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_4_generated_knowledge_enriquecer_com_dados_proprios"
     },
@@ -8774,7 +8837,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L118",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:python (# template com dados da empresa)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_7"
     },
@@ -8783,7 +8846,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L131",
-      "community": 1,
+      "community": 2,
       "norm_label": "5. least-to-most \u2014 decomposicao em sub-tarefas",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_5_least_to_most_decomposicao_em_sub_tarefas"
     },
@@ -8792,7 +8855,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L132",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block8 (prompt: \"como fazer data science em 5 passos?\")",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_8"
     },
@@ -8801,7 +8864,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L143",
-      "community": 1,
+      "community": 2,
       "norm_label": "6. self-refine \u2014 critica iterativa",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_6_self_refine_critica_iterativa"
     },
@@ -8810,7 +8873,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L144",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block9 (passo 1: pedir ao llm para resolver o problema)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_9"
     },
@@ -8819,7 +8882,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L153",
-      "community": 1,
+      "community": 2,
       "norm_label": "7. maieutic prompting \u2014 verificacao de consistencia",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_7_maieutic_prompting_verificacao_de_consistencia"
     },
@@ -8828,7 +8891,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L154",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block10 (pedir resposta \u2192 pedir explicacao de cada parte \u2192 verificar )",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_10"
     },
@@ -8837,7 +8900,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L159",
-      "community": 1,
+      "community": 2,
       "norm_label": "temperatura \u2014 controlando criatividade vs determinismo",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_temperatura_controlando_criatividade_vs_determinismo"
     },
@@ -8846,7 +8909,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L161",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block11 (temperatura 0.0 \u2192 muito deterministico (respostas quase iden)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_11"
     },
@@ -8855,7 +8918,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L175",
-      "community": 1,
+      "community": 2,
       "norm_label": "aula 12 \u2014 design de ux para aplicacoes de ia",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_aula_12_design_de_ux_para_aplicacoes_de_ia"
     },
@@ -8864,7 +8927,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L177",
-      "community": 1,
+      "community": 2,
       "norm_label": "os 4 pilares de ux em apps de ia (microsoft)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_os_4_pilares_de_ux_em_apps_de_ia_microsoft"
     },
@@ -8873,7 +8936,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L186",
-      "community": 1,
+      "community": 2,
       "norm_label": "trust e transparencia \u2014 o core da ux de ia",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_trust_e_transparencia_o_core_da_ux_de_ia"
     },
@@ -8882,7 +8945,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L194",
-      "community": 1,
+      "community": 2,
       "norm_label": "explainability (explicabilidade)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_explainability_explicabilidade"
     },
@@ -8891,7 +8954,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L201",
-      "community": 1,
+      "community": 2,
       "norm_label": "control (controle)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_control_controle"
     },
@@ -8900,7 +8963,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L207",
-      "community": 1,
+      "community": 2,
       "norm_label": "collaboration e feedback loops",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_collaboration_e_feedback_loops"
     },
@@ -8909,7 +8972,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L211",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block12 (loop de feedback ideal:)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_12"
     },
@@ -8918,7 +8981,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L222",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block13 (nao: \"erro 500 \u2014 requisicao invalida\")",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_13"
     },
@@ -8927,7 +8990,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L231",
-      "community": 1,
+      "community": 2,
       "norm_label": "aplicacao em chat ui \u2014 nexus.ai frontend design",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_aplicacao_em_chat_ui_nexus_ai_frontend_design"
     },
@@ -8936,7 +8999,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L235",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:block14 (checklist de ux para chat de ia (microsoft + nexus.ai):)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_14"
     },
@@ -8945,7 +9008,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L252",
-      "community": 1,
+      "community": 2,
       "norm_label": "templates de prompt para o nexus.ai",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_templates_de_prompt_para_o_nexus_ai"
     },
@@ -8954,7 +9017,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L254",
-      "community": 1,
+      "community": 2,
       "norm_label": "template: camila imobiliaria",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_template_camila_imobiliaria"
     },
@@ -8963,7 +9026,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L255",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:python (system_prompt = \"\"\")",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_15"
     },
@@ -8972,7 +9035,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L265",
-      "community": 1,
+      "community": 2,
       "norm_label": "template: jarvis_voz",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_template_jarvis_voz"
     },
@@ -8981,7 +9044,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L266",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:python (system_prompt = \"\"\")",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_16"
     },
@@ -8990,7 +9053,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L277",
-      "community": 1,
+      "community": 2,
       "norm_label": "regra anti-alucinacao (nexus.ai standard)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_regra_anti_alucinacao_nexus_ai_standard"
     },
@@ -8999,7 +9062,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L278",
-      "community": 1,
+      "community": 2,
       "norm_label": "code:python (# sempre incluir no system prompt de agentes com dados reais)",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_codeblock_17"
     },
@@ -9458,7 +9521,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L404",
-      "community": 72,
+      "community": 73,
       "norm_label": "mr. cavalheiros (e-commerce de moda masculina premium)",
       "id": "01_global_skills_skill_highend_ui_v5_mr_cavalheiros_e_commerce_de_moda_masculina_premium"
     },
@@ -9467,7 +9530,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/\ud83d\udc8e Skill_HighEnd_UI_V5.md",
       "source_location": "L469",
-      "community": 91,
+      "community": 90,
       "norm_label": "para mr. cavalheiros (luxo editorial)",
       "id": "01_global_skills_skill_highend_ui_v5_para_mr_cavalheiros_luxo_editorial"
     },
@@ -9494,7 +9557,7 @@
       "file_type": "document",
       "source_file": "C:/Users/cerqu/Documents/Obsidian  work/Nexus.AI/01_Global_Skills/\ud83e\udde0 Skill_Claude_Design_Elite_V5.md",
       "source_location": "L1",
-      "community": 0,
+      "community": 1,
       "norm_label": "\ud83e\udde0 skill_claude_design_elite_v5.md",
       "id": "c_users_cerqu_documents_obsidian_work_nexus_ai_01_global_skills_skill_claude_design_elite_v5_md"
     },
@@ -9539,7 +9602,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L1",
-      "community": 32,
+      "community": 31,
       "norm_label": "auditoria_autoevolucao.md",
       "id": "auditoria_autoevolucao_md"
     },
@@ -9548,7 +9611,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L1",
-      "community": 32,
+      "community": 31,
       "norm_label": "auditoria de auto-evolucao e criacao de skills (nexus.ai)",
       "id": "nexus_ai_auditoria_autoevolucao_auditoria_de_auto_evolu_o_e_cria_o_de_skills_nexus_ai"
     },
@@ -9557,7 +9620,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L11",
-      "community": 32,
+      "community": 31,
       "norm_label": "\ud83d\udd2c estado atual do protocolo de auto-evolucao",
       "id": "nexus_ai_auditoria_autoevolucao_estado_atual_do_protocolo_de_auto_evolu_o"
     },
@@ -9566,7 +9629,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L18",
-      "community": 32,
+      "community": 31,
       "norm_label": "o que ja esta excelente (nivel elite):",
       "id": "nexus_ai_auditoria_autoevolucao_o_que_j_est_excelente_n_vel_elite"
     },
@@ -9575,7 +9638,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L25",
-      "community": 32,
+      "community": 31,
       "norm_label": "\u26a0\ufe0f pontas soltas: onde a auto-evolucao pode quebrar",
       "id": "nexus_ai_auditoria_autoevolucao_pontas_soltas_onde_a_auto_evolu_o_pode_quebrar"
     },
@@ -9584,7 +9647,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L29",
-      "community": 32,
+      "community": 31,
       "norm_label": "gargalo 1: falta de vinculacao com o template",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_1_falta_de_vincula_o_com_o_template"
     },
@@ -9593,7 +9656,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L34",
-      "community": 32,
+      "community": 31,
       "norm_label": "gargalo 2: injecao \"cega\" no mapa mestre",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_2_inje_o_cega_no_mapa_mestre"
     },
@@ -9602,7 +9665,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L39",
-      "community": 32,
+      "community": 31,
       "norm_label": "gargalo 3: amnesia pos-criacao (o problema do graphify)",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_3_amn_sia_p_s_cria_o_o_problema_do_graphify"
     },
@@ -9611,7 +9674,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L44",
-      "community": 32,
+      "community": 31,
       "norm_label": "gargalo 4: a regra do gatilho e subjetiva",
       "id": "nexus_ai_auditoria_autoevolucao_gargalo_4_a_regra_do_gatilho_subjetiva"
     },
@@ -9620,7 +9683,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L50",
-      "community": 32,
+      "community": 31,
       "norm_label": "\ud83d\udee0\ufe0f a sugestao de refatoracao (para copiar e colar no `claude.md`)",
       "id": "nexus_ai_auditoria_autoevolucao_a_sugest_o_de_refatora_o_para_copiar_e_colar_no_claude_md"
     },
@@ -9629,7 +9692,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L54",
-      "community": 32,
+      "community": 31,
       "norm_label": "code:markdown (### \ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect editio)",
       "id": "nexus_ai_auditoria_autoevolucao_codeblock_1"
     },
@@ -9638,7 +9701,7 @@
       "file_type": "document",
       "source_file": "Auditoria_AutoEvolucao.md",
       "source_location": "L67",
-      "community": 32,
+      "community": 31,
       "norm_label": "\ud83c\udfc1 conclusao",
       "id": "nexus_ai_auditoria_autoevolucao_conclus_o"
     },
@@ -9746,7 +9809,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L1",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udee1\ufe0f nexus.ai - alavanca ai operating system",
       "id": "nexus_ai_claude_nexus_ai_alavanca_ai_operating_system"
     },
@@ -9755,7 +9818,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L11",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcd7 diretrizes de elite",
       "id": "nexus_ai_claude_diretrizes_de_elite"
     },
@@ -9764,7 +9827,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L20",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcc2 protocolo de inicializacao e vinculo (obsidian mcp)",
       "id": "nexus_ai_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp"
     },
@@ -9773,7 +9836,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L27",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udccd regras estritas de localizacao (anti-erro de arquitetura)",
       "id": "nexus_ai_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura"
     },
@@ -9782,7 +9845,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L36",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83e\udde0 intelligence & standards",
       "id": "nexus_ai_claude_intelligence_standards"
     },
@@ -9791,7 +9854,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L49",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcc2 estrutura do cofre",
       "id": "nexus_ai_claude_estrutura_do_cofre"
     },
@@ -9800,7 +9863,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L77",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcdc regras de ouro (alavanca ai)",
       "id": "nexus_ai_claude_regras_de_ouro_alavanca_ai"
     },
@@ -9809,7 +9872,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L104",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83e\udde0 protocolo de aprendizado e autorrecuperacao (nexus v4.0)",
       "id": "nexus_ai_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0"
     },
@@ -9818,7 +9881,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L109",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udee0\ufe0f ativacao de habilidades (obsidian-skills)",
       "id": "nexus_ai_claude_ativa_o_de_habilidades_obsidian_skills"
     },
@@ -9827,7 +9890,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L115",
-      "community": 4,
+      "community": 0,
       "norm_label": "\u26a1 integracao gsd global (arquitetura de projeto)",
       "id": "nexus_ai_claude_integra_o_gsd_global_arquitetura_de_projeto"
     },
@@ -9836,7 +9899,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L122",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\ude80 protocolo de auto-evolucao (nexus v5) - perfect edition",
       "id": "nexus_ai_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition"
     },
@@ -9845,7 +9908,7 @@
       "file_type": "document",
       "source_file": "00_Engine_Claude/hot.md",
       "source_location": "L1",
-      "community": 87,
+      "community": 86,
       "norm_label": "hot.md",
       "id": "00_engine_claude_hot_md"
     },
@@ -9872,7 +9935,7 @@
       "file_type": "document",
       "source_file": "01_Global_Skills/MSFT_Prompt_Engineering_e_UX_IA.md",
       "source_location": "L1",
-      "community": 1,
+      "community": 2,
       "norm_label": "msft_prompt_engineering_e_ux_ia.md",
       "id": "01_global_skills_msft_prompt_engineering_e_ux_ia_md"
     },
@@ -11240,7 +11303,7 @@
       "file_type": "document",
       "source_file": "05_Obsidian_Skills/defuddle/obsidian-markdown/references/CALLOUTS.md",
       "source_location": "L1",
-      "community": 28,
+      "community": 29,
       "norm_label": "callouts.md",
       "id": "05_obsidian_skills_defuddle_obsidian_markdown_references_callouts_md"
     },
@@ -11267,7 +11330,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L1",
-      "community": 2,
+      "community": 3,
       "norm_label": "01_estrategias_meta.md",
       "id": "06_growth_marketing_01_estrat_gias_e_funis_01_estrat_gias_meta_md"
     },
@@ -11276,7 +11339,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L1",
-      "community": 2,
+      "community": 3,
       "norm_label": "\ud83c\udfaf estrategias meta ads \u2014 framework refinado",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_estrat_gias_meta_ads_framework_refinado"
     },
@@ -11285,7 +11348,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L9",
-      "community": 2,
+      "community": 3,
       "norm_label": "1. andromeda: o novo motor de entrega meta (2026)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_1_andromeda_o_novo_motor_de_entrega_meta_2026"
     },
@@ -11294,7 +11357,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L13",
-      "community": 2,
+      "community": 3,
       "norm_label": "1.1 os 3 pilares do novo motor",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_1_1_os_3_pilares_do_novo_motor"
     },
@@ -11303,7 +11366,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L21",
-      "community": 2,
+      "community": 3,
       "norm_label": "1.2 a regra de ouro da similaridade",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_1_2_a_regra_de_ouro_da_similaridade"
     },
@@ -11312,7 +11375,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L30",
-      "community": 2,
+      "community": 3,
       "norm_label": "2. framework de diversidade criativa (rubrica 0-10)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_2_framework_de_diversidade_criativa_rubrica_0_10"
     },
@@ -11321,7 +11384,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L42",
-      "community": 2,
+      "community": 3,
       "norm_label": "interpretacao do score",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_interpreta_o_do_score"
     },
@@ -11330,7 +11393,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L49",
-      "community": 2,
+      "community": 3,
       "norm_label": "3. preditor de clustering pre-lancamento",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_3_preditor_de_clustering_pr_lan_amento"
     },
@@ -11339,7 +11402,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L63",
-      "community": 2,
+      "community": 3,
       "norm_label": "4. estrutura de conta \u2014 cbo vs abo",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_4_estrutura_de_conta_cbo_vs_abo"
     },
@@ -11348,7 +11411,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L65",
-      "community": 2,
+      "community": 3,
       "norm_label": "4.1 decisao cbo vs abo",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_4_1_decis_o_cbo_vs_abo"
     },
@@ -11357,7 +11420,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L73",
-      "community": 2,
+      "community": 3,
       "norm_label": "4.2 estrutura simplificada (recomendada 2026)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_4_2_estrutura_simplificada_recomendada_2026"
     },
@@ -11366,7 +11429,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L75",
-      "community": 2,
+      "community": 3,
       "norm_label": "code:block1 (\ud83d\udce6 estrutura ideal meta ads 2026)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_codeblock_1"
     },
@@ -11375,7 +11438,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L91",
-      "community": 2,
+      "community": 3,
       "norm_label": "4.3 advantage+ sales campaigns (ex-asc)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_4_3_advantage_sales_campaigns_ex_asc"
     },
@@ -11384,7 +11447,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L107",
-      "community": 2,
+      "community": 3,
       "norm_label": "5. publicos e targeting",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_5_p_blicos_e_targeting"
     },
@@ -11393,7 +11456,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L109",
-      "community": 2,
+      "community": 3,
       "norm_label": "5.1 frequencia saudavel",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_5_1_frequ_ncia_saud_vel"
     },
@@ -11402,7 +11465,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L116",
-      "community": 2,
+      "community": 3,
       "norm_label": "5.2 checklist de publicos",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_5_2_checklist_de_p_blicos"
     },
@@ -11411,7 +11474,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L126",
-      "community": 2,
+      "community": 3,
       "norm_label": "5.3 mudancas 2025-2026",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_5_3_mudan_as_2025_2026"
     },
@@ -11420,7 +11483,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L134",
-      "community": 2,
+      "community": 3,
       "norm_label": "6. estrategia de bidding meta",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_6_estrat_gia_de_bidding_meta"
     },
@@ -11429,7 +11492,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L145",
-      "community": 2,
+      "community": 3,
       "norm_label": "7. escalabilidade \u2014 regras de ouro",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_7_escalabilidade_regras_de_ouro"
     },
@@ -11438,7 +11501,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L147",
-      "community": 2,
+      "community": 3,
       "norm_label": "regra dos 20%",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_regra_dos_20"
     },
@@ -11447,7 +11510,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L150",
-      "community": 2,
+      "community": 3,
       "norm_label": "code:block2 (semana 1: $100/dia \u2192 $120/dia)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_codeblock_2"
     },
@@ -11456,7 +11519,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L156",
-      "community": 2,
+      "community": 3,
       "norm_label": "5 metodos de escalar",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_5_m_todos_de_escalar"
     },
@@ -11465,7 +11528,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L163",
-      "community": 2,
+      "community": 3,
       "norm_label": "green light para escalar",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_green_light_para_escalar"
     },
@@ -11474,7 +11537,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L170",
-      "community": 2,
+      "community": 3,
       "norm_label": "kill rule (regra dos 3\u00d7)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_kill_rule_regra_dos_3"
     },
@@ -11483,7 +11546,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L178",
-      "community": 2,
+      "community": 3,
       "norm_label": "8. pixel / capi \u2014 fundacao de tracking",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_8_pixel_capi_funda_o_de_tracking"
     },
@@ -11492,7 +11555,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L180",
-      "community": 2,
+      "community": 3,
       "norm_label": "8.1 hierarquia de prioridade (checks criticos)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_8_1_hierarquia_de_prioridade_checks_cr_ticos"
     },
@@ -11501,7 +11564,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L189",
-      "community": 2,
+      "community": 3,
       "norm_label": "8.2 emq optimization guide",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_8_2_emq_optimization_guide"
     },
@@ -11510,7 +11573,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L209",
-      "community": 2,
+      "community": 3,
       "norm_label": "9. benchmarks meta ads 2026",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_9_benchmarks_meta_ads_2026"
     },
@@ -11519,7 +11582,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L211",
-      "community": 2,
+      "community": 3,
       "norm_label": "por objetivo",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_por_objetivo"
     },
@@ -11528,7 +11591,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L217",
-      "community": 2,
+      "community": 3,
       "norm_label": "roas por segmento",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_roas_por_segmento"
     },
@@ -11537,7 +11600,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L224",
-      "community": 2,
+      "community": 3,
       "norm_label": "creative fatigue (lifespan andromeda)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_creative_fatigue_lifespan_andromeda"
     },
@@ -11546,7 +11609,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L230",
-      "community": 2,
+      "community": 3,
       "norm_label": "budget minimo viavel",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_budget_m_nimo_vi_vel"
     },
@@ -11555,7 +11618,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L237",
-      "community": 2,
+      "community": 3,
       "norm_label": "10. framework de teste a/b (meta experiments)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_10_framework_de_teste_a_b_meta_experiments"
     },
@@ -11564,7 +11627,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L239",
-      "community": 2,
+      "community": 3,
       "norm_label": "estrutura de hipotese",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_estrutura_de_hip_tese"
     },
@@ -11573,7 +11636,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L241",
-      "community": 2,
+      "community": 3,
       "norm_label": "code:block3 (se [acao/mudanca])",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_codeblock_3"
     },
@@ -11582,7 +11645,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L253",
-      "community": 2,
+      "community": 3,
       "norm_label": "setup meta experiments",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_setup_meta_experiments"
     },
@@ -11591,7 +11654,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L260",
-      "community": 2,
+      "community": 3,
       "norm_label": "o que testar (prioridade)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_o_que_testar_prioridade"
     },
@@ -11600,7 +11663,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L269",
-      "community": 2,
+      "community": 3,
       "norm_label": "11. specs criativos meta",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_11_specs_criativos_meta"
     },
@@ -11609,7 +11672,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L271",
-      "community": 2,
+      "community": 3,
       "norm_label": "dimensoes por placement",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_dimens_es_por_placement"
     },
@@ -11618,7 +11681,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L280",
-      "community": 2,
+      "community": 3,
       "norm_label": "safe zones (reels/stories)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_safe_zones_reels_stories"
     },
@@ -11627,7 +11690,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L286",
-      "community": 2,
+      "community": 3,
       "norm_label": "limites de copy",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_limites_de_copy"
     },
@@ -11636,7 +11699,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L296",
-      "community": 2,
+      "community": 3,
       "norm_label": "12. budget allocation \u2014 regra 70/20/10",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_12_budget_allocation_regra_70_20_10"
     },
@@ -11645,7 +11708,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L304",
-      "community": 2,
+      "community": 3,
       "norm_label": "mer (marketing efficiency ratio)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_mer_marketing_efficiency_ratio"
     },
@@ -11654,7 +11717,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/01_Estrat\u00e9gias_e_Funis/01_Estrat\u00e9gias_Meta.md",
       "source_location": "L305",
-      "community": 2,
+      "community": 3,
       "norm_label": "code:block4 (mer = receita total / gasto total de marketing)",
       "id": "01_estrat_gias_e_funis_01_estrat_gias_meta_codeblock_4"
     },
@@ -11699,7 +11762,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L24",
-      "community": 124,
+      "community": 122,
       "norm_label": "2. framework aida \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_2_framework_aida_templates_prontos"
     },
@@ -11708,7 +11771,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L30",
-      "community": 124,
+      "community": 122,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma"
     },
@@ -11717,7 +11780,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L41",
-      "community": 124,
+      "community": 122,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos"
     },
@@ -11726,7 +11789,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L49",
-      "community": 124,
+      "community": 122,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t"
     },
@@ -11735,7 +11798,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L57",
-      "community": 121,
+      "community": 123,
       "norm_label": "3. framework pas \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_3_framework_pas_templates_prontos"
     },
@@ -11744,7 +11807,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L63",
-      "community": 121,
+      "community": 123,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_63"
     },
@@ -11753,7 +11816,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L74",
-      "community": 121,
+      "community": 123,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_74"
     },
@@ -11762,7 +11825,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L82",
-      "community": 121,
+      "community": 123,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_82"
     },
@@ -11807,7 +11870,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L122",
-      "community": 125,
+      "community": 124,
       "norm_label": "5. framework 4p \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_5_framework_4p_templates_prontos"
     },
@@ -11816,7 +11879,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L128",
-      "community": 125,
+      "community": 124,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_128"
     },
@@ -11825,7 +11888,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L137",
-      "community": 125,
+      "community": 124,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_137"
     },
@@ -11834,7 +11897,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L145",
-      "community": 125,
+      "community": 124,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_145"
     },
@@ -11843,7 +11906,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L152",
-      "community": 123,
+      "community": 125,
       "norm_label": "6. framework fab \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_6_framework_fab_templates_prontos"
     },
@@ -11852,7 +11915,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L158",
-      "community": 123,
+      "community": 125,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_158"
     },
@@ -11861,7 +11924,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L167",
-      "community": 123,
+      "community": 125,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_167"
     },
@@ -11870,7 +11933,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L175",
-      "community": 123,
+      "community": 125,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_175"
     },
@@ -11879,7 +11942,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L183",
-      "community": 128,
+      "community": 126,
       "norm_label": "7. framework star-story-solution \u2014 templates prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_7_framework_star_story_solution_templates_prontos"
     },
@@ -11888,7 +11951,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L189",
-      "community": 128,
+      "community": 126,
       "norm_label": "templates por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_templates_por_plataforma_189"
     },
@@ -11897,7 +11960,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L198",
-      "community": 128,
+      "community": 126,
       "norm_label": "exemplos prontos",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_exemplos_prontos_198"
     },
@@ -11906,7 +11969,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L206",
-      "community": 128,
+      "community": 126,
       "norm_label": "regras do/don't",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_regras_do_don_t_206"
     },
@@ -11915,7 +11978,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L214",
-      "community": 122,
+      "community": 121,
       "norm_label": "8. guia de selecao por temperatura de audiencia",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_8_guia_de_sele_o_por_temperatura_de_audi_ncia"
     },
@@ -11924,7 +11987,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L216",
-      "community": 122,
+      "community": 121,
       "norm_label": "\ud83e\uddca audiencia fria (nao conhece a marca)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_fria_n_o_conhece_a_marca"
     },
@@ -11933,7 +11996,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L223",
-      "community": 122,
+      "community": 121,
       "norm_label": "\ud83c\udf21\ufe0f audiencia morna (engajou mas nao converteu)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_morna_engajou_mas_n_o_converteu"
     },
@@ -11942,7 +12005,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L230",
-      "community": 122,
+      "community": 121,
       "norm_label": "\ud83d\udd25 audiencia quente (clientes passados, alta intencao)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_audi_ncia_quente_clientes_passados_alta_inten_o"
     },
@@ -12050,7 +12113,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L311",
-      "community": 126,
+      "community": 128,
       "norm_label": "11. ganchos de retencao \u2014 framework de diversidade",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_ganchos_de_reten_o_framework_de_diversidade"
     },
@@ -12059,7 +12122,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L313",
-      "community": 126,
+      "community": 128,
       "norm_label": "11.1 padroes de gancho para video (primeiros 1-3s)",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_1_padr_es_de_gancho_para_v_deo_primeiros_1_3s"
     },
@@ -12068,7 +12131,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L324",
-      "community": 126,
+      "community": 128,
       "norm_label": "11.2 sinais de fadiga criativa",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_2_sinais_de_fadiga_criativa"
     },
@@ -12077,7 +12140,7 @@
       "file_type": "document",
       "source_file": "06_Growth_Marketing/02_Copys_e_Criativos/02_Copy_e_Ganchos.md",
       "source_location": "L334",
-      "community": 126,
+      "community": 128,
       "norm_label": "11.3 cadencia de refresh por plataforma",
       "id": "02_copys_e_criativos_02_copy_e_ganchos_11_3_cad_ncia_de_refresh_por_plataforma"
     },
@@ -12482,7 +12545,7 @@
       "file_type": "document",
       "source_file": "agents/wiki-ingest.md",
       "source_location": "L1",
-      "community": 29,
+      "community": 32,
       "norm_label": "wiki-ingest.md",
       "id": "agents_wiki_ingest_md"
     },
@@ -12545,7 +12608,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L120",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\ude80 protocolo de auto-evolucao (nexus v5)",
       "id": "nexus_ai_claude_protocolo_de_auto_evolu_o_nexus_v5"
     },
@@ -12554,7 +12617,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L129",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcdd registro de licoes aprendidas (gsd workflow)",
       "id": "nexus_ai_claude_registro_de_li_es_aprendidas_gsd_workflow"
     },
@@ -12563,7 +12626,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L134",
-      "community": 4,
+      "community": 0,
       "norm_label": "\ud83d\udcdc exemplo de gatilho",
       "id": "nexus_ai_claude_exemplo_de_gatilho"
     },
@@ -12572,7 +12635,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L138",
-      "community": 4,
+      "community": 0,
       "norm_label": "protocolo rag semantico (graphify intelligence layer)",
       "id": "nexus_ai_claude_protocolo_rag_semantico_graphify_intelligence_layer"
     },
@@ -12581,7 +12644,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L142",
-      "community": 4,
+      "community": 0,
       "norm_label": "arquivos do grafo",
       "id": "nexus_ai_claude_arquivos_do_grafo"
     },
@@ -12590,7 +12653,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L148",
-      "community": 4,
+      "community": 0,
       "norm_label": "comunidades semanticas (mapa de intencoes)",
       "id": "nexus_ai_claude_comunidades_sem_nticas_mapa_de_inten_es"
     },
@@ -12599,7 +12662,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L160",
-      "community": 4,
+      "community": 0,
       "norm_label": "god nodes (nos de alta conectividade)",
       "id": "nexus_ai_claude_god_nodes_n_s_de_alta_conectividade"
     },
@@ -12608,7 +12671,7 @@
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L168",
-      "community": 4,
+      "community": 0,
       "norm_label": "regras de uso rag",
       "id": "nexus_ai_claude_regras_de_uso_rag"
     },
@@ -13731,47 +13794,6 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L33",
-      "weight": 1.0,
-      "source": "scripts_apply_descriptions_py",
-      "target": "scripts_apply_descriptions_process_file",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L48",
-      "weight": 1.0,
-      "source": "scripts_apply_descriptions_py",
-      "target": "scripts_apply_descriptions_main",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "context": "call",
-      "confidence": "EXTRACTED",
-      "source_file": "scripts/apply_descriptions.py",
-      "source_location": "L50",
-      "weight": 1.0,
-      "source": "scripts_apply_descriptions_main",
-      "target": "scripts_apply_descriptions_process_file",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "scripts/dump_skills.py",
-      "source_location": "L7",
-      "weight": 1.0,
-      "source": "scripts_dump_skills_py",
-      "target": "scripts_dump_skills_main",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
       "source_file": "scripts/standardize_skills.py",
       "source_location": "L7",
       "weight": 1.0,
@@ -13928,6 +13950,16 @@
       "source_file": "CLAUDE.md",
       "source_location": "L1",
       "weight": 1.0,
+      "source": "claude_md",
+      "target": "hermes_claude_hermes_os_alavanca_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
       "confidence_score": 1.0,
       "source": "claude_md",
       "target": "hermes_claude_hermes_os"
@@ -13958,99 +13990,59 @@
       "source_file": "CLAUDE.md",
       "source_location": "L11",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_diretrizes_de_elite"
+      "source": "hermes_claude_hermes_os_alavanca_ai",
+      "target": "hermes_claude_identidade_e_prop_sito_base",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L20",
+      "source_location": "L19",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp"
+      "source": "hermes_claude_hermes_os_alavanca_ai",
+      "target": "hermes_claude_arquitetura_do_monorepo_a_regra_de_ouro",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L27",
+      "source_location": "L33",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura"
+      "source": "hermes_claude_hermes_os_alavanca_ai",
+      "target": "hermes_claude_estrutura_do_cofre_e_manuten_o_de_conhecimento",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L36",
+      "source_location": "L44",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_intelligence_standards"
+      "source": "hermes_claude_hermes_os_alavanca_ai",
+      "target": "hermes_claude_inje_o_r_pida_de_tarefas_via_cli",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L47",
+      "source_location": "L56",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_estrutura_do_cofre"
+      "source": "hermes_claude_hermes_os_alavanca_ai",
+      "target": "hermes_claude_protocolo_de_evolu_o_cont_nua",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L75",
+      "source_location": "L48",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_regras_de_ouro"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L96",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_hermes_os",
-      "target": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L101",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
-      "target": "hermes_claude_ativa_o_de_habilidades_obsidian_skills"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L107",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
-      "target": "hermes_claude_integra_o_gsd_global_arquitetura_de_projeto"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L114",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
-      "target": "hermes_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition"
+      "source": "hermes_claude_inje_o_r_pida_de_tarefas_via_cli",
+      "target": "hermes_claude_codeblock_1",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -22885,6 +22877,147 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_apply_descriptions_py",
+      "target": "scripts_apply_descriptions_process_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_apply_descriptions_py",
+      "target": "scripts_apply_descriptions_main"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/apply_descriptions.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_apply_descriptions_main",
+      "target": "scripts_apply_descriptions_process_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/dump_skills.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_dump_skills_py",
+      "target": "scripts_dump_skills_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_diretrizes_de_elite"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_protocolo_de_inicializa_o_e_v_nculo_obsidian_mcp"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_regras_estritas_de_localiza_o_anti_erro_de_arquitetura"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_intelligence_standards"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_estrutura_do_cofre"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L75",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_regras_de_ouro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L96",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_hermes_os",
+      "target": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L101",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
+      "target": "hermes_claude_ativa_o_de_habilidades_obsidian_skills"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L107",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
+      "target": "hermes_claude_integra_o_gsd_global_arquitetura_de_projeto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L114",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "hermes_claude_protocolo_de_aprendizado_e_autorrecupera_o_nexus_v4_0",
+      "target": "hermes_claude_protocolo_de_auto_evolu_o_nexus_v5_perfect_edition"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
       "source_location": "L11",
       "weight": 1.0,
@@ -28222,5 +28355,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "4944b05ac26fd2af7ccd4f691fbe49a146f44712"
+  "built_at_commit": "ddce27e4b2c136f4cc8b70166a4e6e09f5eaccc7"
 }

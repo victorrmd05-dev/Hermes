@@ -1,16 +1,16 @@
 # Graph Report - Hermes  (2026-06-16)
 
 ## Corpus Check
-- 60 files · ~43,149 words
+- 58 files · ~38,634 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1531 nodes · 1454 edges · 163 communities (136 shown, 27 thin omitted)
+- 1538 nodes · 1461 edges · 163 communities (136 shown, 27 thin omitted)
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 9 edges (avg confidence: 0.86)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4944b05a`
+- Built from commit: `ddce27e4`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -205,23 +205,23 @@
 
 ### Community 0 - "Community 0"
 Cohesion: 0.04
-Nodes (46): code:block1 (1. Vocalizar o sistema antes de codificar: "Vou usar X para ), code:block10 ((1) Perguntar → Mínimo 10 perguntas para projetos novos), code:css (/* Exemplo: criar variante mais clara de uma cor existente *), code:yaml (skill_id: claude-design-elite-v5), code:block2 (┌─────────────────────────────────────────────────┐), code:javascript (// SALVAR posição ao mudar), code:javascript (// Defina defaults com markers especiais para reescrita auto), code:block5 (⚠️ ORDEM IMPORTA — registrar listener ANTES de anunciar disp) (+38 more)
+Nodes (48): 📂 Arquitetura do Monorepo (A Regra de Ouro), 🛠️ Ativação de Habilidades (obsidian-skills), code:bash (# Como acionar o CEO via bash script), 📗 Diretrizes de Elite, 📂 Estrutura do Cofre, 📍 Estrutura do Cofre e Manutenção de Conhecimento, 🛡️ Hermes OS, 🛡️ Hermes OS (Alavanca AI) (+40 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.04
-Nodes (45): 1. Zero-Shot — Direto ao ponto, 2. Few-Shot — Aprenda com exemplos, 3. Chain-of-Thought (CoT) — Ensine o raciocinio, 4. Generated Knowledge — Enriquecer com dados proprios, 5. Least-to-Most — Decomposicao em sub-tarefas, 6. Self-Refine — Critica iterativa, 7. Maieutic Prompting — Verificacao de consistencia, 7 Tecnicas Avancadas (Microsoft Curriculum) (+37 more)
+Nodes (46): code:block1 (1. Vocalizar o sistema antes de codificar: "Vou usar X para ), code:block10 ((1) Perguntar → Mínimo 10 perguntas para projetos novos), code:css (/* Exemplo: criar variante mais clara de uma cor existente *), code:yaml (skill_id: claude-design-elite-v5), code:block2 (┌─────────────────────────────────────────────────┐), code:javascript (// SALVAR posição ao mudar), code:javascript (// Defina defaults com markers especiais para reescrita auto), code:block5 (⚠️ ORDEM IMPORTA — registrar listener ANTES de anunciar disp) (+38 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.05
-Nodes (43): 10. FRAMEWORK DE TESTE A/B (META EXPERIMENTS), 11. SPECS CRIATIVOS META, 12. BUDGET ALLOCATION — REGRA 70/20/10, 1.1 Os 3 Pilares do Novo Motor, 1.2 A Regra de Ouro da Similaridade, 1. ANDROMEDA: O Novo Motor de Entrega Meta (2026), 2. FRAMEWORK DE DIVERSIDADE CRIATIVA (Rubrica 0-10), 3. PREDITOR DE CLUSTERING PRÉ-LANÇAMENTO (+35 more)
+Cohesion: 0.04
+Nodes (45): 1. Zero-Shot — Direto ao ponto, 2. Few-Shot — Aprenda com exemplos, 3. Chain-of-Thought (CoT) — Ensine o raciocinio, 4. Generated Knowledge — Enriquecer com dados proprios, 5. Least-to-Most — Decomposicao em sub-tarefas, 6. Self-Refine — Critica iterativa, 7. Maieutic Prompting — Verificacao de consistencia, 7 Tecnicas Avancadas (Microsoft Curriculum) (+37 more)
 
 ### Community 3 - "Community 3"
 Cohesion: 0.05
-Nodes (41): Bloquear Checkout (Intercept), 🛑 CART & CHECKOUT VALIDATION, 🛒 CART TRANSFORM (Brinde Automático), 🖥️ CHECKOUT UI EXTENSION (React), CLI Rápida, code:bash (shopify app generate extension), code:javascript (export function run(input) {), code:block11 (extensions/checkout-ui/) (+33 more)
+Nodes (43): 10. FRAMEWORK DE TESTE A/B (META EXPERIMENTS), 11. SPECS CRIATIVOS META, 12. BUDGET ALLOCATION — REGRA 70/20/10, 1.1 Os 3 Pilares do Novo Motor, 1.2 A Regra de Ouro da Similaridade, 1. ANDROMEDA: O Novo Motor de Entrega Meta (2026), 2. FRAMEWORK DE DIVERSIDADE CRIATIVA (Rubrica 0-10), 3. PREDITOR DE CLUSTERING PRÉ-LANÇAMENTO (+35 more)
 
 ### Community 4 - "Community 4"
 Cohesion: 0.05
-Nodes (41): 🛠️ Ativação de Habilidades (obsidian-skills), 📗 Diretrizes de Elite, 📂 Estrutura do Cofre, 🛡️ Hermes OS, ⚡ Integração GSD Global (Arquitetura de Projeto), 🧠 Intelligence & Standards, 🧠 Protocolo de Aprendizado e Autorrecuperação (Nexus V4.0), 🚀 Protocolo de Auto-Evolução (Nexus V5) - PERFECT EDITION (+33 more)
+Nodes (41): Bloquear Checkout (Intercept), 🛑 CART & CHECKOUT VALIDATION, 🛒 CART TRANSFORM (Brinde Automático), 🖥️ CHECKOUT UI EXTENSION (React), CLI Rápida, code:bash (shopify app generate extension), code:javascript (export function run(input) {), code:block11 (extensions/checkout-ui/) (+33 more)
 
 ### Community 5 - "Community 5"
 Cohesion: 0.05
@@ -316,24 +316,24 @@ Cohesion: 0.15
 Nodes (12): 🧩 Case-Insensitive Lookup com Busca Parcial, code:python (SNAPSHOT_PATH = Path(__file__).resolve().parent / 'reference), code:python (def find_commands(query: str, limit: int = 20) -> list[Porti), code:python (def get_commands(include_plugins: bool = True, include_skill), code:python (@dataclass(frozen=True)), 🦅 Elite Claw Skills, 🧩 Execução com Feedback Estruturado (None-Guard), 🧩 Filtro Composicional de Comandos (+4 more)
 
 ### Community 28 - "Community 28"
-Cohesion: 0.17
-Nodes (10): Basic Callout, Callouts Reference, code:markdown (> [!note]), code:markdown (> [!faq]- Collapsed by default), code:markdown (> [!question] Outer callout), code:css (.callout[data-callout="custom-type"] {), Custom Callouts (CSS), Foldable Callouts (+2 more)
+Cohesion: 0.23
+Nodes (10): 1. Document Processing Engine (Markdown Splitting), 2. Metadata Logic for Semantic Search, 3. Knowledge Structuring System Prompts, 4. Technical Architecture Notes, Core Logic: `neural-interface/lib/session-chunker.js`, Key Prompt: `skills/synabun/modules/audit.md`, Key Prompt: `skills/synabun/modules/memorize.md`, Metadata Schema: `mcp-server/src/services/sqlite.ts` (+2 more)
 
 ### Community 29 - "Community 29"
-Cohesion: 0.26
-Nodes (10): code:bash (python3 scripts/wiki-mode.py route <type> "<name>"), code:bash (bash scripts/wiki-lock.sh acquire wiki/sources/<slug>.md || ), code:block3 (Source: [title]), Concurrency (v1.7+): per-file locks REQUIRED for page writes, Do NOT, DragonScale address assignment (still single-writer at the allocator), Mode awareness (v1.8+): consult the router BEFORE writing, Output Format (+2 more)
+Cohesion: 0.17
+Nodes (10): Basic Callout, Callouts Reference, code:markdown (> [!note]), code:markdown (> [!faq]- Collapsed by default), code:markdown (> [!question] Outer callout), code:css (.callout[data-callout="custom-type"] {), Custom Callouts (CSS), Foldable Callouts (+2 more)
 
 ### Community 30 - "Community 30"
 Cohesion: 0.17
 Nodes (11): 🎯 1. Objetivo da Integração, ☁️ 2. Infraestrutura e Hospedagem, 🟢 3. Status dos Componentes (100% Operacionais), 🔄 4. O Fluxo de Integração MCP, 🛠️ 5. Ferramentas e Atalhos Úteis, code:bash (paperclip "Título da sua tarefa aqui" "Descrição estendida e), Fluxo "Invertido" (Hermes como Iniciador), 🤖 Hermes Agent (+3 more)
 
 ### Community 31 - "Community 31"
-Cohesion: 0.23
-Nodes (10): 1. Document Processing Engine (Markdown Splitting), 2. Metadata Logic for Semantic Search, 3. Knowledge Structuring System Prompts, 4. Technical Architecture Notes, Core Logic: `neural-interface/lib/session-chunker.js`, Key Prompt: `skills/synabun/modules/audit.md`, Key Prompt: `skills/synabun/modules/memorize.md`, Metadata Schema: `mcp-server/src/services/sqlite.ts` (+2 more)
-
-### Community 32 - "Community 32"
 Cohesion: 0.17
 Nodes (11): 🛠️ A Sugestão de Refatoração (Para Copiar e Colar no `CLAUDE.md`), Auditoria de Auto-Evolução e Criação de Skills (Nexus.AI), code:markdown (### 🚀 Protocolo de Auto-Evolução (Nexus V5) - PERFECT EDITIO), 🏁 Conclusão, 🔬 Estado Atual do Protocolo de Auto-Evolução, Gargalo 1: Falta de Vinculação com o Template, Gargalo 2: Injeção "Cega" no Mapa Mestre, Gargalo 3: Amnésia Pós-Criação (O Problema do Graphify) (+3 more)
+
+### Community 32 - "Community 32"
+Cohesion: 0.26
+Nodes (10): code:bash (python3 scripts/wiki-mode.py route <type> "<name>"), code:bash (bash scripts/wiki-lock.sh acquire wiki/sources/<slug>.md || ), code:block3 (Source: [title]), Concurrency (v1.7+): per-file locks REQUIRED for page writes, Do NOT, DragonScale address assignment (still single-writer at the allocator), Mode awareness (v1.8+): consult the router BEFORE writing, Output Format (+2 more)
 
 ### Community 33 - "Community 33"
 Cohesion: 0.17
@@ -341,11 +341,11 @@ Nodes (12): Agente de Agendamento Clínica (LangGraph), Camila — Assistente Im
 
 ### Community 34 - "Community 34"
 Cohesion: 0.18
-Nodes (11): Cart, code:liquid ({{ shop.name }} {{ shop.email }} {{ shop.domain }}), code:liquid ({{ product.title }} {{ product.description }} {{ product.ven), code:liquid ({{ collection.title }} {{ collection.products_count }}), code:liquid ({{ cart.item_count }} {{ cart.total_price | money }}), code:liquid ({% if customer %}), Collection, Customer (+3 more)
+Nodes (11): Array, code:liquid ({{ 4.567 | round: 2 }}       → 4.57), code:liquid ({{ array | first }} | {{ array | last }} | {{ array | size }), code:liquid ({{ image | image_url: width: 800 }}), code:liquid ({{ 'style.css' | asset_url | stylesheet_tag }}), code:liquid ({{ 'hello' | upcase }}        → HELLO), 🔧 FILTROS ESSENCIAIS, Imagem (Moderna — Recomendada) (+3 more)
 
 ### Community 35 - "Community 35"
 Cohesion: 0.18
-Nodes (11): Array, code:liquid ({{ 4.567 | round: 2 }}       → 4.57), code:liquid ({{ array | first }} | {{ array | last }} | {{ array | size }), code:liquid ({{ image | image_url: width: 800 }}), code:liquid ({{ 'style.css' | asset_url | stylesheet_tag }}), code:liquid ({{ 'hello' | upcase }}        → HELLO), 🔧 FILTROS ESSENCIAIS, Imagem (Moderna — Recomendada) (+3 more)
+Nodes (11): Cart, code:liquid ({{ shop.name }} {{ shop.email }} {{ shop.domain }}), code:liquid ({{ product.title }} {{ product.description }} {{ product.ven), code:liquid ({{ collection.title }} {{ collection.products_count }}), code:liquid ({{ cart.item_count }} {{ cart.total_price | money }}), code:liquid ({% if customer %}), Collection, Customer (+3 more)
 
 ### Community 36 - "Community 36"
 Cohesion: 0.18
@@ -449,11 +449,11 @@ Nodes (6): 🚫 Anti-Patterns (O que NÃO fazer), 🧠 Core Reasoning (O Cérebr
 
 ### Community 61 - "Community 61"
 Cohesion: 0.25
-Nodes (8): 5. TOKENS UNIVERSAIS DE ELITE, Border Radius por Personalidade, code:css (/* ── LUXO AUTOMOTIVO ── */), code:css (/* Nível 1 — sutil (Apple, Wise) */), code:css (--radius-zero:    0px;       /* SpaceX, Tesla — zero concess), Paletas Extraídas por Categoria, Sombras e Elevação Padrão, Tipografia de Elite por Categoria
+Nodes (8): 1. VISUAL LUXO, 🚗 BMW, code:css (--bg-primary: #000000;), code:css (--bg: #000000;), 🏎️ Ferrari, 🐂 Lamborghini, 🚀 SpaceX, ⚡ Tesla
 
 ### Community 62 - "Community 62"
 Cohesion: 0.25
-Nodes (8): 1. VISUAL LUXO, 🚗 BMW, code:css (--bg-primary: #000000;), code:css (--bg: #000000;), 🏎️ Ferrari, 🐂 Lamborghini, 🚀 SpaceX, ⚡ Tesla
+Nodes (8): 5. TOKENS UNIVERSAIS DE ELITE, Border Radius por Personalidade, code:css (/* ── LUXO AUTOMOTIVO ── */), code:css (/* Nível 1 — sutil (Apple, Wise) */), code:css (--radius-zero:    0px;       /* SpaceX, Tesla — zero concess), Paletas Extraídas por Categoria, Sombras e Elevação Padrão, Tipografia de Elite por Categoria
 
 ### Community 63 - "Community 63"
 Cohesion: 0.25
@@ -493,11 +493,11 @@ Nodes (5): 💾 1. Automação de Documentação (/save), 🧹 2. Linting de San
 
 ### Community 72 - "Community 72"
 Cohesion: 0.29
-Nodes (7): 7. 🎯 AUDITOR TÉCNICO — Aplicabilidade nos Projetos, code:block15 (Nexus Luxury    DASHBOARD ADS), DASHBOARD DE ADS (Facebook Ads Analytics), 🔁 Matriz de Cruzamento — O Que Usar Onde, MR. CAVALHEIROS (E-commerce de Moda Masculina Premium), Nexus Luxury (E-commerce de Moda Masculina Premium), 📊 Pontuação por Projeto
+Nodes (7): 2. MINIMALISMO TECH, 🍎 Apple, code:css (box-shadow: 0 4px 24px rgba(0,0,0,0.08);), code:css (background: #FFFFFF; color: #000000;), 🔄 Replicate, 📧 Resend, ▲ Vercel
 
 ### Community 73 - "Community 73"
 Cohesion: 0.29
-Nodes (7): 2. MINIMALISMO TECH, 🍎 Apple, code:css (box-shadow: 0 4px 24px rgba(0,0,0,0.08);), code:css (background: #FFFFFF; color: #000000;), 🔄 Replicate, 📧 Resend, ▲ Vercel
+Nodes (7): 7. 🎯 AUDITOR TÉCNICO — Aplicabilidade nos Projetos, code:block15 (Nexus Luxury    DASHBOARD ADS), DASHBOARD DE ADS (Facebook Ads Analytics), 🔁 Matriz de Cruzamento — O Que Usar Onde, MR. CAVALHEIROS (E-commerce de Moda Masculina Premium), Nexus Luxury (E-commerce de Moda Masculina Premium), 📊 Pontuação por Projeto
 
 ### Community 74 - "Community 74"
 Cohesion: 0.48
@@ -509,15 +509,15 @@ Nodes (5): 1. Hardened .npmrc (fendo pattern), 2. Zero Runtime Deps, 3. Cross-Pl
 
 ### Community 76 - "Community 76"
 Cohesion: 0.29
-Nodes (7): code:liquid ({% if product.available %}), code:liquid ({% if product.price > 1000 and product.available %}), code:liquid ({% for product in collection.products limit: 4 offset: 2 %}), Condicionais, 🔀 CONTROLE DE FLUXO, For Loop, Operadores
+Nodes (7): Blocks (Drag & Drop no Editor), code:liquid ({% render 'product-card' %}), code:liquid ({% schema %}), code:liquid ({% schema %}), Render (Use SEMPRE em vez de include), Section com Schema, 🧩 SNIPPETS & SECTIONS
 
 ### Community 77 - "Community 77"
 Cohesion: 0.29
-Nodes (7): Blocks (Drag & Drop no Editor), code:liquid ({% render 'product-card' %}), code:liquid ({% schema %}), code:liquid ({% schema %}), Render (Use SEMPRE em vez de include), Section com Schema, 🧩 SNIPPETS & SECTIONS
+Nodes (7): 🏗️ ARQUITETURA DO TEMA, code:block1 (Layout (theme.liquid) → Template (product.json) → Sections →), code:block2 (theme/), code:liquid (<!DOCTYPE html>), Estrutura de Diretórios, Hierarquia de Componentes, Layout Base (theme.liquid)
 
 ### Community 78 - "Community 78"
 Cohesion: 0.29
-Nodes (7): 🏗️ ARQUITETURA DO TEMA, code:block1 (Layout (theme.liquid) → Template (product.json) → Sections →), code:block2 (theme/), code:liquid (<!DOCTYPE html>), Estrutura de Diretórios, Hierarquia de Componentes, Layout Base (theme.liquid)
+Nodes (7): code:liquid ({% if product.available %}), code:liquid ({% if product.price > 1000 and product.available %}), code:liquid ({% for product in collection.products limit: 4 offset: 2 %}), Condicionais, 🔀 CONTROLE DE FLUXO, For Loop, Operadores
 
 ### Community 79 - "Community 79"
 Cohesion: 0.29
@@ -548,52 +548,52 @@ Cohesion: 0.29
 Nodes (6): 🗺️ Arquitetura Visual, 📊 DashboardMobi — Painel de Controle Real Estate, 🔗 Links Relacionados, 🎯 Objetivo, 🛠️ Stack Técnica, 📝 Workflow (Sincronização)
 
 ### Community 86 - "Community 86"
-Cohesion: 0.53
-Nodes (4): Ecossistema de Dados | 📊, Governança e Regras | 🛡️, Memória Evolutiva (Skills Aprendidas) | 🧠, Projetos e Templates (Growth) | 🚀
-
-### Community 87 - "Community 87"
 Cohesion: 0.33
 Nodes (4): ⚖️ Últimas 3 Decisões Críticas de Design, 🔥 Nexus Hot State, 🎯 Próximos Passos, 🚀 Status Atual da Sprint
 
-### Community 88 - "Community 88"
+### Community 87 - "Community 87"
 Cohesion: 0.33
 Nodes (6): 1.1 Cascade de Fontes (ordem de prioridade), 1.2 Comandos de Execução, 1.3 Schema de Output da Pesquisa, code:python (# Pesquisa completa (com credenciais DataForSEO)), code:json ({), MÓDULO 1 — PIPELINE DE PESQUISA (Data Layer)
 
-### Community 89 - "Community 89"
+### Community 88 - "Community 88"
 Cohesion: 0.33
 Nodes (6): 6.1 Hub & Spoke Architecture, 6.2 Flags de Oportunidade, 6.3 Linking para Map Embed (Local SEO), code:block7 (Hub Page (ex: "ATL Airport Parking")), code:block8 (QDD_SIGNAL: HIGH_CONFIDENCE_TAKEOVER), MÓDULO 6 — LINKS INTERNOS & CANÔNICOS
 
-### Community 90 - "Community 90"
+### Community 89 - "Community 89"
 Cohesion: 0.33
 Nodes (6): 3. UX DE ENGAJAMENTO, 🏠 Airbnb, code:css (.card {), 💜 Lovable, 🎵 Spotify, 🚕 Uber
 
-### Community 91 - "Community 91"
+### Community 90 - "Community 90"
 Cohesion: 0.4
 Nodes (6): 8. CSS QUICK-START — IMPLEMENTAÇÃO IMEDIATA, code:css (:root {), code:css (:root {), Para Dashboard de Ads (Emerald Dark Data), Para Mr. Cavalheiros (Luxo Editorial), Para Nexus Luxury (Luxo Editorial)
 
-### Community 92 - "Community 92"
+### Community 91 - "Community 91"
 Cohesion: 0.33
 Nodes (4): 🛠️ Ferramentas Globais Instaladas e Comandos Rápidos, 🚀 Metodologia de Uso, 🧠 Skill_Anthropic_Global_Suite_V5, Visão Geral
 
-### Community 93 - "Community 93"
+### Community 92 - "Community 92"
 Cohesion: 0.33
 Nodes (4): code:markdown (## [Nome do Projeto - Ex: Dashboard Financeiro]), Exemplo de Preenchimento (Template Base), O Que Colocar Aqui, 📂 Seus Projetos Ativos
 
-### Community 94 - "Community 94"
+### Community 93 - "Community 93"
 Cohesion: 0.33
 Nodes (4): 🧠 Arquitetura Visual e Automação, 🚀 Projeto: Landing Page Exemplo (Alta Conversão), 📌 Skills Globais Ativadas (O Cérebro do Projeto), 📝 Tarefas Pendentes (Checklist da IA)
 
-### Community 95 - "Community 95"
+### Community 94 - "Community 94"
 Cohesion: 0.33
 Nodes (4): code:markdown (## [Nome da Campanha / Funil]), Estratégias e Funis de Crescimento, Exemplo de Preenchimento (Template Base), O Que Colocar Aqui
 
-### Community 96 - "Community 96"
+### Community 95 - "Community 95"
 Cohesion: 0.33
 Nodes (4): code:markdown (## [Nome do Playbook / Checklist]), Exemplo de Preenchimento (Template Base), O Que Colocar Aqui, Playbooks de Otimização
 
-### Community 97 - "Community 97"
+### Community 96 - "Community 96"
 Cohesion: 0.33
 Nodes (5): 🤖 Alavanca AI: Blueprint e Estrutura de Agentes, 🧠 Arquivos Avançados (Personalidade e Rotina), 🏢 Hierarquia e Papéis da Equipe, 🔗 Padrões de Comunicação Interna, 🌐 Visão Geral
+
+### Community 97 - "Community 97"
+Cohesion: 0.53
+Nodes (4): Ecossistema de Dados | 📊, Governança e Regras | 🛡️, Memória Evolutiva (Skills Aprendidas) | 🧠, Projetos e Templates (Growth) | 🚀
 
 ### Community 98 - "Community 98"
 Cohesion: 0.33
@@ -629,11 +629,11 @@ Nodes (5): 4.1 Title Tag, 4.2 Meta Description, 4.3 URL, 4.4 Image Alt Text, MÓ
 
 ### Community 106 - "Community 106"
 Cohesion: 0.4
-Nodes (5): 6. PADRÕES DE COMPONENTE EXTRAÍDOS, Card Pattern — DNA de Cada Marca, code:block13 (ARQUÉTIPO 1: CINEMATIC (Ferrari/SpaceX/Tesla)), code:css (/* Spotify card — dark immersive */), Hero Section — 3 Arquétipos
+Nodes (3): 9. FONTES & REFERÊNCIAS, 📑 ÍNDICE RÁPIDO, 💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction
 
 ### Community 107 - "Community 107"
 Cohesion: 0.4
-Nodes (3): 9. FONTES & REFERÊNCIAS, 📑 ÍNDICE RÁPIDO, 💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction
+Nodes (5): 6. PADRÕES DE COMPONENTE EXTRAÍDOS, Card Pattern — DNA de Cada Marca, code:block13 (ARQUÉTIPO 1: CINEMATIC (Ferrari/SpaceX/Tesla)), code:css (/* Spotify card — dark immersive */), Hero Section — 3 Arquétipos
 
 ### Community 108 - "Community 108"
 Cohesion: 0.4
@@ -681,35 +681,35 @@ Nodes (4): 2.1 Sinais de Intenção (ordem de avaliação), 2.2 Regra de Aplica�
 
 ### Community 119 - "Community 119"
 Cohesion: 0.5
-Nodes (4): File Properties Reference, Properties, The `this` Keyword, Three Types of Properties
+Nodes (4): code:yaml (# Single filter), Filter Operators, Filter Structure, Filter Syntax
 
 ### Community 120 - "Community 120"
 Cohesion: 0.5
-Nodes (4): code:yaml (# Single filter), Filter Operators, Filter Structure, Filter Syntax
+Nodes (4): File Properties Reference, Properties, The `this` Keyword, Three Types of Properties
 
 ### Community 121 - "Community 121"
 Cohesion: 0.5
-Nodes (4): 3. FRAMEWORK PAS — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
+Nodes (4): 8. GUIA DE SELEÇÃO POR TEMPERATURA DE AUDIÊNCIA, 🧊 Audiência Fria (não conhece a marca), 🌡️ Audiência Morna (engajou mas não converteu), 🔥 Audiência Quente (clientes passados, alta intenção)
 
 ### Community 122 - "Community 122"
 Cohesion: 0.5
-Nodes (4): 8. GUIA DE SELEÇÃO POR TEMPERATURA DE AUDIÊNCIA, 🧊 Audiência Fria (não conhece a marca), 🌡️ Audiência Morna (engajou mas não converteu), 🔥 Audiência Quente (clientes passados, alta intenção)
+Nodes (4): 2. FRAMEWORK AIDA — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
 
 ### Community 123 - "Community 123"
 Cohesion: 0.5
-Nodes (4): 6. FRAMEWORK FAB — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
+Nodes (4): 3. FRAMEWORK PAS — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
 
 ### Community 124 - "Community 124"
 Cohesion: 0.5
-Nodes (4): 2. FRAMEWORK AIDA — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
+Nodes (4): 5. FRAMEWORK 4P — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
 
 ### Community 125 - "Community 125"
 Cohesion: 0.5
-Nodes (4): 5. FRAMEWORK 4P — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
+Nodes (4): 6. FRAMEWORK FAB — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
 
 ### Community 126 - "Community 126"
 Cohesion: 0.5
-Nodes (4): 11.1 Padrões de Gancho para Vídeo (primeiros 1-3s), 11.2 Sinais de Fadiga Criativa, 11.3 Cadência de Refresh por Plataforma, 11. GANCHOS DE RETENÇÃO — FRAMEWORK DE DIVERSIDADE
+Nodes (4): 7. FRAMEWORK Star-Story-Solution — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
 
 ### Community 127 - "Community 127"
 Cohesion: 0.5
@@ -717,7 +717,7 @@ Nodes (4): 4. FRAMEWORK BAB — Templates Prontos, Exemplos Prontos, Regras DO/D
 
 ### Community 128 - "Community 128"
 Cohesion: 0.5
-Nodes (4): 7. FRAMEWORK Star-Story-Solution — Templates Prontos, Exemplos Prontos, Regras DO/DON'T, Templates por Plataforma
+Nodes (4): 11.1 Padrões de Gancho para Vídeo (primeiros 1-3s), 11.2 Sinais de Fadiga Criativa, 11.3 Cadência de Refresh por Plataforma, 11. GANCHOS DE RETENÇÃO — FRAMEWORK DE DIVERSIDADE
 
 ### Community 129 - "Community 129"
 Cohesion: 0.5
@@ -727,7 +727,7 @@ Nodes (4): 13. FRAMEWORK DE CONCEITO DE CAMPANHA, code:markdown (### Conceito [N
 Cohesion: 0.5
 Nodes (4): Callouts Reference, Embeds Reference, Obsidian Markdown Skill, Properties Reference
 
-### Community 132 - "Community 132"
+### Community 131 - "Community 131"
 Cohesion: 0.67
 Nodes (3): Advanced Checks (25-38), Critical Pass/Fail (primeiros 24), MÓDULO 9 — QUALITY CHECKLIST (38 itens — threshold 30/38)
 
@@ -740,24 +740,24 @@ Cohesion: 0.67
 Nodes (3): MetaScale, Skill: Gestor de Tráfego Pago & Inteligência Meta Ads, Skill_Supabase_Sync
 
 ## Knowledge Gaps
-- **847 isolated node(s):** `📗 Diretrizes de Elite`, `📂 Protocolo de Inicialização e Vínculo (Obsidian MCP)`, `📍 Regras Estritas de Localização (Anti-Erro de Arquitetura)`, `🧠 Intelligence & Standards`, `📂 Estrutura do Cofre` (+842 more)
+- **852 isolated node(s):** `🎯 Identidade e Propósito Base`, `📂 Arquitetura do Monorepo (A Regra de Ouro)`, `📍 Estrutura do Cofre e Manutenção de Conhecimento`, `code:bash (# Como acionar o CEO via bash script)`, `🧠 Protocolo de Evolução Contínua` (+847 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **27 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
+- **Why does `💎 Skill_HighEnd_UI_V5 — Elite Design Language Extraction` connect `Community 106` to `Community 72`, `Community 73`, `Community 43`, `Community 107`, `Community 89`, `Community 90`, `Community 61`, `Community 62`?**
+  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Why does `✍️ Copy & Ganchos — Frameworks de Escrita Persuasiva` connect `Community 58` to `Community 128`, `Community 129`, `Community 101`, `Community 115`, `Community 121`, `Community 122`, `Community 123`, `Community 124`, `Community 125`, `Community 126`, `Community 127`?**
   _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **Why does `Skill_Liquid_Mastery_V5.md` connect `Community 108` to `Community 34`, `Community 35`, `Community 76`, `Community 77`, `Community 78`, `Community 21`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **Why does `Skill_SEO_OnPage_V5 — Nexus SEO Engine` connect `Community 42` to `Community 132`, `Community 105`, `Community 52`, `Community 117`, `Community 118`, `Community 88`, `Community 89`, `Community 59`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **What connects `📗 Diretrizes de Elite`, `📂 Protocolo de Inicialização e Vínculo (Obsidian MCP)`, `📍 Regras Estritas de Localização (Anti-Erro de Arquitetura)` to the rest of the system?**
-  _847 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `🎯 Identidade e Propósito Base`, `📂 Arquitetura do Monorepo (A Regra de Ouro)`, `📍 Estrutura do Cofre e Manutenção de Conhecimento` to the rest of the system?**
+  _852 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.04 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
