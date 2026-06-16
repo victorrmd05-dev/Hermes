@@ -17,3 +17,7 @@ desktop.ini
 
 # Local state/database directories
 data/
+
+# Environment variables
+.env
+.env.*
