@@ -6,6 +6,11 @@ Este repositório é o cérebro operacional e o Monorepo do **Hermes OS** em sin
 
 "Sempre que houver dúvida sobre o estado do projeto ou arquitetura, consulte a documentação oficial na pasta `wiki/` ou os metadados do motor Graphify."
 
+> **Documentação Base da Arquitetura (Leitura Obrigatória para Contexto):**
+> - [[01_Alavanca_AI_Blueprint_e_Agentes]]: Hierarquia e responsabilidades do esquadrão de agentes.
+> - [[02_Configuracao_Paperclip_e_Skills]]: Lógicas de configuração e formatação exigidas pelo Paperclip.
+> - [[03_Infraestrutura_e_Integracao_Hermes]]: Dados de hospedagem, VPS e integração MCP com o Hermes Agent.
+
 ---
 
 ## 🎯 Identidade e Propósito Base
