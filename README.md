@@ -6,8 +6,8 @@
 
 ## 🚀 Como Instalar e Abrir no Obsidian
 
-1. **Faça o Download:** Você pode clonar este repositório via terminal usando `git clone https://github.com/Thuglife22741/Nexus_Starter_Kit.git` OU clicar no botão verde **Code > Download ZIP** no canto superior direito desta página e extrair a pasta no seu computador.
-2. **Abra no Obsidian:** Baixe e instale o [Obsidian](https://obsidian.md/), abra o aplicativo, clique em **"Open folder as vault"** (Abrir pasta como cofre) e selecione a pasta `Nexus_Starter_Kit` que você extraiu.
+1. **Faça o Download:** Você pode clonar este repositório via terminal usando `git clone https://github.com/victorrmd05-dev/Hermes.git` OU clicar no botão verde **Code > Download ZIP** no canto superior direito desta página e extrair a pasta no seu computador.
+2. **Abra no Obsidian:** Baixe e instale o [Obsidian](https://obsidian.md/), abra o aplicativo, clique em **"Open folder as vault"** (Abrir pasta como cofre) e selecione a pasta `Hermes` que você extraiu.
 3. **Siga a Ativação:** Leia a seção abaixo com atenção para ativar os superpoderes do cofre!
 
 ---
