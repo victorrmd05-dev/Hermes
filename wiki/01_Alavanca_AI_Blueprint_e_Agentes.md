@@ -18,16 +18,15 @@ Abaixo está o organograma da agência. Cada agente possui seu próprio `agent.m
 
 | Nível | Agente | Responsabilidade Principal |
 | :---: | :--- | :--- |
-| **00** | **Paperclip CEO** | Orquestrador mestre do sistema; ponte entre o usuário (ou Hermes Agent) e a infraestrutura. |
-| **01** | **Alavanca CEO** | Líder operacional. Foca em velocidade, ROI e delegação. Pede relatórios e gerencia as frentes. |
-| **02** | **CTO** | Gerencia infraestrutura, banco de dados (Supabase) e APIs (Scrape Creators, etc). Dá suporte técnico. |
-| **03** | **Minerador** | Busca ofertas validadas e lucrativas no Meta Ads, preenchendo o banco de dados. |
-| **04** | **Copywriting** | Escreve anúncios e páginas focadas em persuasão e gatilhos emocionais. |
-| **05** | **Revisor** | Controle rigoroso de qualidade e compliance, evitando bloqueios de anúncio. |
-| **06** | **Designer-Webmaster** | Criação de layouts responsivos, design e publicação de landing pages de alta conversão. |
-| **07** | **Video-Maker** | Edição de e criativos visuais (utilizando APIs visuais como Higgsfield). |
-| **08** | **Gestor-Meta-Ads** | Compra de tráfego pago, análise de dados de campanha e otimização agressiva de ROI. |
-| **09** | **SEO** | Otimização orgânica (On-page/Off-page), palavras-chave e ranqueamento técnico. |
+| **00** | **CEO (Paperclip)** | O orquestrador principal de todo o ecossistema do Paperclip. |
+| **01** | **CEO Alavanca AI** | O CEO e líder da agência de inteligência artificial. Fornece diretrizes e aprovações de alto nível. (Representa o usuário do sistema). |
+| **02** | **CTO** | Diretor de infraestrutura técnica, responsável pelo gerenciamento de chaves de API e configuração das conexões. Dá suporte técnico aos outros agentes. |
+| **03** | **Minerador** | Focado na mineração de infoprodutos e ofertas validadas através da análise de dados usando scrapers de meta ads. Alimenta o banco de dados inicial (`workflow_mineracao`). |
+| **04** | **Copywriting** | Especialista em escrita persuasiva. Responsável por criar as copys para as páginas de vendas e anúncios, usando os produtos aprovados no dashboard. Escreve os resultados na tabela `workflow_copywriting`. |
+| **05** | **Revisor** | Controle de qualidade. Responsável pela revisão rigorosa das copys geradas, garantindo aderência aos padrões da Alavanca AI e validando a versão final junto com o CEO Alavanca AI. |
+| **06** | **Designer-Webmaster** | Especialista em criação web. Responsável por traduzir as copys aprovadas no desenvolvimento e no deploy de landing pages funcionais e de alta conversão. |
+| **07** | **Video-Maker** | Especialista em criativos visuais. Usa a API do Higgsfield para a criação de vídeos para os anúncios com base nos ganchos emocionais da copy aprovada. |
+| **08** | **Gestor-Meta-Ads** | Especialista em tráfego pago. Responsável pela gestão, criação e otimização das campanhas de tráfego utilizando os criativos e as landing pages produzidas pelos outros agentes. |
 
 ---
 
