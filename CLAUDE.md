@@ -1,8 +1,8 @@
-# 🛡️ Nexus Core OS
+# 🛡️ Hermes OS
 
-`Diretório Raiz de Inteligência: [C:\Users\cerqu\Documents\Obsidian  work\Nexus_Starter_Kit]`
+`Diretório Raiz de Inteligência: [C:\Users\cerqu\Documents\Obsidian\Hermes]
 
-Este repositório contém o cérebro operacional do **Nexus Core OS**. Toda codificação e automação deve seguir as diretrizes de engenharia de elite e os motores de paridade atualizados.
+Este repositório contém o cérebro operacional do **Hermes OS**. Toda codificação e automação deve seguir as diretrizes de engenharia de elite e os motores de paridade atualizados.
 
 "Sempre que houver dúvida sobre padrões de codificação ou histórico de decisões, utilize a ferramenta `search_notes` ou `get_note` do Obsidian MCP para consultar o diretório `00_Engine_Claude`."
 
