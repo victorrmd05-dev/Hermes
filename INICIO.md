@@ -8,4 +8,3 @@
 *E X P E R T I A · A C A D E M Y Parte 3 — Criar uma nota inicial*
 
 
-Sera só imaginação , será 
