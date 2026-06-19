@@ -16,8 +16,6 @@ Para garantir que a IA execute este projeto com o mais alto nível, as seguintes
 
 - [[🎨 Skill_Frontend_Design_Elite]] — Para garantir um design premium, glassmorphism e micro-interações elegantes.
 - [[🖋️ Skill_Luxury_Copywriting_V5]] — Para escrever textos persuasivos focados em escassez, exclusividade e conversão máxima.
-- [[✅ Skill_SEO_OnPage_V5]] — Para garantir nota máxima no Google PageSpeed (Vitals 100/100), marcação semântica e acessibilidade.
-- [[🛍️ Skill_Performance_V5]] — Para garantir que a página carregue instantaneamente (lazy loading de imagens e otimização de I/O).
 
 ---
 

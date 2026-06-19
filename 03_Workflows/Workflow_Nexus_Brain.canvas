@@ -1,15 +1,11 @@
 {
 	"nodes":[
 		{"id":"c2eee0cdb056d4a6","type":"file","file":"CLAUDE.md","x":-1200,"y":140,"width":400,"height":500,"color":"3"},
-		{"id":"bba9693851737062","type":"file","file":"01_Global_Skills/⚡Elite_Claw_Skills.md","x":-280,"y":640,"width":400,"height":400},
 		{"id":"44c6b47eed001e00","type":"file","file":"01_Global_Skills/🪨 Skill Caveman Token Optimizer.md","x":-1200,"y":920,"width":400,"height":400,"color":"#6f0c9d"},
-		{"id":"3de69cd8d30a7aee","type":"file","file":"01_Global_Skills/⚡Elite_Claw_V3_Turbo.md","x":-280,"y":-60,"width":400,"height":400},
-		{"id":"cf9e0942088f596d","type":"file","file":"01_Global_Skills/🎨 Skill_Frontend_Design_Elite.md","x":480,"y":-60,"width":400,"height":400,"color":"#097743"}
+		{"id":"cf9e0942088f596d","type":"file","file":"01_Global_Skills/🎨 Skill_Frontend_Design_Elite.md","x":-380,"y":190,"width":400,"height":400,"color":"#097743"}
 	],
 	"edges":[
 		{"id":"f123efd115156494","fromNode":"c2eee0cdb056d4a6","fromSide":"bottom","toNode":"44c6b47eed001e00","toSide":"top"},
-		{"id":"c1df57e31a7413c6","fromNode":"3de69cd8d30a7aee","fromSide":"right","toNode":"cf9e0942088f596d","toSide":"left"},
-		{"id":"401824007da22d99","fromNode":"3de69cd8d30a7aee","fromSide":"left","toNode":"c2eee0cdb056d4a6","toSide":"right"},
-		{"id":"51dae9b52e29d1a5","fromNode":"bba9693851737062","fromSide":"left","toNode":"c2eee0cdb056d4a6","toSide":"right"}
+		{"id":"3bf6390b2748791c","fromNode":"c2eee0cdb056d4a6","fromSide":"right","toNode":"cf9e0942088f596d","toSide":"left"}
 	]
 }
