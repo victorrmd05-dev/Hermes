@@ -3,6 +3,7 @@ name: dns-01-challenge-traefik-cloudflare
 description: Procedimento completo para configurar DNS-01 Challenge no Traefik (Coolify) com Cloudflare, permitindo certificados Let's Encrypt mesmo com proxy Cloudflare ativado (nuvem laranja).
 ---
 
+
 # DNS-01 Challenge no Traefik via Coolify + Cloudflare
 
 ## Quando usar
