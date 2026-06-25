@@ -32,7 +32,7 @@ Isso criava tarefas fantasmas: apareciam no board mas **sem assignee e sem proje
 Isso já cria automaticamente com:
 - `assigneeAgentId` = CEO
 - `projectId` = Onboarding
-- `status` = backlog
+- `status` = todo
 
 ### Via API direta (curl)
 
@@ -47,7 +47,7 @@ curl -s -X POST "https://paperclip.zedocarro.cloud/api/companies/$COMPANY_ID/iss
   -d '{
     "title": "Título da tarefa",
     "description": "Descrição detalhada",
-    "status": "backlog",
+    "status": "todo",
     "assigneeAgentId": "cb30b0a3-a7c7-4eb7-a468-7313ae8edf50",
     "projectId": "5938ba10-69e5-4025-a429-3571a8607a8a"
   }'
